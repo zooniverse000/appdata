@@ -1,0 +1,5514 @@
+
+{
+  "Animal" :  [
+    {
+      "name" : "Lion",
+      "description" : "Lions, the mighty kings of the animal kingdom, have golden fur and loud roars.",
+      "id" : "0"
+
+    } ,
+    {
+      "name" : "Deer",
+      "description" : "A deer is a large wild animal that eats grass and leaves. A male deer usually has large, branching horns.",
+      "id" : "1"
+
+    } ,
+    {
+      "name" : "Elephant",
+      "description" : "Elephants are the world's largest land mammals, with males weighing up to six tonnes on average",
+      "id" : "2"
+    } ,
+    {
+      "name" : "Horse",
+      "description" : "Horse have four powerful legs, two eyes, a nose, ears and a tail.",
+      "id" : "3"
+    },
+
+
+    {
+      "name" : "Monkey",
+      "description" : "Monkeys are very agile and intelligent animals. Monkeys are intelligent and playful, They can jump from one tree",
+      "id" : "4"
+    },
+
+    {
+      "name" : "Cheetah",
+      "description" : "The cheetah is an animal of the cat species.",
+      "id" : "5"
+    },
+
+    {
+      "name" : "Zebra",
+      "description" : "Zebras are herbivorous animals that belong to the equine family,.",
+      "id" : "6"
+    },
+
+    {
+      "name" : "Fox",
+      "description" : "Foxes are small to medium-sized, omnivorous mammals belonging to several genera of the family Canidae.",
+      "id" : "7"
+    },
+
+
+    {
+      "name" : "Cow",
+      "description" : "A cow is a large female animal that is kept on farms for its milk",
+      "id" : "8"
+    },
+
+    {
+      "name" : "Camel",
+      "description" : " Camel is called Ship of Desert.",
+      "id" : "9"
+    },
+
+
+    {
+      "name" : "Moose",
+      "description" : "Moose,largest member of the deer family Cervidae.",
+      "id" : "10"
+    },
+
+    {
+      "name" : "Crocodile",
+      "description" : "Crocodiles have four legs, two eyes, and a thick tail.",
+      "id" : "11"
+    },
+
+    {
+      "name" : "Rabbit",
+      "description" : " A rabbit is a small animal with long ears.",
+      "id" : "12"
+    },
+
+    {
+      "name" : "Peacock",
+      "description" : "The peacock is one of the most unique-looking birds in the world.",
+      "id" : "13"
+    },
+
+    {
+      "name" : "Hummingbird",
+      "description" : "Hummingbirds, which are little, colourful birds.",
+      "id" : "14"
+    },
+
+
+    {
+      "name" : "Armadillo",
+      "description" : "Armadillos are barrel-shaped animals covered with natural armor.",
+      "id" : "15"
+    },
+
+
+    {
+      "name" : "Tiger",
+      "description" : "Tiger is a wild animal and popularly known as the national animal of India.",
+      "id" : "16"
+    },
+
+
+    {
+      "name" : "Giraffe",
+      "description" : "Giraffe is the tallest animal.",
+      "id" : "17"
+    },
+
+    {
+      "name" : "Aardvark",
+      "description" : "Long-tongued termite eater with shoveling claws",
+      "id" : "18"
+    },
+
+
+    {
+      "name" : "Antelope",
+      "description" : "Graceful grazers, leaping across savannahs.",
+      "id" : "19"
+    },
+
+    {
+      "name" : "Badger",
+      "description" : "Fierce burrowers, honey and insect enthusiasts.",
+      "id" : "20"
+    },
+
+
+    {
+      "name": "Bat",
+      "description": "Bat are flying mammals of the order Chiroptera.",
+      "id": "21"
+    },
+
+    {
+      "name" : "Bear",
+      "description" : "Bears are solitary animals, considered as the most asocial among all carnivoras. ",
+      "id" : "22"
+    },
+
+    {
+      "name" : "Beluga whale",
+      "description" : "Belugas are small, toothed whales.",
+      "id" : "23"
+    },
+
+    {
+      "name" : "Chimpanzee",
+      "description" : "Chimpanzees are great apes found across central and West Africa. ",
+      "id" : "24"
+    },
+
+    {
+      "name" : "Dingo",
+      "description" : " The Dingo is Australia's wild dog.",
+      "id" : "25"
+    },
+
+    {
+      "name" : "Dolphins",
+      "description" : "Dolphins are considered one of the world's most intelligent animals,",
+      "id" : "26"
+    },
+
+    {
+      "name" : "Flamingo",
+      "description" : "Flamingos have slender legs, long, graceful necks, large wings, and short tails.",
+      "id" : "27"
+    },
+
+
+    {
+      "name" : "Gorilla",
+      "description" : "Gorilla is the largest of all apes and is very gentle in nature.",
+      "id" : "28"
+    },
+
+
+    {
+      "name" : "Hedgehog",
+      "description" : "Hedgehogs are small mammals that live in the wild in Europe, Africa, and Asia.",
+      "id" : "29"
+    },
+
+    {
+      "name" : "Hippopotamus",
+      "description" : "Territorial giants, wallowing in muddy rivers.",
+      "id" : "30"
+    },
+
+    {
+      "name" : "Hyena",
+      "description" : "Hyenas are mammals of Africa and Asia.",
+      "id" : "31"
+    },
+
+    {
+      "name" : "Jaguar",
+      "description" : "Jaguars are the largest of South America's big cats and the third largest cats in the world.",
+      "id" : "32"
+    },
+
+
+    {
+      "name" : "Kangaroo",
+      "description" : "Kangaroos are four marsupials from the family Macropodidae. ",
+      "id" : "33"
+    },
+
+    {
+      "name" : "Koala",
+      "description" : "Koala, tree-dwelling marsupial of coastal eastern and southern Australia.",
+      "id" : "34"
+    },
+
+
+
+
+    {
+      "name" : "Narwhal",
+      "description" : "Narwhals are a species of whale with a horn.",
+      "id": "35"
+    },
+
+    {
+      "name" : "Orangutan",
+      "description" : "Orang-utans are known as gardeners of the forest.",
+      "id": "36"
+    },
+
+
+    {
+      "name" : "Otter",
+      "description" : "Otters are very energetic and playful.",
+      "id": "37"
+    },
+
+    {
+      "name" : "Panda",
+      "description" : "The giant panda, a black-and-white bear, has a body typical of bears.",
+      "id": "38"
+    },
+
+    {
+      "name" : "Polar Bear",
+      "description" : " Polar bear, great white northern bear found throughout the Arctic region.",
+      "id": "39"
+    },
+
+    {
+      "name" : "Rhinoceros",
+      "description" : "Rhinoceroses are large, heavy animals.",
+      "id": "40"
+    },
+    {
+      "name" : "Seal",
+      "description" : "Seals are a group of three families and 33 species of web-footed aquatic mammals.",
+      "id": "41"
+    },
+
+
+    {
+      "name" : "Sloth",
+      "description" : "Sloths live in the tropical forests of Central and South America.",
+      "id": "42"
+    },
+
+
+    {
+      "name" : "Wolf",
+      "description" : "wolf, any of two species of wild doglike carnivores.",
+      "id": "43"
+    },
+
+    {
+      "name" : "Baboon",
+      "description" : " Baboons belong to a large family of Old World monkeys",
+      "id": "44"
+    },
+
+    {
+      "name" : "Buffalo",
+      "description" : "Buffalo is one of the most useful animals in the world. ",
+      "id": "45"
+    },
+
+    {
+      "name" : "Blue Jay",
+      "description" : "Vibrantly colored bird with blue and white plumage, often found in North America.",
+      "id": "46"
+    },
+
+    {
+      "name" : "Bison",
+      "description" : "A bison is a large bovine in the genus Bison within the tribe Bovini.",
+      "id": "47"
+    },
+
+
+    {
+      "name" : "Barracuda",
+      "description" : "A predatory fish known for its sleek, torpedo-shaped body and sharp teeth.",
+      "id": "48"
+    },
+
+    {
+      "name" : "Albatross",
+      "description" : "The albatross is an exceedingly large seabird, having a wingspan as much as 11 feet across.",
+      "id": "49"
+    },
+
+    {
+      "name" : "Cobra",
+      "description" : "Venomous snake known for its hood.",
+      "id": "50"
+    },
+
+    {
+      "name" : "Condor",
+      "description" : "They are the largest flying land birds in the Western Hemisphere.",
+      "id": "51"
+    },
+
+
+
+    {
+      "name" : "Lizard",
+      "description" : "Lizards are part of a group of animals known as reptiles.",
+      "id": "52"
+    },
+
+    {
+      "name" : "Alligator",
+      "description" : "An alligator, or colloquially gator, is a large reptile in the Crocodilia order in the genus Alligator of the family Alligatoridae.",
+      "id": "53"
+    },
+
+    {
+      "name" : "Sheep",
+      "description" : "Sheep is a domestic animal.",
+      "id": "54"
+    },
+
+
+    {
+      "name" : "Frog",
+      "description" : "Frogs are small animals that can jump very well",
+      "id": "55"
+    },
+
+    {
+      "name" : "Raccoon",
+      "description" : "On the prairies, raccoons are most abundant in woodlot and wetland areas. ",
+      "id": "56"
+    },
+
+    {
+      "name" : "Coyote",
+      "description" : "The coyote is a species of canine native to North America.",
+      "id": "57"
+    },
+
+    {
+      "name" : "Goat",
+      "description" : "Goat is a useful and a domestic animal which was tamed by humans from a very long time.",
+      "id": "68"
+    },
+    {
+      "name" : "Pig",
+      "description" : " A pig is a medium sized animal having pink, grey or brown skin.",
+      "id": "69"
+    },
+
+    {
+      "name" : "Salamander",
+      "description" : "A salamander is an amphibian with a slender body and a long tail.",
+      "id": "60"
+    },
+
+    {
+      "name" : "Skunk",
+      "description" : "Hog-nosed skunks are capable diggers and have powerfully built upper bodies, which allow them to climb in rough terrain.",
+      "id": "61"
+    },
+
+
+    {
+      "name" : "Anaconda",
+      "description" : "AThe green anaconda is the largest snake in the world,",
+      "id": "62"
+    },
+
+    {
+      "name" : "Octopus",
+      "description" : "Octopuses are sea animals famous for their rounded bodies, bulging eyes, and eight long arms.",
+      "id": "63"
+    },
+
+    {
+      "name" : "Duck",
+      "description" : "Ducks are generally smaller and shorter-necked than swans and geese,",
+      "id": "64"
+    },
+
+    {
+      "name" : "Python",
+      "description" : "Pythons are constrictors.",
+      "id": "65"
+    },
+
+    {
+      "name" : "Rhinoceros",
+      "description" : "Rhinoceroses are large, heavy animals with thick gray or brown skin, short legs, and one or two horns on their nose.",
+      "id": "66"
+    },
+
+    {
+      "name" : "Lobster",
+      "description" : "Lobsters are a family of marine crustaceans.",
+      "id": "67"
+    },
+
+    {
+      "name" : "Crab",
+      "description" : "Crabs are animals that live in water.",
+      "id": "68"
+    },
+
+    {
+      "name" : "Jellyfish",
+      "description" : "Jellyfish are sea animals with a soft, jellylike body and no bones.",
+      "id": "69"
+    },
+
+
+    {
+      "name" : "Seahorse",
+      "description" : "tiny fishes that are named for the shape of their head, which looks like the head of a tiny horse.",
+      "id": "70"
+    },
+
+
+    {
+      "name" : "Platypus",
+      "description" : "It has a “bill” and webbed feet like a duck and a flat tail like a beaver. ",
+      "id": "71"
+    },
+
+    {
+      "name" : "Mole",
+      "description" : "Moles are small mammals adapted to a subterranean lifestyle. ",
+      "id": "72"
+    },
+
+    {
+      "name" : "Hawk",
+      "description" : "Hawks are birds of prey, meaning that they hunt and kill animals for food.",
+      "id": "73"
+    },
+
+    {
+      "name" : "Kingfisher",
+      "description" : "Kingfishers are generally brightly colored birds that often fish for their food.",
+      "id": "74"
+    },
+
+    {
+      "name" : "Whale",
+      "description" : "Whales are large animals that live in water",
+      "id": "75"
+    },
+
+    {
+      "name" : "Grizzly bear",
+      "description" : "JThe grizzly bear, also known as the North American brown bear or simply grizzly.",
+      "id": "76"
+    },
+
+    {
+      "name" : "Ant",
+      "description" : "Ants are small insects that are found throughout the world.",
+      "id": "77"
+    },
+
+    {
+      "name" : "Spider",
+      "description" : "Spiders are air-breathing arthropods that have eight legs,",
+      "id": "78"
+    },
+
+    {
+      "name" : "Butterfly",
+      "description" : "A butterfly is a (usually) day-flying insect of the order Lepidoptera. ",
+      "id": "79"
+    },
+
+    {
+      "name" : "Bee",
+      "description" : "JBees are winged insects closely related to wasps and ants,",
+      "id": "80"
+    },
+    {
+      "name" : "Tasmanian Devil",
+      "description" : "The Tasmanian devil is a carnivorous marsupial of the family Dasyuridae. ",
+      "id": "81"
+    },
+
+    {
+      "name" : "Penguin",
+      "description" : "Penguins are specialized marine birds adapted to living at sea. ",
+      "id": "82"
+    },
+
+    {
+      "name" : "Sparrow",
+      "description" : "A sparrow is an omnivorous bird.",
+      "id": "83"
+    },
+
+    {
+      "name" : "Owl",
+      "description" : "All owls are carnivorous birds of prey and live on diets of insects, small rodents and lagomorphs.",
+      "id": "84"
+    },
+
+    {
+      "name" : "Shark",
+      "description" : "Sharks have a muscular, upturned tail and pointed fins.",
+      "id": "85"
+    },
+
+    {
+      "name" : "Parrot",
+      "description" : "The parrots are a broad order of more than 350 birds.",
+      "id": "86"
+    },
+
+    {
+      "name" : "Swan",
+      "description" : "Swans are birds of the genus Cygnus within the family Anatidae. ",
+      "id": "87"
+    },
+
+    {
+      "name" : "Eel",
+      "description" : "Eels are teleost fish.",
+      "id": "88"
+    },
+
+    {
+      "name" : "Scorpion",
+      "description" : "Scorpions are arachnids and have eight legs like their cousins—spiders, mites, and ticks.",
+      "id": "89"
+    },
+
+
+    {
+      "name" : "Ostriche",
+      "description" : "Ostriches are large flightless birds. ",
+      "id": "90"
+    },
+
+    {
+      "name" : "Squirrel",
+      "description" : "A squirrel is any of the small- to medium-sized rodents that belong to the family Sciuridae.",
+      "id": "91"
+    },
+
+    {
+      "name" : "Lemur",
+      "description" : "Lemurs are gentle and often social animals.",
+      "id": "92"
+    },
+
+    {
+      "name" : "Turtle",
+      "description" : "A turtle is a reptile that has a shell covering its body. ",
+      "id": "93"
+    },
+
+
+    {
+      "name" : "Axolotl",
+      "description" : "The axolotl is a kind of salamander found only in Mexico City, Mexico. ",
+      "id": "94"
+    },
+
+    {
+      "name" : "Quokka",
+      "description" : "The quokka's range is a small area of southwestern Australia. ",
+      "id": "95"
+    },
+
+
+    {
+      "name" : "Donkey",
+      "description" : "The donkey is a domesticated equine.",
+      "id": "96"
+    },
+
+
+    {
+      "name" : "Glaucus atlanticus",
+      "description" : "Found throughout the Atlantic, Pacific, and Indian Oceans in tropical and subtropical waters, ",
+      "id": "97"
+    },
+
+    {
+      "name" : "Hamster",
+      "description" : "Hamsters are stout-bodied, with a tail much shorter than their body length, ",
+      "id": "98"
+    },
+
+    {
+      "name" : "Leopard",
+      "description" : "The leopard is one of the five extant species in the genus Panthera.",
+      "id": "99"
+    },
+
+    {
+      "name" : "Dog",
+      "description" : "The dog is a domesticated descendant of the wolf.",
+      "id": "100"
+    },
+
+    {
+      "name" : "Cat",
+      "description" : "Cats are very beautiful and friendly animals.",
+      "id": "101"
+    },
+
+
+    {
+      "name" : "Panther",
+      "description" : "A black panther is the melanistic colour variant of the leopard and the jaguar.",
+      "id": "102"
+    },
+
+
+
+
+    {
+      "name" : "Porcupine",
+      "description" : "Porcupines are large rodents with coats of sharp spines, or quills, that protect them against predation.",
+      "id": "103"
+    },
+
+
+    {
+      "name" : "Hare",
+      "description" : "Hares and jackrabbits are mammals belonging to the genus Lepus..",
+      "id": "104"
+    },
+
+
+    {
+      "name" : "Hen",
+      "description" : "An adult female bird is called a hen, and a sexually immature female is called a pullet.",
+      "id": "105"
+    },
+
+
+    {
+      "name" : "Fish",
+      "description" : "A fish is an aquatic, craniate, gill-bearing animal ",
+      "id": "106"
+    },
+    {
+      "name": "Eagle",
+      "description": " Eagle are known to hunt during the day with extraordinary vision.",
+      "id": "107"
+    },
+
+    {
+      "name" : "Jackal",
+      "description" : "Jackals are medium-sized canids native to Africa and Eurasia. ",
+      "id": "108"
+    },
+
+    {
+      "name" : "Emu",
+      "description" : "The emu is the second-tallest living bird after the ostrich, its ratite relative.",
+      "id": "109"
+    },
+
+    {
+      "name" : "Beagle",
+      "description" : "The beagle is a breed of small scent hound, similar in appearance to the much larger foxhound.",
+      "id": "110"
+    },
+
+
+    {
+      "name" : "Beaver",
+      "description" : "Beavers are mammals known for their building skills.",
+      "id": "111"
+    },
+
+    {
+      "name" : "Chameleon",
+      "description" : "A very talented reptile type of animal species is the Chameleon.",
+      "id": "112"
+    },
+
+
+    {
+      "name" : "Chihuahua",
+      "description" : "The Chihuahua is a Mexican breed of toy dog.",
+      "id": "113"
+    },
+
+    {
+      "name" : "Ibex",
+      "description" : "An ibex is any of several species of wild goat, distinguished by the male's large recurved horns, ",
+      "id": "114"
+    },
+
+    {
+      "name" : "Iguana",
+      "description" : "Iguana is a genus of herbivorous lizards that are native to tropical areas of Mexico, Central America, South America, and the Caribbean.",
+      "id": "115"
+    },
+
+    {
+      "name" : "Llama",
+      "description" : "The llama is a mammal that belongs to the camel family.",
+      "id": "116"
+    },
+
+    {
+      "name" : "Chinchillas",
+      "description" : "Chinchillas are unique-looking animals with a short body, large head, delicate limbs, large hairless ears, ",
+      "id": "117"
+    },
+
+
+    {
+      "name" : "Dodo",
+      "description" : "The dodo bird is an extinct bird that lived on Mauritius, a small island off the eastern coast of Africa. ",
+      "id": "118"
+    },
+
+
+    {
+      "name" : "Opossum",
+      "description" : "The opossums are cute wild animals found in North and South America.",
+      "id": "119"
+    },
+
+
+    {
+      "name" : "Wombat",
+      "description" : "Wombats are short-legged, muscular quadrupedal marsupials of the family Vombatidae that are native to Australia.",
+      "id": "120"
+    },
+
+
+    {
+      "name" : "Bull",
+      "description" : "A bull is a fully grown adult male of the Bos taurus species.",
+      "id": "121"
+    },
+
+
+    {
+      "name" : "Meerkat",
+      "description" : "Meerkats live in the deserts and grasslands of the southern tip of Africa.",
+      "id": "122"
+    },
+
+
+
+    {
+      "name" : "Mouse",
+      "description" : "Mouse is a small animal. ",
+      "id": "123"
+    },
+
+    {
+      "name" : "Vulture",
+      "description" : "A vulture is a bird of prey that scavenges on carrion.",
+      "id": "124"
+    },
+
+    {
+      "name" : "Lynx",
+      "description" : "A lynx is any of the four extant species within the medium-sized wild cat genus Lynx.",
+      "id": "125"
+    },
+
+
+    {
+      "name" : "Monitor lizard",
+      "description" : "Monitor lizards are lizards in the genus Varanus, the only extant genus in the family Varanidae. ",
+      "id": "126"
+    },
+
+    {
+      "name" : "Boar",
+      "description" : " A wild boar, also known as the wild swine or wild pig, is an omnivorous, sociable mammal considered a Least Concern species.",
+      "id": "127"
+    },
+
+    {
+      "name" : "Mammoth",
+      "description" : "Mammoth, any member of an extinct group of elephants found as fossils in Pleistocene and Holocene deposits on several continents.",
+      "id": "128"
+    },
+
+
+
+    {
+      "name" : "Gecko",
+      "description" : "Geckos are reptiles and are found on all the continents except Antarctica.",
+      "id": "129"
+    },
+
+
+    {
+      "name" : "Dove",
+      "description" : "Columbidae is a bird family consisting of doves and pigeons.",
+      "id": "130"
+    },
+
+
+    {
+      "name" : "Stork",
+      "description" : "Storks are large, long-legged, long-necked wading birds with long, stout bills.",
+      "id": "131"
+    },
+
+    {
+      "name" : "Nyala",
+      "description" : "The lowland nyala or simply nyala, is a spiral-horned antelope native to southern Africa. ",
+      "id": "132"
+    },
+
+    {
+      "name" : "Vizsla",
+      "description" : "The Vizsla is a versatile, red-coated gundog built for long days in the field.",
+      "id": "133"
+    },
+
+    {
+      "name" : "Uakari",
+      "description" : "Uakari is the common name for the New World monkeys of the genus Cacajao.",
+      "id": "134"
+    },
+
+
+
+    {
+      "name" : "Dalmatian pelican",
+      "description" : "The Dalmatian pelican is the largest member of the pelican family, and perhaps the world's largest freshwater bird,",
+      "id": "135"
+    },
+
+
+
+    {
+      "name" : "Wild turkey",
+      "description" : "The Wild Turkey and the Muscovy Duck are the only two domesticated birds native to the New World.",
+      "id": "136"
+    },
+
+
+    {
+      "name" : "Gaur",
+      "description" : "The Indian Bison or Gaur (Bos gaurus) is the tallest species of wild cattle found in India and largest extant bovine.",
+      "id": "137"
+    },
+
+
+
+
+    {
+      "name" : "Beetle",
+      "description" : "Beetles are generally characterized by a particularly hard exoskeleton and hard forewings (elytra) not usable for flying. ",
+      "id": "138"
+    },
+
+
+    {
+      "name" : "canary",
+      "description" : "The canary is a small bird known for its singing.",
+      "id": "139"
+    },
+
+
+    {
+      "name" : "ox",
+      "description" : "a bovine, trained and used as a draft animal. ",
+      "id": "140"
+    },
+
+
+    {
+      "name" : "calf",
+      "description" : "A calf is a young domestic cow or bull. ",
+      "id": "141"
+    },
+
+
+    {
+      "name" : "Caterpillar",
+      "description" : "Caterpillars are eaten by many animals. The European pied flycatcher is one species that preys upon caterpillars. ",
+      "id": "142"
+    },
+
+
+    {
+      "name" : "Clam",
+      "description" : "Clam is a common name for several kinds of bivalve molluscs. ",
+      "id": "143"
+    },
+
+
+
+    {
+      "name" : "Cockroach",
+      "description" : " a flattened oval body, long threadlike antennae, and a shining black or brown leathery integument. ",
+      "id": "144"
+    },
+
+
+    {
+      "name" : "Cocoon",
+      "description" : "A cocoon is a covering or case made by some animals to protect themselves or their young as they develop into adults. ",
+      "id": "145"
+    },
+
+
+
+    {
+      "name" : "zebu",
+      "description" : "Although B. taurus breeds are more precocious, Zebu cattle are extensively used in the tropics, due to their thermo tolerance and resistance to parasites.",
+      "id": "146"
+    },
+
+
+
+    {
+      "name" : "yak",
+      "description" : "The wild yak (Bos mutus) is a large, wild bovine native to the Himalayas. ",
+      "id": "147"
+    },
+    {
+      "name": "Cricket",
+      "description": "Cricket are small to medium-sized insects with mostly cylindrical, somewhat vertically flattened bodies.",
+      "id": "148"
+    },
+
+
+
+    {
+      "name" : "Ladybug",
+      "description" : "Ladybugs are small and usually quite round in shape. ",
+      "id": "149"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "name" : "Sea urchin",
+      "description" : "Sea urchins are small sea animals that have spherical shells called tests that are typically covered in spines similar to those of a porcupine. ",
+      "id": "150"
+    },
+
+
+
+    {
+      "name" : "Slug",
+      "description" : "Snails are gastropods with a coiled shell large enough for the animal to pull back inside. ",
+      "id": "151"
+    },
+
+
+
+
+    {
+      "name" : "Starfish",
+      "description" : "Starfish or sea stars are star-shaped echinoderms belonging to the class Asteroidea.  ",
+      "id": "152"
+    },
+
+
+
+
+    {
+      "name" : "ferret",
+      "description" : "The ferret is a small, domesticated species belonging to the family Mustelidae ",
+      "id": "153"
+    },
+
+
+
+
+
+    {
+      "name" : "chick",
+      "description" : "The chicken is a domesticated species that arose from the red junglefowl, originally from Southeast Asia.",
+      "id": "154"
+    },
+
+
+
+    {
+      "name" : "coral snake",
+      "description" : "SCoral snakes are a large group of elapid snakes that can be divided into two distinct groups, ",
+      "id": "155"
+    },
+
+
+
+
+    {
+      "name" : "Gharial",
+      "description" : "The gharial is one of only two species in the Gavialidae family. ",
+      "id": "156"
+    },
+
+
+
+
+    {
+      "name" : "Hermit Crab",
+      "description" : "The hermit crab is a type of crab that does not have a hard shell. ",
+      "id": "157"
+    },
+
+
+
+    {
+      "name" : "Woodpecker",
+      "description" : "A female European green woodpecker perches on a piece of wood. ",
+      "id": "158"
+    },
+    {
+      "name": "Walrus",
+      "description": "The walrus is a large marine mammal known for its distinctive tusks, flippers, and thick blubber, found primarily in Arctic and sub-Arctic regions.\n",
+      "id": "159"
+    },
+
+
+
+    {
+      "name" : "Toucan",
+      "description" : "Toucans are among the noisiest of forest birds; their repertoire includes loud barks, bugling calls, and harsh croaks.",
+      "id": "160"
+    },
+
+
+
+    {
+      "name" : "Reindeer",
+      "description" : "They are very docile and trusting animals that live together in large groups and migrate huge distances to find food. ",
+      "id": "161"
+    },
+
+
+
+    {
+      "name" : "Puffin",
+      "description" : "Puffins are any of three species of small alcids (auks) in the bird genus Fratercula.",
+      "id": "162"
+    },
+
+
+
+
+    {
+      "name" : "Okapi",
+      "description" : "The okapi is a shy animal that lives among dense cover and avoids people.",
+      "id": "163"
+    },
+
+
+
+    {
+      "name" : "Nilgai",
+      "description" : "Nilgai is the Hindustani word for “blue cow,” which describes the blue-gray of adult bulls.",
+      "id": "164"
+    },
+
+
+
+
+    {
+      "name" : "Kudu",
+      "description" : "Kudu, or koodoo, is the Khoikhoi and seTswana name for this antelope.",
+      "id": "165"
+    },
+
+
+
+
+    {
+      "name" : "Komodo dragon",
+      "description" : "They are powerful-looking reptiles with wide, flat heads, rounded snouts, bowed legs, and huge, muscular tails.",
+      "id": "166"
+    },
+
+
+
+    {
+      "name" : "Kiwi",
+      "description" : "A kiwi is in a group of birds called ratites. These are birds that don't fly, which is one of many ways a kiwi is unusual. ",
+      "id": "167"
+    },
+    {
+      "name": "Guanaco",
+      "description": "The guanaco is a diurnal animal. These small hens live in which one male and many fish live with their children.",
+      "id": "168"
+    },
+
+
+
+
+    {
+      "name" : "Gila monster",
+      "description" : "The Gila monster is one of only a few poisonous lizards in the world.",
+      "id": "169"
+    },
+
+
+
+    {
+      "name" : "Frigatebird",
+      "description" : "Magnificent Frigatebirds are large seabirds with long, angular wings. ",
+      "id": "170"
+    },
+
+
+
+
+
+
+
+
+    {
+      "name" : "Crane",
+      "description" : "The crane is a tall, graceful, wading bird.  ",
+      "id": "171"
+    },
+
+
+
+
+    {
+      "name" : "Cockatoo",
+      "description" : "This solitary bird of northeastern Australia, New Guinea, and the Aru Islands has a threadlike erectile crest.",
+      "id": "172"
+    },
+
+
+
+
+
+
+
+    {
+      "name" : "Centipede",
+      "description" : "Centipedes are elongated segmented (metameric) creatures with one pair of legs per body segment. ",
+      "id": "173"
+    },
+
+
+
+
+    {
+      "name" : "Bongo",
+      "description" : " bongo, (Tragelaphus eurycerus), the largest, most colourful, and most sociable of the African forest antelopes,",
+      "id": "174"
+    },
+
+
+
+
+    {
+      "name" : "Ape Animal",
+      "description" : "Monkeys and apes are both primates, which means they're both part of the human family tree. ",
+      "id": "175"
+    },
+
+
+
+    {
+      "name" : "Anteater",
+      "description" : "Anteaters are curious-looking animals. ",
+      "id": "176"
+    },
+
+
+    {
+      "name" : "Ring-tailed lemur",
+      "description" : "The ring-tailed lemur is a strepsirrhine primate, with a protruding muzzle and a wet nose. Top is the skull.",
+      "id": "177"
+    },
+
+
+
+    {
+      "name" : "Zorse",
+      "description" : "A zorse is the offspring of a zebra stallion and a horse mare.",
+      "id": "178"
+    },
+
+
+
+
+
+    {
+      "name" : "Pelican",
+      "description" : "APelicans are among the largest flying birds.",
+      "id": "179"
+    },
+
+
+
+    {
+      "name" : "Fennec Fox",
+      "description" : "The fennec fox is the smallest of all the world's foxes, but its large ears, measuring 6 inches, appear to be on loan from a bigger relative.",
+      "id": "180"
+    },
+
+
+    {
+      "name" : "Kookaburra",
+      "description" : "Kookaburras are birds that belong to the kingfisher family. ",
+      "id": "181"
+    },
+
+
+    {
+      "name" : "Manatee",
+      "description" : "Manatees are large, fully aquatic, mostly herbivorous marine mammals sometimes known as sea cows. ",
+      "id": "182"
+    },
+
+
+    {
+      "name" : "Puma",
+      "description" : "Pumas are large, secretive cats.",
+      "id": "183"
+    },
+
+
+    {
+      "name" : "Siberian Husky",
+      "description" : "The Siberian Husky is a medium-sized working sled dog breed. ",
+      "id": "184"
+    },
+
+
+    {
+      "name" : "Chamois",
+      "description" : "A chamois is an animal with brown fur and short horns that curve backwards, native to the mountains of Europe.",
+      "id": "185"
+    },
+
+
+
+    {
+      "name" : "Quetzal",
+      "description" : "The resplendent quetzal is a national symbol in Guatemala. Like other types of quetzal, the golden-headed quetzal has colorful feathers.",
+      "id": "186"
+    },
+
+    {
+      "name" : "Star-nosed Mole",
+      "description" : "Star nosed moles are one of the most distinctive types of mammal.",
+      "id": "187"
+    },
+
+
+    {
+      "name" : "Weasel",
+      "description" : "Weasels are mammals of the genus Mustela of the family Mustelidae.",
+      "id": "188"
+    },
+
+
+
+    {
+      "name" : "Rhinos",
+      "description" : "Like the closely related, and larger, Indian rhinoceros, the Javan rhino has a single horn. ",
+      "id": "189"
+    },
+
+
+    {
+      "name" : "Pony",
+      "description" : "A pony is a type of small horse.",
+      "id": "190"
+    },
+
+
+
+
+
+
+    {
+      "name" : "Yeti Crab",
+      "description" : "The yeti crab is a blind deep-sea crab with reduced eyes and long bristles on its body.",
+      "id": "191"
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "name" : "Wolverine",
+      "description" : "It is a muscular carnivore and a solitary animal. ",
+      "id": "192"
+    },
+
+
+    {
+      "name" : "Wildebeest",
+      "description" : "They belong to the family Bovidae, which includes true antelopes, cattle, goats, sheep, and other even-toed horned ungulates. ",
+      "id": "193"
+    },
+
+
+
+    {
+      "name" : "Umbrellabird",
+      "description" : "This bird has strong legs, short feet, acute claws, broad wings, and a thick bill.",
+      "id": "194"
+    },
+
+
+    {
+      "name" : "Tapir",
+      "description" : "Tapirus is a genus of tapir which contains the living tapir species. ",
+      "id": "195"
+    },
+
+
+
+    {
+      "name" : "Tarsier",
+      "description" : "Tarsiers are lemurlike in being nocturnal and having a well-developed sense of smell.",
+      "id": "196"
+    },
+
+    {
+      "name" : "Sable",
+      "description" : " Sable, graceful member of the weasel family, Mustelidae, found in the forests of northern Asia and highly valued for its fur.",
+      "id": "197"
+    },
+    {
+      "name": "Saluki Dog",
+      "description": "Salukis are swift and agile sprinters who love a good chase.",
+      "id": "198"
+    },
+
+
+    {
+      "name" : "Saola",
+      "description" : "TThe reddish-brown saola is a horned animal that can be found in Asian countries like Laos and Vietnam",
+      "id": "199"
+    },
+
+
+    {
+      "name" : "Scarlet Macaw",
+      "description" : "The scarlet macaw (Ara macao) is a large yellow, red and blue Neotropical parrot native to humid evergreen forests of the Americas.\n",
+      "id": "200"
+    },
+
+
+    {
+      "name" : "Serval",
+      "description" : "The serval is a wild cat native to Africa.",
+      "id": "201"
+    },
+    {
+      "name" : "Raven",
+      "description" : "The common raven is a large all-black passerine bird.",
+      "id": "202"
+    },
+    {
+      "name" : "Moth",
+      "description" : "Moths are a group of insects that includes all members of the order Lepidoptera that are not butterflies. ",
+      "id": "203"
+    },
+
+    {
+      "name" : "Aurochs",
+      "description" : "The aurochs (Bos primigenius) is an extinct cattle species, considered to be the wild ancestor of modern domestic cattle",
+      "id": "204"
+    },
+
+    {
+      "name" : "Aye Aye",
+      "description" : "Aye-ayes are dark brown or black and are distinguished by a bushy tail that is larger than their body. ",
+      "id": "205"
+    },
+
+    {
+      "name" : "Asian Palm Civet",
+      "description" : "The Asian Palm Civet is considered a “Vulnerable” animal. ",
+      "id": "206"
+    },
+
+    {
+      "name" : "Barbet",
+      "description" : "barbet, any of about 80 species of tropical birds constituting the family Capitonidae (order Piciformes).",
+      "id": "207"
+    },
+
+
+
+
+
+    {
+      "name" : "Marten",
+      "description" : "Martens are forest-dwelling and usually solitary. ",
+      "id": "208"
+    },
+
+    {
+      "name" : "Bulbul",
+      "description" : "Bulbul bird is a medium-sized songbird. They belong to the family Pycnonotidae.",
+      "id": "209"
+    },
+
+
+    {
+      "name" : "Falcon",
+      "description" : "Falcons are birds of prey in the genus Falco, which includes about 40 species.",
+      "id": "210"
+    },
+
+
+    {
+      "name" : "Ibis",
+      "description" : "Ibises are birds with long, slender bills that curve downward.",
+      "id": "211"
+    },
+
+
+    {
+      "name" : "Guinea pig",
+      "description" : " Guinea pig, a domesticated species of South American rodent belonging to the cavy family (Caviidae).",
+      "id": "212"
+    },
+
+
+    {
+      "name" : "Mallard",
+      "description" : "Mallards are dabbling, or surface-feeding, ducks because they eat by tipping underwater for food—head down, feet and tail in the air—rather than diving.\n ",
+      "id": "213"
+    },
+
+    {
+      "name" : "Gazelle",
+      "description" : "A gazelle is one of many antelope species in the genus Gazella.",
+      "id": "214"
+    },
+
+    {
+      "name" : "Condor",
+      "description" : "condors are very large broad-winged soaring birds, ",
+      "id": "215"
+    },
+
+
+
+
+
+    {
+      "name" : "Earthworm",
+      "description" : "An earthworm is a soil-dwelling terrestrial invertebrate that belongs to the phylum Annelida. T ",
+      "id": "216"
+    },
+
+
+    {
+      "name" : "Earwig",
+      "description" : "The common earwig is an omnivore, eating plants and ripe fruit as well as actively hunting arthropods.",
+      "id": "217"
+    },
+
+    {
+      "name" : "Fangtooth",
+      "description" : "Fangtooths are beryciform fish of the family Anoplogastridae that live in the deep sea. ",
+      "id": "218"
+    },
+    {
+      "name" : "Indri",
+      "description" : "The indri is a vertical clinger and leaper and thus holds its body upright when traveling through trees or resting in branches. ",
+      "id": "219"
+    },
+
+    {
+      "name" : "Insects",
+      "description" : "They are the largest group within the arthropod phylum. ",
+      "id": "220"
+    },
+
+    {
+      "name" : "Jacana",
+      "description" : "The jacanas are a group of tropical waders in the family Jacanidae.  ",
+      "id": "221"
+    },
+    {
+      "name": "Crow",
+      "description": "The crow is a highly intelligent and adaptable bird known for its black plumage, cawing calls, and widespread distribution across various habitats. ",
+      "id": "222"
+    }
+  ],
+  "Fruits" :  [
+    {
+      "name" : "Apple",
+      "description" : "A crisp and sweet fruit, often red or green, known for its versatility and health benefits.",
+      "id" : "0"
+
+    } ,
+    {
+      "name" : "Banana",
+      "description" : "A curved, yellow fruit with a soft texture and sweet taste, a great source of energy and potassium.",
+      "id" : "1"
+
+    } ,
+    {
+      "name" : "Orange",
+      "description" : "A citrus fruit with a tangy flavor, rich in vitamin C, and known for its refreshing juice.",
+      "id" : "2"
+    } ,
+    {
+      "name" : "Grapes",
+      "description" : "Small, juicy berries usually found in clusters, available in various colors, and used for making wine.",
+      "id" : "3"
+    },
+
+
+    {
+      "name" : "Strawberry",
+      "description" : "Small, red berries with a sweet taste, often used in desserts and known for their high vitamin C content.",
+      "id" : "4"
+    },
+
+    {
+      "name" : "Pineapple",
+      "description" : "Tropical fruit with a sweet and tart taste, often used in both savory and sweet dishes.",
+      "id" : "5"
+    },
+
+    {
+      "name" : "Mango",
+      "description" : "A juicy and flavorful tropical fruit with a sweet taste, often referred to as the \"king of fruits.",
+      "id" : "6"
+    },
+
+    {
+      "name" : "Kiwi",
+      "description" : "Small, brown, fuzzy fruit with bright green flesh, packed with vitamin C and a unique flavor.",
+      "id" : "7"
+    },
+
+
+    {
+      "name" : "Peach",
+      "description" : "Soft and fuzzy-skinned fruit with a sweet and fragrant taste, commonly used in pies and jams.",
+      "id" : "8"
+    },
+
+    {
+      "name" : "Cherry",
+      "description" : "Small, round fruit with a red or purple color, known for its sweet and tart flavor.",
+      "id" : "9"
+    },
+
+
+    {
+      "name" : "Pear",
+      "description" : "Juicy and sweet fruit with a distinctive bell shape, available in various varieties.",
+      "id" : "10"
+    },
+
+    {
+      "name" : "Watermelon",
+      "description" : "A large, juicy fruit with red or pink flesh, perfect for hydrating due to its high water content.",
+      "id" : "11"
+    },
+
+    {
+      "name" : "Grapefruit",
+      "description" : " Citrus fruit with a sour to semi-sweet taste, known for its refreshing juice and health benefits.",
+      "id" : "12"
+    },
+
+    {
+      "name" : "Pomegranate",
+      "description" : "nique fruit with ruby-red seeds, known for its sweet and tangy taste and antioxidant properties.",
+      "id" : "13"
+    },
+
+    {
+      "name" : "Avocado",
+      "description" : "Creamy, green fruit with a buttery texture, rich in healthy fats, and often used in savory dishes.",
+      "id" : "14"
+    },
+
+
+    {
+      "name" : "Plum",
+      "description" : "Small, juicy fruit with a sweet or tart taste, available in various colors and often used in jams.",
+      "id" : "15"
+    },
+
+
+    {
+      "name" : "Raspberry",
+      "description" : "Small, red berries with a sweet and slightly tart flavor, commonly used in desserts and smoothies.",
+      "id" : "16"
+    },
+
+
+    {
+      "name" : "Blackberry",
+      "description" : "Dark purple berries with a sweet and juicy taste, often used in pies, jams, and desserts.",
+      "id" : "17"
+    },
+
+    {
+      "name" : "Cranberry",
+      "description" : "tart berries often used in juices, sauces, and as a Thanksgiving side dish.",
+      "id" : "18"
+    },
+
+
+    {
+      "name" : "Blueberry",
+      "description" : "blue-purple berries with a sweet taste, rich in antioxidants and commonly used in baking.",
+      "id" : "19"
+    },
+
+    {
+      "name" : "Apricot",
+      "description" : "range fruit with a sweet and slightly tart flavor, commonly used in jams and preserves.",
+      "id" : "20"
+    },
+
+
+    {
+      "name" : "Lemon",
+      "description" : "Citrus fruit with a sour taste, commonly used in cooking, baking, and beverages.",
+      "id" : "21"
+    },
+
+    {
+      "name" : "Cantaloupe",
+      "description" : "Sweet and aromatic melon with orange flesh, commonly eaten fresh or in fruit salads.",
+      "id" : "22"
+    },
+
+    {
+      "name" : "Honeydew",
+      "description" : "Sweet melon with pale green flesh and a mild flavor, commonly eaten fresh or in fruit salads.",
+      "id" : "23"
+    },
+
+    {
+      "name" : "Passion Fruit ",
+      "description" : "Small, round fruit with a tough outer rind and aromatic, juicy pulp with a sweet-tart taste.",
+      "id" : "24"
+    },
+
+    {
+      "name" : "Pistachios",
+      "description" : "Pistachios (Pistacia vera) are edible seeds of the pistachio tree, originating from the Middle East. ",
+      "id" : "25"
+    },
+
+    {
+      "name" : "Fig",
+      "description" : "Teardrop-shaped fruit with sweet, chewy flesh and a unique, mild flavor.",
+      "id" : "26"
+    },
+
+    {
+      "name" : "Guava",
+      "description" : "Tropical fruit with green or pink skin, sweet and fragrant flesh, commonly eaten fresh or in juices.",
+      "id" : "27"
+    },
+
+
+    {
+      "name" : "Lychee",
+      "description" : "translucent fruit with a sweet, floral flavor and a unique texture, commonly eaten fresh.",
+      "id" : "28"
+    },
+
+
+    {
+      "name" : "Papaya",
+      "description" : "Tropical fruit with orange flesh, sweet taste, and numerous black seeds in the center.",
+      "id" : "29"
+    },
+
+    {
+      "name" : "Coconut",
+      "description" : "Large seed with a hard, brown shell and white, edible flesh, used in both sweet and savory dishes.",
+      "id" : "30"
+    },
+
+    {
+      "name" : "Kiwi Berry",
+      "description" : "Small, green berries with a taste similar to kiwi, often eaten fresh or used in salads.",
+      "id" : "31"
+    },
+
+    {
+      "name" : "Star Fruit",
+      "description" : "Yellow, star-shaped fruit with a sweet and tart taste, commonly eaten fresh or in fruit salads.",
+      "id" : "32"
+    },
+
+
+    {
+      "name" : "Fuyu Persimmon",
+      "description" : "Orange fruit with a unique, sweet taste and a distinct astringency, can be eaten fresh or dried. ",
+      "id" : "33"
+    },
+
+    {
+      "name" : "Raisins",
+      "description" : "Raisins are dried grapes, typically of the dark-colored varieties such as Thompson Seedless.",
+      "id" : "34"
+    },
+
+
+    {
+      "name" : "Elderberry",
+      "description" : "Dark purple berries with a tart taste, often used in syrups, jams, and as a supplement.",
+      "id" : "35"
+    },
+
+    {
+      "name" : "Gooseberry",
+      "description" : "Small, green berries with a tart taste, commonly used in pies, jams, and desserts.",
+      "id" : "36"
+    },
+
+
+    {
+      "name" : "Peach Palm ",
+      "description" : "Orange fruit with a large seed, sweet taste, and fibrous texture, commonly used in cooking.",
+      "id" : "37"
+    },
+
+
+    {
+      "name" : "Salak",
+      "description" : "Brown, scaly-skinned fruit with sweet and tangy flesh, native to Indonesia.",
+      "id" : "38"
+    },
+
+
+    {
+      "name" : "Kumquat",
+      "description" : "Small, citrus fruit with a sweet skin and tart flesh, often eaten whole.",
+      "id" : "39"
+    },
+
+    {
+      "name" : "Mulberry",
+      "description" : "sweet berries with a dark color, commonly used in jams, desserts, and wines.",
+      "id" : "40"
+    },
+
+
+
+    {
+      "name" : "Rambutan",
+      "description" : "Exotic fruit with a hairy red or yellow skin and translucent, juicy flesh with a sweet taste.",
+      "id" : "41"
+    },
+
+
+    {
+      "name" : "Soursop",
+      "description" : "Large, spiky green fruit with white, fibrous flesh and a sweet and tangy taste.",
+      "id" : "42"
+    },
+
+
+
+    {
+      "name" : "Sapodilla",
+      "description" : "Brown, rough-skinned fruit with sweet and grainy flesh, often referred ",
+      "id" : "43"
+    },
+
+
+
+    {
+      "name" : "Feijoa",
+      "description" : "Green fruit with a unique flavor combination of pineapple, guava, and strawberry.",
+      "id" : "44"
+    },
+
+
+
+    {
+      "name" : "Uvaia",
+      "description" : "Small, yellow fruit with a sweet and tangy taste, native to Brazil.",
+      "id" : "45"
+    },
+
+
+    {
+      "name" : "Pomelo",
+      "description" : "Largest citrus fruit with thick, green or yellow rind and sweet, mild flesh.",
+      "id" : "46"
+    },
+
+
+    {
+      "name" : "Acai Berry",
+      "description" : "The açaí palm, Euterpe oleracea, is a species of palm tree cultivated for its fruit, hearts of palm, leaves, and trunk wood.",
+      "id" : "47"
+    },
+
+
+    {
+      "name" : "Jackfruit",
+      "description" : "sThe jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of tree in the fig, mulberry, and breadfruit family",
+      "id" : "48"
+    },
+
+
+    {
+      "name" : "Blackcurrant",
+      "description" : "Blackcurrants (Ribes nigrum) have been called “the forbidden fruit” in the United States. ",
+      "id" : "49"
+    },
+
+    {
+      "name" : "Redcurrant",
+      "description" : "The redcurrant or red currant (Ribes rubrum) is a member of the genus Ribes in the gooseberry family. It is native to western Europe.",
+      "id" : "50"
+    },
+
+
+    {
+      "name" : "Boysenberry",
+      "description" : " Boysenberries are larger and sweeter than blackberries, but comparable to them and raspberries in taste. ",
+      "id" : "51"
+    },
+
+
+    {
+      "name" : "Kiwano",
+      "description" : " Kiwano, which is also called African horned cucumber or jelly melon,",
+      "id" : "52"
+    },
+
+
+    {
+      "name" : "Ackee",
+      "description" : "is a fruit of the Sapindaceae (soapberry) family, as are the lychee and the longan.",
+      "id" : "53"
+    },
+
+
+    {
+      "name" : "Date",
+      "description" : "Dates are a fruit cultivated from date palm (Phoenix dactylifera), a plant native to the Middle East and North Africa.",
+      "id" : "54"
+    },
+
+
+    {
+      "name" : "Chestnut",
+      "description" : "Chestnuts are the edible nuts produced by trees in the Castanea genus, such as the sweet chestnut (Castanea sativa). ",
+      "id" : "55"
+    },
+
+
+    {
+      "name" : "Pineapple",
+      "description" : "Pineapple, perennial plant of the family Bromeliaceae and its edible fruit. ",
+      "id" : "56"
+    },
+
+
+    {
+      "name" : "Mangosteen",
+      "description" : "Purple-skinned fruit with a white, segmented flesh and a sweet, tangy flavor.",
+      "id" : "57"
+    },
+
+    {
+      "name" : "Longan",
+      "description" : "Small, round fruit with a translucent white flesh and a sweet, musky flavor.",
+      "id" : "58"
+    },
+
+    {
+      "name" : "Loquat",
+      "description" : "Yellow-orange fruit with a sweet and slightly tangy flesh.",
+      "id" : "59"
+    },
+
+    {
+      "name" : "Lime",
+      "description" : "Green citrus fruit with a similar flavor to lemon, but smaller and more acidic.",
+      "id" : "60"
+    },
+
+
+    {
+      "name" : "Custard Apple",
+      "description" : " Green-skinned fruit with a sweet, creamy flesh and black seeds.",
+      "id" : "61"
+    },
+
+
+    {
+      "name" : "Durian",
+      "description" : "piky-skinned fruit with a strong, pungent odor and creamy flesh.",
+      "id" : "62"
+    },
+
+
+    {
+      "name" : "Cherimoya",
+      "description" : "Green-skinned fruit with creamy white flesh and a custard-like flavor.",
+      "id" : "63"
+    },
+
+
+
+    {
+      "name" : "Breadfruit",
+      "description" : "Large, starchy fruit with a bread-like texture, often boiled or roasted.",
+      "id" : "64"
+    },
+
+    {
+      "name" : "Olive",
+      "description" : "green fruit used for its oil and brine-cured as olives.",
+      "id" : "65"
+    },
+
+
+    {
+      "name" : "Ambarella",
+      "description" : "Ambarella is packed with beneficial antioxidants such as flavonoids, terpenoids and tannins. ",
+      "id" : "66"
+    },
+
+    {
+      "name" : "Akebi",
+      "description" : "The fruit contains a sweet soft pulp resembling a white dragon fruit, eaten primarily in Japan as a seasonal delicacy. ",
+      "id" : "67"
+    },
+
+    {
+      "name" : "Walnut",
+      "description" : "Walnuts (Juglans regia) are nuts derived from the walnut tree, native to the regions of Central Asia and southeastern Europe. ",
+      "id" : "68"
+    },
+
+    {
+      "name" : "Ramphal",
+      "description" : "Ramphal belongs to the same family as Custard Apple, known as the Annona family. ",
+      "id" : "69"
+    },
+
+    {
+      "name" : "Medlar",
+      "description" : "t is also highly regarded as a fruit that pairs well with almost any type of wine. ",
+      "id" : "70"
+    },
+    {
+      "name": "Quince",
+      "description": "The fruit is a golden yellow pome and may be round and flattened or somewhat pear-shaped.",
+      "id": "71"
+    },
+
+    {
+      "name" : "Nance",
+      "description" : " Nance fruit packs many important nutrients in a bite-sized package. ",
+      "id" : "72"
+    },
+
+
+    {
+      "name" : "Nectarine",
+      "description" : "Nectarines are a sweet fruit, similar to peaches, except they grow without fuzz on their skin.  ",
+      "id" : "73"
+    },
+
+    {
+      "name" : "Naranjilla",
+      "description" : "Solanum quitoense, known as naranjilla in Ecuador, Costa Rica, and Panama and as lulo in Colombia, ",
+      "id" : "74"
+    },
+
+    {
+      "name" : "Lucuma",
+      "description" : "Pouteria lucuma is a species of tree in the family Sapotaceae, cultivated for its fruit, the lúcuma.",
+      "id" : "75"
+    },
+
+    {
+      "name" : "Langsat",
+      "description" : "Lansium parasiticum, commonly known as langsat is a species of tree in the family Meliaceae with commercially cultivated edible fruits. ",
+      "id" : "76"
+    },
+
+    {
+      "name" : "Jenipapo",
+      "description" : "Jenipapo has a strange flavour like a sweet, pungent, overripe fruit. ",
+      "id" : "77"
+    },
+
+    {
+      "name" : "Jujube",
+      "description" : "Jujube fruit, also known as red or Chinese date, is native to Southern Asia but has become popular around the world. ",
+      "id" : "78"
+    },
+
+    {
+      "name" : "Ice apple",
+      "description" : "Ice apple is a less known tropical fruit of the palmyra palm tree. ",
+      "id" : "79"
+    },
+
+    {
+      "name" : "Egg Fruit",
+      "description" : "The Egg fruit is native to southern North America and northern Central America,",
+      "id" : "80"
+    },
+
+
+    {
+      "name" : "Hog plum",
+      "description" : " Hog plum, ornamental tree of the cashew family, grown for its edible fruits.",
+      "id" : "81"
+    },
+
+
+    {
+      "name" : "Horned melon",
+      "description" : "Its fruit has horn-like spines, hence the name horned melon. ",
+      "id" : "82"
+    },
+
+    {
+      "name" : "Hazelnut",
+      "description" : "The hazelnut is the fruit of the hazel tree and therefore includes any of the nuts deriving from species of the genus Corylus,",
+      "id" : "83"
+    },
+
+
+
+    {
+      "name" : "Finger lime",
+      "description" : "Citrus australasica, the Australian finger lime or caviar lime, is a thorny understorey shrub or small tree .",
+      "id" : "85"
+    },
+
+    {
+      "name" : "Buddha’s hand ",
+      "description" : "Well, it's true, and the fruit is called Buddha's hand citron.",
+      "id" : "86"
+    },
+
+    {
+      "name" : "Atemoya",
+      "description" : "Atemoyas are round or heart-shaped, averaging from 8 to 12 inches long; some can weigh up to 5 pounds.",
+      "id" : "87"
+    },
+
+    {
+      "name" : "Chayote",
+      "description" : "Chayote, also known as mirliton and choko, is an edible plant belonging to the gourd family, Cucurbitaceae.",
+      "id" : "88"
+    },
+
+    {
+      "name" : "Noni Fruit",
+      "description" : "Noni (Morinda citrifolia) is an evergreen tree with large leaves and yellow fruit. ",
+      "id" : "89"
+    },
+
+    {
+      "name" : "Husk cherry",
+      "description" : "The fruit of many species are generically referred to as physalis, groundcherries, husk tomatoes, husk cherries, poha berries, and golden berries.",
+      "id" : "90"
+    },
+
+
+
+    {
+      "name" : "Cucumber",
+      "description" : "Cucumber fruits consist of 95% water (see nutrition table).",
+      "id" : "91"
+    },
+
+    {
+      "name" : "Tamarind",
+      "description" : "Sweet Tamarind Whole is a delightful fruit that has a ton of culinary and health benefits. ",
+      "id" : "92"
+    },
+
+    {
+      "name" : "Prunes",
+      "description" : "A prune is a dried plum, most commonly from the European plum. ",
+      "id" : "93"
+    },
+
+    {
+      "name" : "Damsons",
+      "description" : "Damsons, a subspecies of plums, is a small, dark purple fruit that grows wild in Great Britain, with a tart flavour more suitable to cooking.",
+      "id" : "94"
+    },
+
+    {
+      "name" : "Almonds",
+      "description" : "The almond is a species of small tree from the genus Prunus, cultivated worldwide for its seed, ",
+      "id" : "95"
+    },
+
+    {
+      "name" : "Hawthorns",
+      "description" : " Hawthorn berries are tiny fruits that grow on trees and shrubs belonging to the Crataegus genus. ",
+      "id" : "96"
+    },
+
+    {
+      "name" : "Arhat",
+      "description" : "Siraitia grosvenorii, also known as monk fruit, monkfruit or luohan guo, is a herbaceous perennial vine of the gourd family, Cucurbitaceae.",
+      "id" : "97"
+    },
+
+    {
+      "name" : "Babaco",
+      "description" : "The babaco, is a hybrid cultivar in the genus Vasconcellea from Ecuador.",
+      "id" : "98"
+    },
+    {
+      "name": " Strawberry",
+      "description": " Strawberry,also known as Kaszëbskô malëna,are strawberries of the Elsanta variety.",
+      "id": "99"
+    },
+
+
+    {
+      "name" : "Deglet Nour",
+      "description" : "Native to Algeria, deglet nour is one of the most common date varieties consumed in the entire North African region. ",
+      "id" : "100"
+    },
+
+
+    {
+      "name" : "Sour Cherry",
+      "description" : "Sour cherries are smaller than sweet cherry varietals and have a round to oval, plump appearance, attached to slender, elongated, and fibrous green stems.",
+      "id" : "101"
+    },
+
+
+
+    {
+      "name" : "Jabuticaba",
+      "description" : "Jabuticaba are traditional Brazilian berries native to the states of Minas Gerais, Goiás, and São Paolo. ",
+      "id" : "102"
+    },
+
+
+
+    {
+      "name" : "Goumi",
+      "description" : "Goumi fruit  is a small, tart, and nutrient-rich red berry, often used in jams and jellies, and is cultivated for its ornamental and edible qualities.",
+      "id" : "103"
+    },
+
+
+    {
+      "name" : "Batuan",
+      "description" : "Batuan (is a tropical fruit native to Southeast Asia, recognized for its sour flavor .",
+      "id" : "104"
+    },
+
+
+    {
+      "name" : "Beechnut",
+      "description" : "Beechnut refers to the small, triangular nuts produced by the beech tree .",
+      "id" : "105"
+    },
+
+    {
+      "name" : "Biriba",
+      "description" : "Biriba  is a tropical fruit native to the Amazon rainforest,",
+      "id" : "106"
+    },
+
+
+    {
+      "name" : "Carob",
+      "description" : "Carob refers to the leguminous pod of the Ceratonia siliqua tree, native to the Mediterranean region.",
+      "id" : "107"
+    },
+
+    {
+      "name" : "Genip",
+      "description" : "Genip, also known as mamoncillo or Spanish lime, refers to the fruit of the Melicoccus bijugatus tree. ",
+      "id" : "108"
+    },
+
+
+    {
+      "name" : "Velvet Apple",
+      "description" : "Velvet Apple also known as Mabolo or Butter Fruit, is a tropical fruit with velvety, brown skin and sweet, ",
+      "id" : "109"
+    },
+
+
+    {
+      "name" : "Kaffir Lime",
+      "description" : "Kaffir lime is a citrus fruit known for its bumpy, dark green, double-lobed leaves that are often used in culinary dishes. ",
+      "id" : "110"
+    },
+
+
+    {
+      "name" : "Curry Berry",
+      "description" : "Curry berries, botanically classified as Murraya koenigii, are the fruits of an evergreen tree belonging to the Rutaceae or citrus family. ",
+      "id" : "111"
+    },
+
+    {
+      "name" : "Cloudberry",
+      "description" : "Cloudberry  is a small, amber-colored berry native to cold and arctic regions of the Northern Hemisphere.",
+      "id" : "112"
+    },
+
+
+    {
+      "name" : "Pomegranates",
+      "description" : "Pomegranates are vibrant, red fruits with a tough outer rind and a crown-like calyx.",
+      "id" : "113"
+    },
+
+    {
+      "name" : "Prickly pears",
+      "description" : "Prickly pears, also known as cactus fruit or tunas, are the fruit of various species of Opuntia cacti. ",
+      "id" : "114"
+    },
+
+
+    {
+      "name" : "Rose apples",
+      "description" : "Rose apples, also known as Syzygium jambos, are tropical fruits with a waxy, bell-shaped appearance and a distinct rosy aroma.",
+      "id" : "115"
+    },
+
+    {
+      "name" : "Mammea Americana",
+      "description" : "Mammee, also known as mammee apple or Mamey (Mammea americana), is a tropical fruit tree native to the Caribbean and Central America. ",
+      "id" : "116"
+    },
+
+
+    {
+      "name" : "Pumpkin",
+      "description" : "Pumpkin is a versatile, orange-fleshed winter squash that is widely cultivated and consumed worldwide. ",
+      "id" : "117"
+    },
+
+    {
+      "name" : "Black Sapote",
+      "description" : "For just about any other fruit, a brown or black interior indicates that the fruit is past its best, but that’s not true for the black sapote.\n",
+      "id" : "118"
+    },
+
+    {
+      "name" : "Cucamelon",
+      "description" : "Cucamelons are incredibly cute tiny fruit that look like baby watermelons from the outside. ",
+      "id" : "119"
+    },
+
+    {
+      "name" : "Gac Fruit",
+      "description" : "From the outside, gac does kind of look like a baby jackfruit, but visual appearance is where the similarity ends.",
+      "id" : "120"
+    },
+
+
+
+    {
+      "name" : "Cempedak",
+      "description" : "The cempedak is a close relative of the jackfruit, and interior structure of the two fruits is similar.",
+      "id" : "121"
+    },
+
+    {
+      "name" : "Monstera Deliciosa",
+      "description" : "Monstera deliciosa is another tropical fruit, although this one looks a lot more like an ear of corn than it looks like a fruit.",
+      "id" : "122"
+    },
+    {
+      "name": "Santol",
+      "description": "Santol fruits are round to oval, averaging 4 to 7 centimeters in diameter, and have a slightly flattened shape.",
+      "id": "123"
+    },
+
+    {
+      "name" : "Yangmei",
+      "description" : "The yangmei fruit is extremely common in China and is frequently eaten raw and used in creating alcoholic drinks.",
+      "id" : "124"
+    },
+
+    {
+      "name" : "Wood Apple",
+      "description" : "The wood apple seems to get its name from the very hard rind of the fruit.",
+      "id" : "125"
+    },
+    {
+      "name": "Water Apple",
+      "description": "This apple is named Water Apple because of the amount of water present in this fruit. This fruit is found in many colors and forms. It is mildly sweet in taste and full of water. Consuming this removes the lack of water in the body.",
+      "id": "126"
+    },
+
+    {
+      "name" : "Nipah Seeds",
+      "description" : "Nipah seeds come from the nipah palm. ",
+      "id" : "127"
+    },
+    {
+      "name": "Bacuri",
+      "description": "Inside the bakuri is a white pulp containing about three to five seeds. Jaggery seeds are dense all around and give a sweet and sour taste",
+      "id": "128"
+    },
+
+    {
+      "name" : "Miracle Fruit",
+      "description" : "This unusual berry is significant because glycoproteins within it bind to the taste buds on the tongue.",
+      "id" : "129"
+    },
+
+    {
+      "name" : "Natal Plum",
+      "description" : "The natal plum is a particularly delicious fruit, yet the plant is from a highly deadly family, which makes people steer well clear of it.",
+      "id" : "130"
+    },
+
+    {
+      "name" : "Honeyberry",
+      "description" : "Honeyberry plants produce these unusual elongated blue berries that look almost like someone has taken a blueberry and stretched it out. ",
+      "id" : "131"
+    },
+
+
+    {
+      "name" : "Barrel Cactus",
+      "description" : "That looks dangerous. But those are often the most delicious. ",
+      "id" : "132"
+    },
+
+    {
+      "name" : "Saguaro",
+      "description" : "Saguaro is a cactus species that is particularly common in Arizona, although it is also found in other parts of the United States and further afield.",
+      "id" : "133"
+    },
+
+
+    {
+      "name" : "Cupuacu",
+      "description" : "Cupuacu comes from the same family as cocoa and is commonly used to create a new kind of ‘chocolate’, \n",
+      "id" : "134"
+    },
+
+    {
+      "name" : "Pepino Melon",
+      "description" : "Despite its appearance and name, pepino melon isn’t actually a melon.",
+      "id" : "135"
+    },
+
+    {
+      "name" : "Pandanus",
+      "description" : "The screw pine tree is a particularly common type of tree in many Pacific coastal regions. ",
+      "id" : "136"
+    },
+
+    {
+      "name" : "Jocote",
+      "description" : "This fruit is most often called Jacote or Spanish plum. Although, like most fruits on this list, it has a host of names. ",
+      "id" : "137"
+    },
+
+    {
+      "name" : "Araza",
+      "description" : "Araza is a rare fruit that comes from some parts of Peru and Brazil. ",
+      "id" : "138"
+    },
+
+    {
+      "name" : "White Sapote",
+      "description" : "Now here’s a white one. Both fruits look similar from the outside, although the color of their flesh is quite different. ",
+      "id" : "139"
+    },
+
+    {
+      "name" : "Balata",
+      "description" : "Balata fruit can be found in the Caribbean, in South America, and in Central America, but remains a rare fruit.",
+      "id" : "140"
+    },
+
+
+    {
+      "name" : "Marang",
+      "description" : "This fruit might look familiar, as it’s essentially a cross between jackfruit and durian. ",
+      "id" : "141"
+    },
+
+    {
+      "name" : "Granadilla",
+      "description" : "You’ll often see these sweet fruits called passion fruit. That’s not surprising, as there are plenty of similarities and the two are closely related. ",
+      "id" : "142"
+    },
+
+    {
+      "name" : "Rattan Fruit",
+      "description" : "Rattan fruit sometimes goes by the name snake fruit as well, but it has larger scales and isn’t as prickly as the salak.",
+      "id" : "143"
+    },
+
+    {
+      "name" : "Nyii Fruit",
+      "description" : "These small oval fruits also go by the name bird plum. They have slightly wrinkled brown skin, making them look a little like dates.",
+      "id" : "144"
+    },
+
+    {
+      "name" : "Governor’s Plum",
+      "description" : "The governor’s plum fruits are indeed much like European plums, complete with a dark purple to black coloring and familiar texture.",
+      "id" : "145"
+    },
+
+    {
+      "name" : "Dalandan",
+      "description" : "Dalandans are treated much like regular oranges, so they can be eaten raw, juiced, or segmented and used in fruit salads. ",
+      "id" : "146"
+    },
+
+    {
+      "name" : "Sugarcane",
+      "description" : "Sugarcane  is a tall, perennial grass known for its thick, jointed stalks containing high concentrations of sucrose. ",
+      "id" : "147"
+    },
+
+    {
+      "name" : "Dragon fruit",
+      "description" : "Dragon fruit, also known as pitaya or pitahaya, refers to the vibrant and exotic fruit of various cactus species in the genera Hylocereus and Selenicereus.",
+      "id" : "148"
+    },
+
+
+
+    {
+      "name" : "Bush Cherry",
+      "description" : "Bush cherry typically refers to various species of cherry shrubs or small cherry trees belonging to the genus Prunus. ",
+      "id" : "150"
+    }
+
+
+
+
+
+
+
+
+
+
+
+  ],
+  "Flowers" :  [
+    {
+      "name" : "Rose",
+      "description" : "Classic and romantic, roses come in various colors, each symbolizing different emotions.",
+      "id" : "0"
+
+    } ,
+    {
+      "name" : "Sunflower",
+      "description" : "With bright yellow petals surrounding a dark central disk, sunflowers are known for their cheerful appearance and association with sunshine",
+      "id" : "1"
+
+    } ,
+    {
+      "name" : "Tulip",
+      "description" : "Graceful and diverse in color, tulips symbolize spring and are cherished for their elegant, cup-shaped blooms.",
+      "id" : "2"
+    } ,
+    {
+      "name" : "Lily",
+      "description" : " Majestic and fragrant, lilies come in various types, including Oriental and Calla lilies, and are often associated with purity and renewal.",
+      "id" : "3"
+    },
+
+
+    {
+      "name" : "Daisy:",
+      "description" : "Simple and charming, daisies are symbolic of innocence and are known for their white petals surrounding a bright yellow center.",
+      "id" : "4"
+    },
+
+    {
+      "name" : "Orchid",
+      "description" : "Exotic and elegant, orchids boast intricate blooms and are prized for their unique beauty, representing love, beauty, and strength.",
+      "id" : "5"
+    },
+
+    {
+      "name" : "Lavender",
+      "description" : "Delicate and fragrant, lavender flowers are known for their calming scent and are often used in aromatherapy and culinary applications.",
+      "id" : "6"
+    },
+
+    {
+      "name" : "Carnation",
+      "description" : "With ruffled petals and a spicy fragrance, carnations come in various colors, each conveying different sentiments, from love to admiration.",
+      "id" : "7"
+    },
+
+
+    {
+      "name" : "Cherry Blossom",
+      "description" : " Symbolizing the fleeting beauty of life, cherry blossoms are celebrated in spring for their pink and white blooms.",
+      "id" : "8"
+    },
+
+    {
+      "name" : "Daffodil",
+      "description" : "Emblematic of spring renewal, daffodils feature trumpet-shaped flowers in various hues.",
+      "id" : "9"
+    },
+
+
+    {
+      "name" : "Hibiscus",
+      "description" : "Vibrant and tropical, hibiscus flowers are known for their large, colorful blooms and are associated with beauty and femininity.",
+      "id" : "10"
+    },
+
+    {
+      "name" : "Poppy",
+      "description" : "Bold and distinctive, poppies are known for their vibrant red color and are symbolic of remembrance and peace.",
+      "id" : "11"
+    },
+
+    {
+      "name" : "Dahlia",
+      "description" : "Diverse in shape and color, dahlias are prized for their intricate blooms.",
+      "id" : "12"
+    },
+
+
+    {
+      "name" : "Madeiran Squill",
+      "description" : "This is a rare bulbous perennial that is native to the island of Madeira. In late fall to early winter, when most other perennials are finishing up for the year, this Squill blooms a cone full of amethyst blooms.",
+      "id" : "13"
+    },
+
+    {
+      "name" : "Acacia",
+      "description" : "Acacias are also distinguished by their small, often fragrant flowers, which are arranged in compact globular or cylindrical clusters. ",
+      "id" : "14"
+    },
+
+
+    {
+      "name" : "Marigold",
+      "description" : "Vibrant and resilient, marigolds are cherished worldwide, often holding cultural and religious significance, symbolizing joy, courage, and positive energy.",
+      "id" : "15"
+    },
+
+
+    {
+      "name" : "Allium",
+      "description" : "Graceful globes of blossoms atop slender stems, alliums, including onions, garlic, and ornamental varieties, ",
+      "id" : "16"
+    },
+
+
+    {
+      "name" : "Anemone",
+      "description" : "Delicate and captivating, anemone flowers feature vibrant petals surrounding a contrasting center. ",
+      "id" : "17"
+    },
+
+    {
+      "name" : "Aster",
+      "description" : "Radiant and daisy-like, asters bloom in an array of colors, symbolizing love, patience, and elegance. ",
+      "id" : "18"
+    },
+
+
+    {
+      "name" : "Azalea",
+      "description" : ": Bursting with vibrant clusters of flowers, azaleas showcase a spectrum of colors and symbolize femininity and abundance.",
+      "id" : "19"
+    },
+
+    {
+      "name" : "Bachelor",
+      "description" : "Also known as cornflower, these charming, vibrant blue flowers symbolize delicacy and simplicity. ",
+      "id" : "20"
+    },
+
+
+    {
+      "name" : "Bird of Paradise ",
+      "description" : "With striking, bird-like blooms and bold tropical foliage, the Bird of Paradise plant adds a touch of exotic elegance to gardens and interiors worldwide, symbolizing freedom, ",
+      "id" : "21"
+    },
+
+    {
+      "name" : "Begonia",
+      "description" : "Elegant and versatile, begonias feature vibrant, asymmetrical blooms and lush foliage.",
+      "id" : "22"
+    },
+    {
+      "name": "Black-Eyed Susan",
+      "description": " Cheerful and hardy, Black-Eyed Susans feature golden-yellow petals with a dark central disk, adding a burst of color to gardens. ",
+      "id": "23"
+    },
+
+    {
+      "name" : "Bleeding Heart ",
+      "description" : " Graceful and enchanting, the Bleeding Heart plant boasts unique, heart-shaped flowers that dangle delicately from arching stems. ",
+      "id" : "24"
+    },
+
+    {
+      "name" : "Calla Lily",
+      "description" : "Elegantly sculpted, the Calla Lily showcases sleek, trumpet-shaped blooms, symbolizing purity and beauty. ",
+      "id" : "25"
+    },
+
+    {
+      "name" : "Chamomile",
+      "description" : "Delicate and aromatic, chamomile flowers, with their daisy-like appearance, are celebrated for their calming properties. ",
+      "id" : "26"
+    },
+
+    {
+      "name" : "Chrysanthemum",
+      "description" : "With a rich cultural history, chrysanthemums boast diverse shapes and colors, symbolizing longevity, joy, and optimism. ",
+      "id" : "27"
+    },
+
+
+    {
+      "name" : "Clematis",
+      "description" : "Graceful and climbing, clematis vines produce a profusion of intricate, star-shaped flowers in various colors. ",
+      "id" : "28"
+    },
+
+
+    {
+      "name" : "Cosmos",
+      "description" : "Graceful and daisy-like, cosmos flowers present vibrant petals in shades of pink, white, and purple. ",
+      "id" : "29"
+    },
+
+    {
+      "name" : "Iris",
+      "description" : "Graceful and vibrant, iris flowers showcase elegant, sword-shaped petals and come in a spectrum of hues, ",
+      "id" : "30"
+    },
+
+    {
+      "name" : "Lilac",
+      "description" : "With its fragrant clusters of blossoms in shades of purple and white, the lilac symbolizes springtime beauty and holds a sweet, ",
+      "id" : "31"
+    },
+
+    {
+      "name" : "Morning Glory",
+      "description" : "Radiant and ephemeral, morning glory flowers unfurl in the morning sun with colorful trumpet-shaped blooms, symbolizing beauty and the fleeting nature of time. ",
+      "id" : "32"
+    },
+
+
+    {
+      "name" : "Foxglove",
+      "description" : "Elegantly tall and bell-shaped, foxglove flowers showcase speckled patterns and come in various hues, symbolizing both protection and charm.",
+      "id" : "33"
+    },
+
+    {
+      "name" : "Geranium",
+      "description" : " Known for its distinctive, lobed leaves and clusters of colorful blooms, geraniums are versatile and resilient plants, ",
+      "id" : "34"
+    },
+
+    {
+      "name" : "Camellia",
+      "description" : "Elegant and glossy-leaved, camellia flowers showcase velvety petals in various hues, symbolizing love, admiration, and perfection.",
+      "id" : "35"
+    },
+    {
+      "name": "Pansy",
+      "description": " With distinctive faces and vibrant, heart-shaped petals, pansies symbolize love and free-thinking. ",
+      "id": "36"
+    },
+
+
+    {
+      "name" : "Violet",
+      "description" : "Delicate and dainty, violet flowers feature heart-shaped petals in shades of purple and blue, symbolizing modesty and faithfulness.",
+      "id" : "37"
+    },
+
+
+    {
+      "name" : "Sweet Pea",
+      "description" : "Fragrant and nostalgic, sweet peas symbolize blissful pleasure and are often associated with friendships.",
+      "id" : "38"
+    },
+    {
+      "name": "Myosotis",
+      "description": " Small and delicate, Myosotis symbolize true love and enduring connections.",
+      "id": "39"
+    },
+
+    {
+      "name" : "Zinnia",
+      "description" : "Vibrant and resilient, zinnias bring a burst of color to gardens and symbolize endurance.",
+      "id" : "40"
+    },
+
+
+
+    {
+      "name" : "Gerbera Daisy",
+      "description" : "Cheerful and colorful, gerbera daisies convey joy and exuberance.",
+      "id" : "41"
+    },
+    {
+      "name": "Jasmine",
+      "description": "Jasmine flower, a plant rich in fragrant and beautiful flowers, is famous for its special sweetness and charm.",
+      "id": "42"
+    },
+
+
+
+    {
+      "name" : "Hydrangea",
+      "description" : "With large, clustered blooms, hydrangeas symbolize heartfelt emotions and gratitude.",
+      "id" : "43"
+    },
+
+
+
+    {
+      "name" : "Orchid",
+      "description" : "Exotic and alluring, orchids represent beauty, strength, and love, captivating with their intricate blooms.",
+      "id" : "44"
+    },
+
+
+
+    {
+      "name" : "Magnolia",
+      "description" : "Majestic and fragrant, magnolias grace gardens with large, elegant blooms symbolizing beauty.",
+      "id" : "45"
+    },
+
+
+    {
+      "name" : "Narcissus",
+      "description" : "Delicate and trumpet-shaped, narcissus flowers, including daffodils.",
+      "id" : "46"
+    },
+
+
+    {
+      "name" : "Lotus",
+      "description" : "Sacred and serene, lotus flowers float above murky waters, representing purity, enlightenment, and spiritual rebirth.",
+      "id" : "47"
+    },
+
+
+    {
+      "name" : "Hyacinth",
+      "description" : "Fragrant and vibrant, hyacinths signify sincerity and play a delightful role in spring gardens with their colorful spikes of blossoms.",
+      "id" : "48"
+    },
+
+
+    {
+      "name" : "Gladiolus",
+      "description" : "Tall and stately, gladioli symbolize strength, integrity,",
+      "id" : "49"
+    },
+
+    {
+      "name" : "Gardenia",
+      "description" : "Exquisite and aromatic, gardenias symbolize purity and grace",
+      "id" : "50"
+    },
+
+
+    {
+      "name" : "Freesia",
+      "description" : "  Delightfully fragrant and delicately shaped, freesias symbolize friendship and innocence, adding charm to floral arrangements.",
+      "id" : "51"
+    },
+
+
+    {
+      "name" : "Edelweiss",
+      "description" : "  Alpine and enduring, edelweiss flowers symbolize courage and alpine purity, often associated with mountain landscapes.",
+      "id" : "52"
+    },
+
+
+    {
+      "name" : "Delphinium",
+      "description" : "Towering and vibrant, delphiniums symbolize goodwill and bring a sense of exuberance to gardens with their spiky clusters of colorful blooms.",
+      "id" : "53"
+    },
+
+
+    {
+      "name" : "Rhododendron",
+      "description" : " Rhododendrons have large, bell-shaped flowers that grow in clusters in a wide variety of colors, including purple, red, orange, white, pink, and yellow. ",
+      "id" : "54"
+    },
+
+
+    {
+      "name" : "Queen Anne’s Lace",
+      "description" : "Queen Anne’s Lace is most identifiable by its white, lacy flowers.",
+      "id" : "55"
+    },
+
+
+    {
+      "name" : " Poinsettia",
+      "description" : "Poinsettias are the classic Christmas flower because of their bright red appearance. ",
+      "id" : "56"
+    },
+
+
+    {
+      "name" : "Hellebore",
+      "description" : "Hellebore features exquisite bowl-shaped flowers in white, pinks, yellows, and reds.",
+      "id" : "57"
+    },
+
+    {
+      "name" : "Gladiolus",
+      "description" : "Gladiolus features a tall, striking stalk of blooms with a fragrant scent.",
+      "id" : "58"
+    },
+
+    {
+      "name" : "Forsythia",
+      "description" : "Forsythias are shrubs that can grow up to ten feet tall and twelve feet across.",
+      "id" : "59"
+    },
+
+    {
+      "name" : "Evening Primrose",
+      "description" : "Evening Primrose is a tall wildflower that blooms at sunset.",
+      "id" : "60"
+    },
+
+
+    {
+      "name" : "Coneflower",
+      "description" : " Coneflower has large flowers with spiny, dome-shaped, orange or brown centers that grow on sturdy stalks reaching up to five feet in height.",
+      "id" : "61"
+    },
+
+
+    {
+      "name" : "Dusty Miller",
+      "description" : "With its distinctive silver and lacy foliage, the Dusty Miller is a favorite of gardeners.",
+      "id" : "62"
+    },
+
+
+    {
+      "name" : "Ranunculus",
+      "description" : "Ranunculus come in all shades of warm colors, from yellow and red to purple and pink.",
+      "id" : "63"
+    },
+
+
+
+    {
+      "name" : "Petunia",
+      "description" : "In all shades from bright white to deep purple or red, Petunias bloom profusely from early summer until frost. ",
+      "id" : "64"
+    },
+
+    {
+      "name" : "Crocus",
+      "description" : "green fruit used for its oil and brine-cured as olives.",
+      "id" : "65"
+    },
+
+
+    {
+      "name" : "Periwinkle",
+      "description" : "Periwinkle is often used by gardeners as an evergreen ground cover due to its dark green foliage.",
+      "id" : "66"
+    },
+
+    {
+      "name" : "Poppy",
+      "description" : "Bright red in color with big, showy flowers and feathery green foliage, poppies are a beautiful flower.",
+      "id" : "67"
+    },
+
+    {
+      "name" : " Snapdragon",
+      "description" : "Snapdragons can range from six inches to three feet depending on the variety. ",
+      "id" : "68"
+    },
+
+    {
+      "name" : "Delphinium",
+      "description" : "Delphiniums are known for their large spikes of colorful flowers in bright shades of blue, pink, white, and purple.",
+      "id" : "69"
+    },
+
+    {
+      "name" : "Geranium",
+      "description" : "A classic garden plant, geranium flowers have five petals in white, pink, purple, or blue.",
+      "id" : "70"
+    },
+
+
+    {
+      "name" : "Buttercup",
+      "description" : "Buttercups feature single or loosely clustered flowers with yellow petals and green foliage.",
+      "id" : "71"
+    },
+
+    {
+      "name" : "Azalea",
+      "description" : " The leaves, size, and shape of azaleas vary greatly by variety, and they range in color from pink to red to salmon. ",
+      "id" : "72"
+    },
+
+
+    {
+      "name" : " Peony",
+      "description" : "Peonies have large, wonderfully fragrant flowers, in colors including everything from purple and pink to darker shades of red.",
+      "id" : "73"
+    },
+
+    {
+      "name" : " Gardenia",
+      "description" : "Notable for their wax-like appearance and oval-shaped leaves ",
+      "id" : "74"
+    },
+
+    {
+      "name" : "Calla Lily",
+      "description" : "Calla lilies come in a variety of different colors, from snow white to bright pink.",
+      "id" : "75"
+    },
+
+    {
+      "name" : "Alstroemeria",
+      "description" : "The alstroemeria, also called the Peruvian lily, features streaked or speckled blossoms in a range of colors, including white,",
+      "id" : "76"
+    },
+
+    {
+      "name" : "Snapdragons",
+      "description" : "Graceful and spiky, snapdragons add vertical interest to gardens and symbolize strength and grace.",
+      "id" : "77"
+    },
+
+    {
+      "name" : "Stargazer Lily",
+      "description" : "Striking and fragrant, the Stargazer Lily boasts vibrant, upward-facing blooms with deep pink or crimson hues and contrasting white edges,  ",
+      "id" : "78"
+    },
+
+    {
+      "name" : " Periwinkle ",
+      "description" : "Periwinkle, also known as myrtle, is a popular ground cover with shiny dark green leaves that blooms in April and May with purple, blue, or white flowers. ",
+      "id" : "79"
+    },
+    {
+      "name": "Ornamental kale",
+      "description": "Ornamental kale is a member of the cabbage family and is closely related to broccoli, cauliflower, cabbage, and Brussels sprouts.",
+      "id": "80"
+    },
+
+
+    {
+      "name" : " Amaranthus",
+      "description" : " Amaranths comprise about 75 species that are native to every continent but Antarctica.",
+      "id" : "81"
+    },
+
+
+    {
+      "name" : " Gladiolus",
+      "description" : "Elegant gladiolus, or glads, from Europe and South Africa, make a bold statement in a garden, with trumpet-shaped flowers that open from bottom to top along tall stems. ",
+      "id" : "82"
+    },
+
+    {
+      "name" : " Larkspur ",
+      "description" : " Annual larkspur, native to Western Europe, the Mediterranean, and Asia, is a charming cottage garden plant that adds grace to a garden",
+      "id" : "83"
+    },
+
+    {
+      "name" : "Yarrow",
+      "description" : "Yarrow is a perennial in the aster family that is native to Europe, Asia, and North America. ",
+      "id" : "84"
+    },
+
+    {
+      "name" : "Astilbe",
+      "description" : "Low-maintenance astilbe, with its 25 species native to Asia and North America and many cultivars from which to choose, is an easy flower for a beginner gardener to grow. ",
+      "id" : "85"
+    },
+
+    {
+      "name" : "Cornflower",
+      "description" : "Cornflower blue is a color named for this perky annual garden flower",
+      "id" : "86"
+    },
+
+    {
+      "name" : "Crocus ",
+      "description" : "For many of us, the first hint of spring is the little crocus pushing up through the snow. ",
+      "id" : "87"
+    },
+
+    {
+      "name" : "Dianthus",
+      "description" : "Dianthus is a large genus that includes carnations and various types of pinks",
+      "id" : "88"
+    },
+
+    {
+      "name" : "Phlox",
+      "description" : "Phlox come in enough sizes and types to fill almost any niche in your garden. ",
+      "id" : "89"
+    },
+
+    {
+      "name" : "California poppy  ",
+      "description" : "Also known as the golden poppy, this bright red, orange, or yellow native plant is the state flower of California.",
+      "id" : "90"
+    },
+
+
+
+    {
+      "name" : " Celosia",
+      "description" : "A native of the Mediterranean area and East Africa, celosia is a member of the amaranth family,",
+      "id" : "91"
+    },
+
+    {
+      "name" : "Agapanthus",
+      "description" : "Agapanthus, with their round clusters of blue, lavender, or white flowers sitting atop long, stiff stems, are showy and exotic additions to a garden as accent plants or in a grouping. ",
+      "id" : "92"
+    },
+
+    {
+      "name" : "Lisianthus",
+      "description" : "This elegant flower, native to the prairies of North America, is an herbaceous perennial often grown as an annual in cool regions. ",
+      "id" : "93"
+    },
+
+    {
+      "name" : "Campanula",
+      "description" : "Over 500 species of campanula, or bellflowers, are native to the Northern Hemisphere.",
+      "id" : "94"
+    },
+
+    {
+      "name" : " Liatris",
+      "description" : "Fuzzy liatris flowers in amethyst, pink, or white blaze up tall, slender stalks that rise out of clumps of grass-like leaves. ",
+      "id" : "95"
+    },
+
+    {
+      "name" : "Gypsophila",
+      "description" : "Delicate sprays of baby’s breath, with their tiny white or pink flowers at the ends of threadlike branches",
+      "id" : "96"
+    },
+    {
+      "name": "Scabiosa",
+      "description": "\nScabiosa, commonly known as pincushion flower, is a genus of flowering plants in the honeysuckle family Caprifoliaceae.",
+      "id": "97"
+    },
+
+    {
+      "name" : "Stock",
+      "description" : "Stock, or gillyflower as it’s known in Britain, has graced cottage gardens for centuries and was a favorite flower of the Victorian era. ",
+      "id" : "98"
+    },
+
+    {
+      "name" : "Hypericum ",
+      "description" : "Commonly known as St. John’s Wort, this cheerful little plant is one of the easiest to grow in a home garden. ",
+      "id" : "99"
+    },
+
+
+    {
+      "name" : "Eryngium",
+      "description" : "Blooming from June through September, eryngium, whose common name is sea holly, is a striking perennial that is a member of the carrot family. I",
+      "id" : "100"
+    },
+
+
+    {
+      "name" : "Brunia",
+      "description" : "Brunia, a woody, evergreen shrub, is native to the Cape Region of South Africa and is just beginning to be grown commercially in California, Australia, and New Zealand. ",
+      "id" : "101"
+    },
+
+
+
+    {
+      "name" : "Salvia",
+      "description" : "Known for its vibrant spikes of tubular flowers, salvia comes in various colors and sizes, symbolizing wisdom and good health ",
+      "id" : "102"
+    },
+
+
+    {
+      "name" : "Monkey orchid",
+      "description" : "The flowers of this orchid look remarkably like the face of a — you guessed it — monkey.\n",
+      "id" : "103"
+    },
+    {
+      "name": "protea ",
+      "description": "This flower is very large — up to 12 inches in diameter.",
+      "id": "104"
+    },
+
+
+    {
+      "name" : "Ghost orchid ",
+      "description" : "A rare, endangered orchid that is leafless and grows on trees, with a shape like a floating ghost. ",
+      "id" : "105"
+    },
+
+
+    {
+      "name" : "Skeleton flower",
+      "description" : "When they get wet, the petals of this simple white flower become transparent and appear to be made of ice.",
+      "id" : "106"
+    },
+
+    {
+      "name" : "Corpse ",
+      "description" : "This huge, 100-pound plant only flowers once and gives off a strong, putrid odor.",
+      "id" : "107"
+    },
+
+    {
+      "name" : "Black bat flower",
+      "description" : "The wide petals of this flower resemble a bat with long, cascading whiskers.\n",
+      "id" : "108"
+    },
+
+    {
+      "name" : "African Boxwood",
+      "description" : "Not an actual boxwood, but rather a common name for Myrsine africana, an evergreen shrub native to South Africa. ",
+      "id" : "109"
+    },
+
+    {
+      "name" : "Balsam",
+      "description" : "A fragrant annual plant, also known as Impatiens balsamina, featuring brightly colored, spurred flowers.",
+      "id" : "110"
+    },
+
+
+    {
+      "name" : "Flax",
+      "description" : "A versatile and cultivated plant, flax (Linum usitatissimum) is known for its slender stems and blue flowers.  ",
+      "id" : "111"
+    },
+
+    {
+      "name" : "Black Turmeric",
+      "description" : "Also known as Curcuma caesia, black turmeric is a rhizomatous perennial plant native to Northeast India. ",
+      "id" : "112"
+    },
+
+    {
+      "name" : "Blue Water Lily",
+      "description" : "Also known as Nymphaea caerulea or blue lotus, the Blue Water Lily is a water plant with vibrant blue flowers. ",
+      "id" : "113"
+    },
+
+    {
+      "name" : "Puncture Vine",
+      "description" : "Is a small plant with spiny fruits that split into sharp, hard seeds. ",
+      "id" : "114"
+    },
+    {
+      "name" : "Shameplant",
+      "description" : "Mimosa pudica, commonly known as the shameplant or sensitive plant, is a unique and interactive plant known for its touch-sensitive leaves. ",
+      "id" : "115"
+    },
+
+
+    {
+      "name" : "Delonix Regia",
+      "description" : "commonly known as the Flamboyant Tree or Royal Poinciana, is a tropical deciduous tree known for its stunning, ",
+      "id" : "116"
+    },
+
+    {
+      "name" : "Hiptage",
+      "description" : "Hiptage benghalensis, commonly known as Hiptage, is a woody climbing shrub or vine with fragrant, white or yellowish flowers.",
+      "id" : "117"
+    },
+
+    {
+      "name" : "Angelica",
+      "description" : "Angelica is a short-lived perennial or hardy biennial herb in the carrot family. ",
+      "id" : "118"
+    },
+
+
+
+    {
+      "name" : "Apache Plume",
+      "description" : "Apache Plume’s flowers are pinkish-white and attractive in combination with their dark foliage. ",
+      "id" : "119"
+    },
+
+
+    {
+      "name" : "Buddleia",
+      "description" : "Commonly referred to as a butterfly bush, Buddleia davidii ",
+      "id" : "120"
+    },
+    {
+      "name": "Celosia",
+      "description": "This plant is often used for decoration. Its leaves and flowers are also used as vegetables.",
+      "id": "121"
+    },
+
+
+    {
+      "name" : "African Daisy",
+      "description" : "This is an excellent choice for anyone looking for bright, beautiful blooms all through summer into fall. ",
+      "id" : "122"
+    },
+
+
+    {
+      "name" : "American Lotus",
+      "description" : "The American Lotus (Nelumbo lutea) is a native aquatic plant known for its large, fragrant, yellow flowers and distinctive circular leaves, thriving in ponds and slow-moving water bodies across North America.",
+      "id" : "123"
+    },
+
+
+    {
+      "name" : "Balloon Flower",
+      "description" : "This is a herbaceous perennial flower that produces plentiful bell-shaped deep blue or light pink flowers.",
+      "id" : "124"
+    },
+
+
+
+    {
+      "name" : "Bearberry",
+      "description" : "This is a slow-growing evergreen shrub that is extremely winter hardy.",
+      "id" : "125"
+    },
+
+
+    {
+      "name" : "Blue Passion Flower",
+      "description" : "Also known as the Common Passion Flower, this is an RHS award-winning bloom considered one of the most attractive climbers.",
+      "id" : "126"
+    },
+
+
+    {
+      "name" : "Checkered Lily",
+      "description" : "The Checkered Lily is a charming spring-blooming bulbous plant, distinguished by its bell-shaped flowers.",
+      "id" : "127"
+    },
+
+
+    {
+      "name" : "Chinese Pink",
+      "description" : "This is a stunningly showy flower that is a biennial or short-lived perennial. ",
+      "id" : "128"
+    },
+
+
+    {
+      "name" : "Coral Bells",
+      "description" : "Coral Bells, or Heuchera, are perennial plants appreciated for their vibrant and diverse foliage, featuring a wide array of colors such as coral, red, purple, and green. ",
+      "id" : "129"
+    },
+
+
+    {
+      "name" : "Wishbone Flower",
+      "description" : "This is a bushy annual that loves shady areas. It produces plenty of two-lipped trumpet-shaped flowers that are pale lavender in color rimmed with dark-purple edges. ",
+      "id" : "130"
+    },
+
+
+
+    {
+      "name" : "West Indian Jasmine",
+      "description" : "West Indian Jasmine is a tropical plant usually found in tropical Asia",
+      "id" : "131"
+    },
+
+
+    {
+      "name" : "Vipers Bugloss",
+      "description" : "Viper's Bugloss  is a wildflower known for its striking spikes of bright blue to purple, funnel-shaped flowers and bristly, rough-textured foliage. ",
+      "id" : "132"
+    },
+
+
+    {
+      "name" : "Crown Imperial",
+      "description" : "This showy bulbous herbaceous perennial produces a display of orange pendant, bell-shaped flowers. ",
+      "id" : "133"
+    },
+
+
+
+    {
+      "name" : "Sugarbowl Clematis",
+      "description" : "This is a herbaceous perennial that produces urn-shaped, nodding blooms.",
+      "id" : "134"
+    },
+
+
+    {
+      "name" : "Stonecrop",
+      "description" : "Stonecrop, a common name for plants in the Sedum genus, refers to a diverse group of succulent perennials known for their fleshy, water-retaining leaves. ",
+      "id" : "135"
+    },
+
+
+    {
+      "name" : "Starry Eyes",
+      "description" : "This evergreen perennial grows up to two feet tall and wide. It is a clump-forming plant with dark green foliage.",
+      "id" : "136"
+    },
+    {
+      "name": "Spring Beauty",
+      "description": "Claytonia virginica was named after him in 1739. The common name, spring beauty, is obvious. These flowers bloom first in spring",
+      "id": "137"
+    },
+
+
+    {
+      "name" : "Snowdrop Windflower",
+      "description" : "The Snowdrop Windflower is a delicate late spring bloomer that grows up to 18 inches tall. ",
+      "id" : "138"
+    },
+
+
+    {
+      "name" : "Silver Lupine",
+      "description" : "This is one of the showiest and fragrant Lupines. It is an evergreen perennial that produces beautiful palmate leaves that are silky and gray. ",
+      "id" : "139"
+    },
+
+
+    {
+      "name" : "Showy Speedwell",
+      "description" : "This is another exotic spiky flower that is known for its ornamental display",
+      "id" : "140"
+    },
+
+
+
+    {
+      "name" : "Round-Headed Rampion",
+      "description" : "Also known as the Pride of Sussex, this is a herbaceous perennial plant that grows up to 20 inches tall.",
+      "id" : "141"
+    },
+
+
+
+    {
+      "name" : "Rosy Garlic",
+      "description" : "Also known as ornamental garlic, this elegant perennial is scented with a sweet but unmistakable onion aroma.",
+      "id" : "142"
+    },
+
+
+
+    {
+      "name" : "Red Torch Cactus",
+      "description" : "This is a columnar cactus that grows up to three feet in clumps. ",
+      "id" : "143"
+    },
+
+
+
+    {
+      "name" : "Red Hot Poker",
+      "description" : "There are around 70 species in the Kniphofia genus, and this is one of the most stunning. ",
+      "id" : "144"
+    },
+
+
+    {
+      "name" : "Quesnelia",
+      "description" : "This is a bromeliad from the genus Quesnelia native to Brazil.",
+      "id" : "145"
+    },
+
+
+
+    {
+      "name" : "Pincushion Flower",
+      "description" : "This is an annual or short-lived bushy perennial that produces intensely colored pincushion-like blooms. ",
+      "id" : "146"
+    },
+
+
+
+    {
+      "name" : "Persian Buttercup",
+      "description" : "This wonderfully elegant flower is a favorite of florists and gardeners.",
+      "id" : "147"
+    },
+
+
+
+    {
+      "name" : "Peace Lily",
+      "description" : "The Peace Lily is a popular indoor houseplant known for its elegant, glossy green leaves and distinctive white, hood-like flowers.",
+      "id" : "148"
+    },
+
+
+
+    {
+      "name" : "Old Lady Cactus",
+      "description" : "The Mammillaria family has around 200 cacti species, most of which are native to Mexico.",
+      "id" : "149"
+    }
+
+
+
+  ],
+  "Vegetable" :  [
+    {
+      "name" : "Acorn Squash",
+      "description" : " A sweet and nutty winter squash shaped like an acorn, often roasted or stuffed. ",
+      "id" : "0"
+
+    } ,
+    {
+      "name" : "Kiwi",
+      "description" : "Green fruit with fuzzy skin and a sweet, tart flavor, often eaten raw or in smoothies.",
+      "id" : "1"
+
+    } ,
+    {
+      "name" : "Tomato",
+      "description" : "Juicy and versatile red fruit, commonly used in salads and cooking.",
+      "id" : "2"
+    } ,
+    {
+      "name": "Avocado",
+      "description": "Ruchira or butterfruit or avocado is a fruit belonging to the Caribbean region. Avocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world.",
+      "id": "3"
+    },
+
+
+    {
+      "name" : "Artichoke:",
+      "description" : "Large, spiky flower bud with a delicious heart, often steamed or roasted.",
+      "id" : "4"
+    },
+
+    {
+      "name" : "Arugula",
+      "description" : "Peppery, leafy green with a distinctive flavor, commonly used in salads.",
+      "id" : "5"
+    },
+
+    {
+      "name" : "Asparagus",
+      "description" : "Green or white vegetable with tender shoots, rich in nutrients.",
+      "id" : "6"
+    },
+
+    {
+      "name" : "Apple groud",
+      "description" : "Apple gourd is a green, oval or round-shaped vegetable, also known as Indian squash, round melon, Indian round gourd, or tinda.",
+      "id" : "7"
+    },
+
+
+    {
+      "name" : "Tendli",
+      "description" : "Tendli, also known as ivy gourd or kundru, is a small, green, and elongated vegetable with a slightly tangy taste.",
+      "id" : "8"
+    },
+
+    {
+      "name" : "Banana Squash ",
+      "description" : "Banana Squash are cylindrical in shape and measure 20-36 inches in length and about 6 inches in diameter.",
+      "id" : "9"
+    },
+
+
+    {
+      "name" : "Basil",
+      "description" : "Basil, also called great basil, is a culinary herb of the family Lamiaceae. ",
+      "id" : "10"
+    },
+
+    {
+      "name" : "Bean Sprouts",
+      "description" : "Crunchy, nutrient-rich sprouts of various beans, used in salads and stir-fries.",
+      "id" : "11"
+    },
+
+    {
+      "name" : "Beetroot",
+      "description" : "Red or golden root vegetable with a sweet and earthy taste.",
+      "id" : "12"
+    },
+
+    {
+      "name" : "Mouse melon",
+      "description" : "Mouse melon, also known as Mexican sour gherkin or cucamelon, is a tiny cucumber-like vegetable with a refreshing, tangy flavor, resembling a miniature watermelon. ",
+      "id" : "13"
+    },
+    {
+      "name": "Fenugreek Leaves",
+      "description": "Fenugreek Leaves, also known as methi leaves, is a flavorful and aromatic herb commonly used in South Asian cuisines. ",
+      "id": "14"
+    },
+    {
+      "name": "Bok choy",
+      "description": "This vegetable is also called Chinese cabbage. This is because it looks something like this. Also, it comes from the cabbage family. Many such nutrients and properties are found in it, which not only help in keeping you healthy but also prevent problems like cancer from occurring in the body.",
+      "id": "15"
+    },
+
+
+    {
+      "name" : "Mint",
+      "description" : "Mint, with its refreshing and aromatic leaves, adds a burst of cool flavor to dishes, beverages.",
+      "id" : "16"
+    },
+
+
+    {
+      "name" : "Broad bean",
+      "description" : " Large, flat legume with a slightly sweet and earthy flavor, often enjoyed boiled, steamed, or sautéed as a versatile ingredient in salads, stews, and side dishes.",
+      "id" : "17"
+    },
+
+    {
+      "name" : "Broccoflower",
+      "description" : "The term broccoflower is actually used to describe two different, though similar, vegetables.",
+      "id" : "18"
+    },
+
+
+    {
+      "name" : "Curry Leaf",
+      "description" : "Curry leaf, a fragrant herb with shiny green leaves, adds a distinctive citrusy and aromatic flavor to various South Asian dishes.",
+      "id" : "19"
+    },
+
+    {
+      "name" : "Brussels Sprout",
+      "description" : "The Brussels sprout is a member of the Gemmifera cultivar group of cabbages, grown for its edible buds.",
+      "id" : "20"
+    },
+
+
+    {
+      "name" : "Butternut Squash",
+      "description" : "Butternut squash, known in Australia and New Zealand as butternut pumpkin or gramma, is a type of winter squash that grows on a vine.",
+      "id" : "21"
+    },
+
+    {
+      "name" : "Cabbage",
+      "description" : "Leafy green or purple vegetable, often used in coleslaw or stir-fries.",
+      "id" : "22"
+    },
+
+    {
+      "name" : "Bamboo shoots",
+      "description" : "Bamboo shoots, young and tender edible shoots from the bamboo plant, offer a mild, crisp texture and a subtle, earthy flavor.  ",
+      "id" : "23"
+    },
+
+    {
+      "name" : "Caraway",
+      "description" : "a biennial plant in the family Apiaceae, native to western Asia, Europe, and North Africa.  ",
+      "id" : "24"
+    },
+
+    {
+      "name" : "Carrot",
+      "description" : "Crunchy and orange root vegetable, rich in beta-carotene.",
+      "id" : "25"
+    },
+
+    {
+      "name" : "Cauliflower",
+      "description" : "White vegetable with a mild flavor, used in a variety of dishes. ",
+      "id" : "26"
+    },
+
+    {
+      "name" : "Cayenne Pepper",
+      "description" : "Fiery red spice derived from dried cayenne chili peppers, known for its intense heat and vibrant flavor.",
+      "id" : "27"
+    },
+
+
+    {
+      "name" : "Celeriac",
+      "description" : "Celeriac is a root vegetable closely related to celery, parsley and parsnips.",
+      "id" : "28"
+    },
+
+
+    {
+      "name" : "Celery",
+      "description" : "Crisp stalks with a light, refreshing flavor, commonly used in salads and soups.",
+      "id" : "29"
+    },
+
+    {
+      "name" : "White Goose Foot",
+      "description" : "White goosefoot, also known as lamb's quarters or Chenopodium album, is a leafy green vegetable with a mild, spinach-like flavor. ",
+      "id" : "30"
+    },
+
+    {
+      "name" : "Chard",
+      "description" : "Chard or Swiss chard is a green leafy vegetable.",
+      "id" : "31"
+    },
+
+    {
+      "name" : "Chayote",
+      "description" : "Chayote, also known as mirliton and choko, is an edible plant belonging to the gourd family, Cucurbitaceae.",
+      "id" : "32"
+    },
+
+
+    {
+      "name" : "Chickpea",
+      "description" : "Nutty and creamy legume with a firm texture, widely used in diverse cuisines.  ",
+      "id" : "33"
+    },
+
+    {
+      "name" : "Chives",
+      "description" : "a green vegetable with a mild onion-like flavor. ",
+      "id" : "34"
+    },
+
+    {
+      "name" : "Cilantro",
+      "description" : "Cilantro, also known as coriander leaves, is a fresh and fragrant herb with bright green, delicate leaves.",
+      "id" : "35"
+    },
+
+    {
+      "name" : "Collard Greens",
+      "description" : "Dark, leafy greens with a robust, slightly bitter flavor, often used in Southern cuisine. ",
+      "id" : "36"
+    },
+
+
+    {
+      "name" : "Corn",
+      "description" : "Sweet, juicy kernels on a cob, enjoyed boiled, roasted, or grilled.",
+      "id" : "37"
+    },
+
+
+    {
+      "name" : "Bottle gourd",
+      "description" : "Bottle gourd, a mild-flavored and hydrating vegetable.",
+      "id" : "38"
+    },
+
+
+    {
+      "name" : "Elephant yam",
+      "description" : "Elephant yam, also known as Suran or Amorphophallus paeoniifolius, is a starchy tuber with a unique, knobbly appearance. ",
+      "id" : "39"
+    },
+
+    {
+      "name" : "Cucumber",
+      "description" : "Crisp and hydrating vegetable often used in salads.",
+      "id" : "40"
+    },
+
+
+
+    {
+      "name" : "Jackfruit",
+      "description" : "Jackfruit, a large tropical fruit, is renowned for its versatility and meaty texture. ",
+      "id" : "41"
+    },
+
+
+    {
+      "name" : "Cluster Beans",
+      "description" : "Cluster beans, also known as guar beans or gavar, are slender green beans with a slightly bitter taste. ",
+      "id" : "42"
+    },
+
+
+
+    {
+      "name" : "Dill",
+      "description" : "Fragrant herb with feathery green leaves and a mild, slightly tangy flavor.",
+      "id" : "43"
+    },
+
+
+
+    {
+      "name" : "Eggplant",
+      "description" : "Purple or white vegetable with a spongy texture, used in various  ",
+      "id" : "44"
+    },
+
+
+
+    {
+      "name" : "Endive",
+      "description" : "Endive, a leafy green vegetable with crisp and slightly bitter leaves, is often used in salads and appetizers. ",
+      "id" : "45"
+    },
+
+
+    {
+      "name" : "Fennel",
+      "description" : " Fennel, a bulbous vegetable with feathery green fronds, has a sweet, licorice-like flavor. ",
+      "id" : "46"
+    },
+
+
+    {
+      "name" : "Fiddleheads",
+      "description" : "Coiled, young fern fronds with a delicate texture and earthy flavor, often foraged in spring.",
+      "id" : "47"
+    },
+
+
+    {
+      "name" : "Raw Banana",
+      "description" : "Raw banana, also known as green banana or plantain, ",
+      "id" : "48"
+    },
+
+
+    {
+      "name" : "Garlic",
+      "description" : "Aromatic cloves with a pungent flavor, essential for many savory dishes.",
+      "id" : "49"
+    },
+
+    {
+      "name" : "Olive ",
+      "description" : "Olive, a small, oval-shaped fruit, is a key ingredient in Mediterranean cuisine.",
+      "id" : "50"
+    },
+
+
+    {
+      "name" : "Ginger",
+      "description" : "Spicy root with a warm, pungent flavor, used in stir-fries, marinades, and teas.",
+      "id" : "51"
+    },
+
+
+    {
+      "name" : "Cassava",
+      "description" : " Cassava, also known as yuca or manioc, is a starchy root vegetable that is a dietary staple in many tropical regions.",
+      "id" : "52"
+    },
+
+
+    {
+      "name" : "Green pepper ",
+      "description" : "Also known as bell pepper, a crisp and mildly sweet vegetable with a slightly bitter undertone. ",
+      "id" : "53"
+    },
+
+
+    {
+      "name" : "Habanero",
+      "description" : "Habanero, a small and extremely spicy chili pepper, is known for its intense heat and fruity flavor. ",
+      "id" : "54"
+    },
+
+
+    {
+      "name" : "White Radish",
+      "description" : "Also known as daikon radish, it is a large, mild-flavored radish with a crisp texture. ",
+      "id" : "55"
+    },
+
+
+    {
+      "name" : "Nopales",
+      "description" : "Nopales, also known as prickly pear cactus pads, are flat, paddle-shaped green structures derived from the prickly pear cactus.",
+      "id" : "56"
+    },
+
+
+    {
+      "name" : "Purslane",
+      "description" : "Purslane, a leafy green vegetable with succulent leaves, is known for its mild, slightly tangy flavor and crunchy texture. ",
+      "id" : "57"
+    },
+
+    {
+      "name" : "Jerusalem artichoke",
+      "description" : "Tuberous root vegetable with a nutty, sweet flavor and a crisp texture. ",
+      "id" : "58"
+    },
+
+    {
+      "name" : "Jicama",
+      "description" : "A crunchy and slightly sweet root vegetable with a mild flavor and water chestnut-like texture. ",
+      "id" : "59"
+    },
+
+    {
+      "name" : "Kale",
+      "description" : "Dark green, leafy vegetable with a slightly bitter flavor, rich in nutrients.",
+      "id" : "60"
+    },
+
+
+    {
+      "name" : "Spine Gourd",
+      "description" : " Spine gourd, also known as teasel gourd or kantola, is a small, spiky vegetable with a slightly bitter taste. ",
+      "id" : "61"
+    },
+
+
+    {
+      "name" : "Kohlrabi",
+      "description" : "Edible stem vegetable with a bulbous, turnip-like appearance and a mild, slightly peppery taste.",
+      "id" : "62"
+    },
+
+
+    {
+      "name" : "Lavender",
+      "description" : " Fragrant herb with narrow, aromatic leaves and vibrant purple flowers. ",
+      "id" : "63"
+    },
+
+
+
+    {
+      "name" : "Leeks",
+      "description" : "White stalks with a mild, onion-like flavor, often used in soups and stews.",
+      "id" : "64"
+    },
+
+    {
+      "name" : "Cardoon",
+      "description" : " Cardoon is a type of vegetable that is related to artichokes. It is often used in Mediterranean cuisine.",
+      "id" : "65"
+    },
+
+
+    {
+      "name" : "Lemon Grass",
+      "description" : "A tropical herb with long, green, fragrant stalks and a citrusy flavor. ",
+      "id" : "66"
+    },
+
+    {
+      "name" : "Lentils",
+      "description" : "Small, brown legumes with a nutty flavor, high in protein and fiber.",
+      "id" : "67"
+    },
+
+    {
+      "name" : "Lettuce",
+      "description" : "Leafy greens with various types, commonly used in salads.",
+      "id" : "68"
+    },
+    {
+      "name": "Mamey Sapote ",
+      "description": "A tropical fruit with a rough brown exterior and sweet, orange-pink flesh. ",
+      "id": "70"
+    },
+
+
+    {
+      "name" : "Celtuce",
+      "description" : "Celtuce, also known as stem lettuce or asparagus lettuce, is a unique vegetable valued for its crisp and tender stem, ",
+      "id" : "71"
+    },
+
+    {
+      "name" : "Radicchio",
+      "description" : "Radicchio, a vibrant red or purple leafy vegetable, belongs to the chicory family and has a distinctive bitter taste.",
+      "id" : "72"
+    },
+
+
+    {
+      "name" : "Mung bean",
+      "description" : "Small, green legume with a round shape and mild, slightly nutty flavor. ",
+      "id" : "73"
+    },
+
+    {
+      "name" : "Mushroom ",
+      "description" : "Fungi with a unique texture and flavor, used in various culinary dishes.",
+      "id" : "74"
+    },
+
+    {
+      "name" : "Tomatillo",
+      "description" : "Tomatillo, a small green fruit enclosed in a papery husk, is a staple in Mexican cuisine. ",
+      "id" : "75"
+    },
+
+    {
+      "name" : "Hubbard squash",
+      "description" : "Hubbard squash, a winter squash variety, is characterized by its large size, bumpy skin, and sweet, fine-textured flesh. ",
+      "id" : "76"
+    },
+
+    {
+      "name" : "Orach",
+      "description" : "Orach, also known as mountain spinach or red orach, is a leafy green vegetable with a mild and slightly salty flavor. ",
+      "id" : "77"
+    },
+
+    {
+      "name" : "Dandelion greens",
+      "description" : "Dandelion greens, the leaves of the common dandelion plant, offer a slightly bitter and peppery flavor. ",
+      "id" : "78"
+    },
+
+    {
+      "name" : "Lady’s finger",
+      "description" : "Green, pod-shaped vegetable with a distinct mucilaginous texture when cooked.  ",
+      "id" : "79"
+    },
+
+    {
+      "name" : "Onion",
+      "description" : "pungent bulb vegetable with layered, edible leaves, available in various types such as red, white, and yellow. ",
+      "id" : "80"
+    },
+
+
+    {
+      "name" : "Oregano",
+      "description" : "Oregano, a fragrant herb with a robust and slightly peppery flavor, is commonly used in Mediterranean and Italian cuisines. ",
+      "id" : "81"
+    },
+    {
+      "name": "Wax gourd",
+      "description": "Winter melon is a type of fruit that is often used in Asian cuisine. It is low in calories and high in fiber.",
+      "id": "82"
+    },
+
+    {
+      "name" : "Parsley",
+      "description" : "Herb with vibrant green, curly or flat leaves, and a mild, fresh flavor. ",
+      "id" : "83"
+    },
+
+    {
+      "name" : "Goji berries",
+      "description" : "Goji berries, also known as wolfberries, are small, red-orange berries that grow on the Lycium barbarum plant.",
+      "id" : "84"
+    },
+
+
+
+    {
+      "name" : "Pea",
+      "description" : " Small, round, and green legume with a sweet and crisp taste. ",
+      "id" : "86"
+    },
+
+    {
+      "name" : "Epazote",
+      "description" : "Epazote, a pungent herb native to Central America, is widely used in Mexican cuisine.  ",
+      "id" : "87"
+    },
+
+    {
+      "name" : "Potato",
+      "description" : "Starchy tuberous vegetable, a versatile kitchen staple.",
+      "id" : "88"
+    },
+
+    {
+      "name" : "Pumpkin",
+      "description" : "A vibrant orange winter squash with a sweet, earthy flavor. ",
+      "id" : "89"
+    },
+
+    {
+      "name" : "Baobab leaves",
+      "description" : "Baobab leaves, harvested from the baobab tree (Adansonia species), are commonly used in African cuisine.  ",
+      "id" : "90"
+    },
+    {
+      "name": " Red Radish",
+      "description": "Small, crunchy root vegetable with a peppery flavor.",
+      "id": "91"
+    },
+
+    {
+      "name" : "Borage",
+      "description" : "Borage, an herb with bright blue flowers, is known for its mild cucumber-like flavor. ",
+      "id" : "92"
+    },
+
+    {
+      "name" : "Rosemary",
+      "description" : "Fragrant herb with needle-like leaves and a robust, pine-like flavor.",
+      "id" : "93"
+    },
+
+    {
+      "name" : "Butter Lettuce",
+      "description" : "Butter lettuce, also known as Bibb or Boston lettuce, is a variety of lettuce with soft, tender leaves and a mild, sweet flavor.",
+      "id" : "94"
+    },
+
+    {
+      "name" : "Cavolo Nero",
+      "description" : "Cavolo Nero, also known as Lacinato kale, Tuscan kale, or dinosaur kale, is a dark green leafy vegetable with long, narrow, textured leaves. ",
+      "id" : "95"
+    },
+
+    {
+      "name" : "Sage",
+      "description" : "Sage, a fragrant herb with soft, gray-green leaves, is renowned for its earthy, savory flavor.",
+      "id" : "96"
+    },
+
+    {
+      "name" : "Spring onions",
+      "description" : "Also known as green onion, a mild and crisp allium with long, slender green stalks and small white bulbs. ",
+      "id" : "97"
+    },
+
+    {
+      "name" : "Skirrets",
+      "description" : " Root vegetable with a sweet and nutty flavor, resembling a small parsnip.",
+      "id" : "98"
+    },
+
+    {
+      "name" : "Soybean",
+      "description" : "Versatile legume with high protein content, often used in various forms, including soy milk, tofu, tempeh, and soy sauce.",
+      "id" : "99"
+    },
+
+
+    {
+      "name" : "Cresson",
+      "description" : "Cresson typically refers to watercress, a leafy green aquatic plant known for its peppery taste.",
+      "id" : "100"
+    },
+
+
+    {
+      "name" : "Spinach",
+      "description" : "Dark, leafy green vegetable high in iron and vitamins.",
+      "id" : "101"
+    },
+
+
+    {
+      "name" : "Zucchini",
+      "description" : "Summer squash with a mild flavor and tender texture. ",
+      "id" : "102"
+    },
+
+
+    {
+      "name" : "Sweet Potato",
+      "description" : " Root vegetable with orange or purple flesh and a sweet, earthy flavor. ",
+      "id" : "103"
+    },
+
+
+
+    {
+      "name" : "Tabasco pepper",
+      "description" : "Small, fiery chili pepper used to make Tabasco sauce. Named after the Mexican state of Tabasco, ",
+      "id" : "104"
+    },
+
+
+    {
+      "name" : "Taro",
+      "description" : " Starchy root vegetable with a hairy outer layer and a nutty, mildly sweet flavor. ",
+      "id" : "105"
+    },
+
+
+    {
+      "name" : "Tatsoi",
+      "description" : " Leafy green vegetable with spoon-shaped leaves and a mild, mustard-like flavor. ",
+      "id" : "106"
+    },
+
+
+    {
+      "name" : "Thyme",
+      "description" : "Fragrant herb with small, gray-green leaves and a savory, earthy flavor. ",
+      "id" : "107"
+    },
+    {
+      "name": "Jerusalem Artichoke",
+      "description": "Also known as Jerusalem artichoke, topinambur is a root vegetable with knobby, beige tubers.",
+      "id": "108"
+    },
+
+
+    {
+      "name" : "Tubers",
+      "description" : "Thickened underground stems of certain plants, serving as storage organs for nutrients. ",
+      "id" : "109"
+    },
+
+
+    {
+      "name" : "Turnip",
+      "description" : "Root vegetable with a white or purple exterior and a crisp, peppery flesh. ",
+      "id" : "110"
+    },
+
+
+    {
+      "name" : "Wasabi",
+      "description" : "A pungent and spicy condiment originating from the Japanese horseradish plant.  ",
+      "id" : "111"
+    },
+
+
+    {
+      "name" : "Water chestnut",
+      "description" : "Water chestnut, a crisp and slightly sweet aquatic vegetable, is popular in Asian cuisine.  ",
+      "id" : "112"
+    },
+
+
+    {
+      "name" : "Watercress",
+      "description" : "Leafy green aquatic plant with small, crisp, and peppery leaves. ",
+      "id" : "113"
+    },
+
+
+
+    {
+      "name" : "Amaranth",
+      "description" : "Amaranth, a nutritious and versatile grain, is known for its tiny, protein-rich seeds and vibrant, edible leaves. ",
+      "id" : "114"
+    },
+
+
+    {
+      "name" : "Yam",
+      "description" : "Starchy root vegetable with a rough, scaly skin and sweet, moist flesh.  ",
+      "id" : "115"
+    },
+
+    {
+      "name" : "Bitter gourd",
+      "description" : "Bitter gourd, also known as bitter melon, is a green, oblong vegetable with a distinctive bitter taste.",
+      "id" : "116"
+    },
+
+
+    {
+      "name" : "Drumstick",
+      "description" : "Drumstick, also known as moringa or Moringa oleifera, is a long, slender green vegetable with a slightly bitter taste. ",
+      "id" : "117"
+    },
+
+    {
+      "name" : "Turmeric",
+      "description" : "Turmeric, a bright yellow spice derived from the Curcuma longa plant, is known for its ",
+      "id" : "118"
+    },
+
+
+    {
+      "name" : "Groundnuts",
+      "description" : "Peanuts are legumes that grow underground and are commonly consumed as a snack or used in various culinary applications.",
+      "id" : "119"
+    },
+
+    {
+      "name" : "Lemon",
+      "description" : "Lemon is a citrus fruit that has an acidity level of between 0.7 and 3.5 (depending on the variety). It is usually eaten raw, but can also be used in cooking.",
+      "id" : "120"
+    },
+
+
+    {
+      "name" : "Moringa",
+      "description" : "Moringa is a tree that is native to South Asia, but it has been grown by many people around the world. It produces a lot of edible leaves and seeds.",
+      "id" : "121"
+    },
+    {
+      "name": "Rutabaga",
+      "description": "Rutabaga is a root vegetable, commonly known as 'swede' in most parts of the world. In North America, however, it goes by the name rutabaga. It is a cross between a turnip and a cabbage, and can be cooked in a number of ways.",
+      "id": "122"
+    },
+    {
+      "name": "Ambat Chuka",
+      "description": "This green leafy vegetable is a rich source of fiber, vitamins A, and C and many other micronutrients,",
+      "id": "123"
+    },
+
+    {
+      "name" : "Malabar Spinach",
+      "description" : "Malabar spinach, also known as basella or vine spinach, is a leafy green vegetable with thick, fleshy leaves. ",
+      "id" : "124"
+    },
+    {
+      "name" : "Romanesco Broccoli",
+      "description" : "Romanesco broccoli, also known as Roman cauliflower or Romanesque cauliflower, is a unique and visually striking vegetable known for its intricate fractal-like pattern. ",
+      "id" : "125"
+    } ,
+
+    {
+      "name" : "Cowpeas",
+      "description" : "Cowpeas, also known as black-eyed peas or southern peas, are a type of legume that belongs to the Vigna genus. ",
+      "id" : "126"
+    },
+    {
+      "name": "Pigeon",
+      "description": "Pigeon, scientifically known as Cajanus cajan, are a leguminous plant belonging to the Fabaceae family. ",
+      "id": "127"
+    },
+
+
+    {
+      "name" : "Jute Leaves",
+      "description" : "Jute leaves, also known as saluyo in some regions, are dark green, leafy vegetables derived from the jute plant (Corchorus olitorius). ",
+      "id" : "128"
+    },
+    {
+      "name": "Mizuna",
+      "description": "It is a leaf vegetable originally from East Asia (Japan). It is related to cabbages such as cauliflower, kale, broccoli and Brussels sprouts.  ",
+      "id": "129"
+    },
+
+
+    {
+      "name" : "Castelfranco radicchio",
+      "description" : "Castelfranco radicchio have a beautiful tulip-like shape, with an open architecture that resembles a lettuce.",
+      "id" : "130"
+    },
+
+
+    {
+      "name" : "Nasturtium",
+      "description" : "Peppery leaves and edible flowers, often added to salads.",
+      "id" : "131"
+    },
+
+
+    {
+      "name" : "Samphire",
+      "description" : "A crisp, succulent sea vegetable often used in seafood dishes.",
+      "id" : "132"
+    },
+
+    {
+      "name" : "Salsify",
+      "description" : "A root vegetable with a subtle oyster-like flavor when cooked.",
+      "id" : "133"
+    },
+    {
+      "name": "Ramps",
+      "description": " Ramps are a wild onion. They are part of the aluminum family, which includes garlic and onions.",
+      "id": "134"
+    },
+
+    {
+      "name" : "Purple Sweet Potato",
+      "description" : " A sweet and vibrant purple-fleshed variety of the sweet potato.",
+      "id" : "135"
+    },
+    {
+      "name": "Brussels Sprouts ",
+      "description": "A colorful variation of the classic Brussels sprouts.",
+      "id": "136"
+    },
+
+
+    {
+      "name" : "Pattypan Squash",
+      "description" : "Small, disc-shaped squash with a mild flavor.",
+      "id" : "137"
+    },
+    {
+      "name": "Black Salsify",
+      "description": "To make things a little confusing, “true” white salsify also has a “false” counterpart called black salsify or scorzonera, which comes from an old French word meaning “snake.” ",
+      "id": "138"
+    },
+
+
+    {
+      "name" : "Wakame",
+      "description" : "Edible seaweed commonly used in Japanese miso soup.",
+      "id" : "139"
+    },
+    {
+      "name": "Chinese artichoke",
+      "description": " Also known as Chinese artichoke, crosne is a small, knobby tuber with a nutty flavor.",
+      "id": "140"
+    },
+
+
+    {
+      "name" : "Mashua",
+      "description" : "Mashua is a flowering plant native to South America that produces an edible tuber with a pungent, peppery flavor.",
+      "id" : "141"
+    },
+    {
+      "name" : " ALFALFA SPROUTS",
+      "description" : "Alfalfa sprouts are tiny, delicate sprouts that are grown from the seeds of the alfalfa plant (Medicago sativa).",
+      "id" : "142"
+    },
+    {
+      "name": "Angelica",
+      "description": "Angelica sweet is a delicious, green herb that can be used to flavor drinks or sweeten desserts.",
+      "id": "143"
+    } ,
+
+
+    {
+      "name" : "Yucca Root",
+      "description" : "Yucca root, also known as cassava or manioc, is a starchy tuber commonly used in cooking.",
+      "id" : "144"
+    },
+    {
+      "name": " Stinging Nettles",
+      "description": "Nettles, also known as stinging nettles, are leafy green plants with small hairs that can cause a stinging sensation upon contact. ",
+      "id": "146"
+    } ,
+
+    {
+      "name" : "Galangal",
+      "description" : "Galangal is a rhizome that belongs to the ginger family and is used as a spice and herbal remedy.",
+      "id" : "147"
+    },
+    {
+      "name": "Broccoli",
+      "description": "Broccoli, also known as baby broccoli or broccolette, is a vegetable that is a cross between broccoli and Chinese kale.",
+      "id": "148"
+    },
+
+    {
+      "name" : "Red Kuri",
+      "description" : "This Japanese winter squash has a rare teardrop shape and vibrantly orange color.",
+      "id" : "149"
+    }
+
+
+  ],
+  "Modes of Transport" : [
+    {
+      "name" : "Bicycles",
+      "description" : "Two-wheeled, human-powered vehicle for commuting, exercise, and recreation.",
+      "id" : "0"
+
+    } ,
+    {
+      "name" : "Car",
+      "description" : "Four-wheeled motor vehicle, typically used for personal transportation and short-distance travel.",
+      "id" : "1"
+
+    } ,
+    {
+      "name" : "Train",
+      "description" : "Rail vehicle that travels on tracks, often used for long-distance passenger and freight transport.",
+      "id" : "2"
+    } ,
+    {
+      "name" : "Airplane",
+      "description" : "Fixed-wing aircraft that flies through the air, used for long-distance travel and air cargo.",
+      "id" : "3"
+    },
+
+
+    {
+      "name" : "Bus",
+      "description" : "Road vehicle designed to carry multiple passengers, often used for public transportation.",
+      "id" : "4"
+    },
+
+    {
+      "name" : "Boat",
+      "description" : "Watercraft of various sizes and shapes, used for transportation, recreation, and fishing.",
+      "id" : "5"
+    },
+
+    {
+      "name" : "Motorcycle",
+      "description" : "Two-wheeled motor vehicle with a single seat or sidecar, typically used for personal transportation and sport.",
+      "id" : "6"
+    },
+
+    {
+      "name" : "Tram",
+      "description" : "Rail vehicle that runs on tracks along streets, often used for urban transportation.",
+      "id" : "7"
+    },
+
+
+    {
+      "name" : "Truck",
+      "description" :  "Large motor vehicle designed to transport goods, often used for commercial freight transport.",
+      "id" : "8"
+    },
+
+    {
+      "name" : "Ferry",
+      "description" : "A boat or ship used to transport passengers, vehicles, or goods across a body of water, such as rivers or seas.",
+      "id" : "9"
+    },
+
+
+    {
+      "name" : "Streetcar",
+      "description" : "A rail-based public transport vehicle running on tracks in streets, often seen in urban areas.",
+      "id" : "10"
+    },
+
+    {
+      "name" : "Metro",
+      "description" : "An underground or elevated railway system used for public transportation within cities or urban areas.",
+      "id" : "11"
+    },
+
+    {
+      "name" : "Scooter",
+      "description" : " Two-wheeled motorized or non-motorized vehicle for personal transport, typically smaller than motorcycles.",
+      "id" : "12"
+    },
+
+    {
+      "name" : "Tractor",
+      "description" : " Heavy-duty vehicle used primarily in agriculture for towing, plowing, and other farm tasks.",
+      "id" : "13"
+    },
+
+    {
+      "name" : "Ropeway",
+      "description" : "Transport system using suspended cables or ropes to carry passengers or goods, often across difficult terrains or over short distances.",
+      "id" : "14"
+    },
+
+
+    {
+      "name" : "Ship",
+      "description" : " Large watercraft designed for navigation in deep waters, used for transportation of goods and passengers across oceans and seas",
+      "id" : "15"
+    },
+
+
+    {
+      "name" : "Limousine",
+      "description" : "Luxurious, elongated car typically chauffeured, offering comfort and prestige for special occasions or executive transport",
+      "id" : "16"
+    },
+
+
+    {
+      "name" : "Jetpack",
+      "description" : " Personal propulsion device worn on the back, enabling short-distance flight through jet propulsion, often used for experimental or recreational purposes",
+      "id" : "17"
+    },
+
+    {
+      "name" : "Houseboat",
+      "description" : "A floating home designed for living on water, often equipped with amenities similar to a house, used for leisure or as a permanent residence on rivers, lakes, or canals",
+      "id" : "18"
+    },
+
+
+    {
+      "name" : "Helicopter",
+      "description" : "Aircraft capable of vertical takeoff and landing, using rotating blades to fly forward, ",
+      "id" : "19"
+    },
+    {
+      "name": "Van",
+      "description": "Motor vehicle primarily designed for transporting goods or cargo, commonly used by courier services or businesses for logistical purposes.",
+      "id": "20"
+    },
+
+
+    {
+      "name" : "Dump Truck",
+      "description" : "Heavy-duty vehicle with an open-box bed that tilts, used for transporting and unloading bulk materials, commonly seen in construction and mining..",
+      "id" : "21"
+    },
+
+    {
+      "name" : "Ambulance",
+      "description" : "Emergency vehicle equipped with medical apparatus to transport patients, providing rapid medical care en route to hospitals or healthcare facilities.",
+      "id" : "22"
+    },
+
+    {
+      "name" : "Auto Rickshaw",
+      "description" : "Three-wheeled motorized vehicle used for short-distance transportation in urban areas, often a common mode of taxi service in many countries.",
+      "id" : "23"
+    },
+
+
+    {
+      "name" : "Taxi",
+      "description" : "is a type of vehicle for hire with a driver, used by a single passenger or small group of passengers, often for a non-shared ride.",
+      "id" : "24"
+    },
+
+
+    {
+      "name" : "Rickshaw",
+      "description" : "two-wheeled vehicle with a doorless, chairlike body and a collapsible hood, which holds one or two passengers and is drawn by a man between two shafts.",
+      "id" : "25"
+    },
+    {
+      "name": "Hot Air Balloon",
+      "description": "Lighter-than-air aircraft for leisure or scientific research.",
+      "id": "26"
+    },
+
+
+    {
+      "name" : "Airship",
+      "description" : "Slow but offers unique sightseeing experiences.",
+      "id" : "27"
+    },
+
+
+
+    {
+      "name" : "Barge",
+      "description" : "Cargo transportation on inland waterways.",
+      "id" : "28"
+    },
+
+
+    {
+      "name" : "Cargo bike",
+      "description" : "Human-powered transport for small cargo loads.",
+      "id" : "29"
+    },
+    {
+      "name": "Bullock Cart",
+      "description": "Animal-drawn or human-powered vehicle for short-distance transport.",
+      "id": "30"
+    },
+    {
+      "name": "Chairlift",
+      "description": "An elevated passenger ropeway, or chairlift, is a type of aerial lift, which consists of a continuously circulating steel wire rope loop strung between two end terminals and usually over intermediate towers, carrying a series of chairs.",
+      "id": "31"
+    },
+
+
+
+    {
+      "name" : "Dog sled",
+      "description" : "Traditional transport in snowy regions, often used for racing.",
+      "id" : "32"
+    },
+
+    {
+      "name" : "Drone",
+      "description" : "Unmanned aerial vehicle for delivery, surveillance, or filmmaking.",
+      "id" : "33"
+    },
+
+
+    {
+      "name" : "Elephant",
+      "description" : "Used for transportation in Southeast Asia, ethical concerns exist.",
+      "id" : "34"
+    },
+    {
+      "name": "Funicular",
+      "description": "A funicular is a mountain railway designed to traverse a slope or climb and is usually used to go up and down.",
+      "id": "35"
+    },
+
+
+    {
+      "name" : "Gondola",
+      "description" : "Boat used for transportation in canals or lagoons.",
+      "id" : "36"
+    },
+
+
+    {
+      "name" : "Hang glider",
+      "description" : "Glider launched from a cliff or mountain, controlled by body movements.",
+      "id" : "37"
+    },
+
+
+    {
+      "name" : "Horseback riding",
+      "description" : "Traditional mode of transport and leisure activity.",
+      "id" : "38"
+    },
+
+    {
+      "name" : "Hovercraft",
+      "description" : "Air-cushioned vehicle that travels over land and water.",
+      "id" : "39"
+    },
+
+    {
+      "name" : "Jet ski",
+      "description" : "Personal watercraft for recreational use.",
+      "id" : "40"
+    },
+    {
+      "name": "Maglev train",
+      "description": "High-speed train using magnetic levitation, not widespread yet.",
+      "id": "41"
+    },
+    {
+      "name": "Monorail",
+      "description": "A rail is a railway in which the track is made of a single rail or beam.",
+      "id": "42"
+    },
+
+    {
+      "name" : "Moped Scooter",
+      "description" : "Small gasoline-powered motor scooter.",
+      "id" : "43"
+    },
+
+    {
+      "name" : "Mule",
+      "description" : "Hybrid breed of horse and donkey used for pack carrying.",
+      "id" : "44"
+    },
+
+    {
+      "name" : "Oxcart",
+      "description" : "Animal-drawn cart used for agriculture and transportation.",
+      "id" : "45"
+    },
+
+
+
+    {
+      "name" : "Paraglider",
+      "description" : "Lightweight foot-launched glider dependent on wind currents.",
+      "id" : "46"
+    },
+    {
+      "name": "Subway",
+      "description": "Subway trains are used to transport large numbers of passengers within urban and suburban areas.",
+      "id": "47"
+    },
+    {
+      "name": "Tram",
+      "description": "Electrically powered tram on city streets.",
+      "id": "48"
+    },
+
+
+
+    {
+      "name" : "Snowmobile",
+      "description" : "Motorized vehicle for travel on snow or ice.",
+      "id" : "49"
+    },
+    {
+      "name": "Sledges",
+      "description": "Animal-drawn vehicle used on snow or ice.",
+      "id": "50"
+    },
+
+
+    {
+      "name" : "Segway",
+      "description" : "Self-balancing electric scooter for personal mobility.",
+      "id" : "51"
+    },
+
+
+    {
+      "name" : "Sailboat",
+      "description" : "Wind-powered boat for leisure or racing.",
+      "id" : "52"
+    },
+
+
+    {
+      "name" : "Roller skates",
+      "description" : "Recreational activity, requires balance and skill.",
+      "id" : "53"
+    },
+
+    {
+      "name" : "Rocket",
+      "description" : "Used for spacecraft launches and space exploration.",
+      "id" : "54"
+    },
+
+    {
+      "name" : "Pedal scooter",
+      "description" : "Human-powered kick scooter for short distances.",
+      "id" : "55"
+    },
+
+    {
+      "name" : "Bamboo train",
+      "description" : "The bamboo train (norry) is powered by a small petrol belt engine with a rudimentary timber beam foot brake - fascinating.",
+      "id" : "56"
+    },
+    {
+      "name": "Caballito de totora",
+      "description": "Traditional reed boat made from totora reeds, used by the Uros people on Lake Titicaca in Peru.",
+      "id": "57"
+    },
+
+    {
+      "name" : "Jeepney",
+      "description" : " Colorful and iconic public transportation in the Philippines, originally made from surplus military jeeps.",
+      "id" : "58"
+    },
+
+    {
+      "name" : "Zipline",
+      "description" : "Aerial cable mechanism consisting of a pulley suspended on a cable, usually made of stainless steel, mounted on a slope. ",
+      "id" : "59"
+    },
+
+
+    {
+      "name" : "Jumbo Truck",
+      "description" : "Colloquial term for large, wide-body commercial airplanes, such as the Boeing 747. Known for their significant size and capacity for long-haul flights.",
+      "id" : "60"
+    },
+
+
+
+
+    {
+      "name" : "Songthaew",
+      "description" : "Shared passenger vehicle in Southeast Asia, especially in Thailand. ",
+      "id" : "61"
+    },
+    {
+      "name": "Hydrofoil",
+      "description": " A hydrofoil is a lifting surface, or foil, that operates in water. They are similar in appearance and purpose to aerofoils used by aeroplanes. ",
+      "id": "62"
+    },
+
+
+
+    {
+      "name" : "Cyclo",
+      "description" : "Three-wheeled bicycle taxi with a passenger seat in the front, often used for short-distance transportation in Southeast Asian cities.",
+      "id" : "63"
+    },
+
+
+    {
+      "name" : "Hand-Pulled Rickshaw",
+      "description" : "Human-powered vehicle with a two-wheeled carriage, often used for short-distance transport in some urban areas. Pulled by a person, typically walking or running.",
+      "id" : "64"
+    },
+
+
+    {
+      "name" : "Dhow",
+      "description" : " Traditional sailing vessel with one or more masts, commonly used in the Arabian Peninsula and Indian Ocean regions. Dhows are often characterized by their distinctive lateen sails.",
+      "id" : "65"
+    },
+
+
+    {
+      "name" : "Duck Boat",
+      "description" : "Amphibious vehicle designed for both land and water travel. ",
+      "id" : "66"
+    },
+    {
+      "name": "Eurostar Train",
+      "description": "High-speed train service connecting major cities in Europe, notably linking London with cities like Paris, Brussels, and Amsterdam through the Channel Tunnel. ",
+      "id": "67"
+    },
+
+
+    {
+      "name" : "Crane",
+      "description" : "Heavy machinery used for lifting and moving heavy objects.",
+      "id" : "68"
+    },
+
+    {
+      "name" : "Mixer truck",
+      "description" : " Heavy-duty vehicle designed to transport freshly mixed concrete from the batching plant to construction sites, equipped with a rotating drum for continuous mixing during transit.",
+      "id" : "69"
+    },
+
+
+
+
+    {
+      "name" : "JCB",
+      "description" : " Heavy equipment commonly used in construction and excavation, combining a front shovel/bucket and a rear digging arm/backhoe.",
+      "id" : "70"
+    },
+
+
+
+
+    {
+      "name" : "Fire Brigade",
+      "description" : "Fire brigade, also known as fire engines, are specialized vehicles equipped with firefighting apparatus and tools, designed to respond rapidly to emergency situations, extinguishing fires and providing rescue and disaster response services.",
+      "id" : "71"
+    },
+
+
+    {
+      "name" : "Coco Taxi",
+      "description" : "Coco Taxi: Three-wheeled, motorized, yellow and black scooter taxis commonly found in Cuba, offering a unique and efficient mode of urban transportation.",
+      "id" : "72"
+    },
+
+
+    {
+      "name" : "Camel bus",
+      "description" : "Articulated or double-decker bus with a hump-like design resembling a camel's back, often used in public transportation systems for increased passenger capacity.",
+      "id" : "73"
+    },
+
+
+    {
+      "name" : "Van",
+      "description" : "Multi-purpose vehicles used for transporting goods or people.",
+      "id" : "74"
+    },
+
+    {
+      "name" : "School Bus",
+      "description" : " Dedicated vehicles for transporting students to and from schools.",
+      "id" : "75"
+    },
+
+    {
+      "name" : "Camel",
+      "description" : "Camels, known as the ships of the desert are resilient and efficient modes of transport, well-adapted to arid landscapes, capable of carrying heavy loads for long distances.\n",
+      "id" : "76"
+    },
+
+
+    {
+      "name" : "Spacecraft",
+      "description" : "Spacecraft are vehicles designed for travel or operation in outer space.",
+      "id" : "77"
+    },
+
+    {
+      "name" : "Container ships",
+      "description" : " Efficiently carry standardized cargo containers over long distances.\n ",
+      "id" : "78"
+    },
+
+    {
+      "name" : "Helicopters",
+      "description" : "Helicopters are versatile rotary-wing aircraft capable of vertical takeoff, landing, and hovering, with the ability to maneuver in any direction.",
+      "id" : "79"
+    },
+
+    {
+      "name" : "Gliders",
+      "description" : "Sailplanes utilizing wind currents for sustained flight without an engine.",
+      "id" : "80"
+    },
+
+
+    {
+      "name" : "Kayak",
+      "description" : "Small, narrow watercraft paddled with a double-bladed paddle.",
+      "id" : "81"
+    },
+    {
+      "name" : "Electric skateboard",
+      "description" : "Skateboard with an electric motor for propulsion.",
+      "id" : "83"
+    },
+
+    {
+      "name" : "Submarine",
+      "description" : "Watercraft capable of underwater operation for naval purposes.",
+      "id" : "84"
+    },
+
+
+    {
+      "name" : "Hyperloop",
+      "description" : "Hyperloop is a proposed high-speed transportation system that uses magnetically levitating capsules within low-pressure tubes to achieve rapid transit speeds.",
+      "id" : "85"
+    }
+
+  ],
+  "Signs & Symbols":  [
+      {
+        "name" : "No Parking Sign",
+        "description" : "Usually placed on sign or sidewalks indicating that parking is prohibited in that area.",
+        "id" : "0"
+
+      },
+
+      {
+        "name" : "No Smoking Sign",
+        "description" : "The no smoking symbol consists of a red circle with a red diagonal line through a lit cigarette, indicating smoking is prohibited in that area.",
+        "id" : "1"
+
+      },
+
+
+      {
+        "name" : "Put ON Seatbelt Sign",
+        "description" : "The seatbelt symbol typically resembles a person wearing a seatbelt, often illuminated in cars on the dashboard to remind passengers to buckle up for safety.",
+        "id" : "2"
+
+      },
+
+
+      {
+        "name" : "OnWay Sign",
+        "description" : "usually seen on roads or sign indicating traffic flow in that specific direction.",
+        "id" : "3"
+
+      },
+
+
+      {
+        "name" : "Zebra Crossing",
+        "description" : " typically seen at pedestrian crossings, indicating a designated area for pedestrians to safely cross the street.",
+        "id" : "4"
+
+      },
+
+      {
+        "name" : "Peace Sign",
+        "description" : " The logo came to be known as the “peace symbol.” The symbol was widely used by a whole generation who stood for peace and a war-free world.",
+        "id" : "5"
+
+      },
+
+
+      {
+        "name" : " Prohibition Sign",
+        "description" : "Prohibition sign are universal symbols designed to denote actions or behaviors that are not allowed in a given area.",
+        "id" : "6"
+
+      },
+
+
+      {
+        "name" : "Warning Sign",
+        "description" : "Warning sign serve as precautionary alerts, informing individuals of potential dangers or risks.",
+        "id" : "7"
+
+      },
+
+      {
+        "name" : "Flammable Sign",
+        "description" : "Post durable Flammable Signin your facility to mark hazardous materials that can cause fires and explosions.",
+        "id" : "8"
+
+      },
+
+
+      {
+        "name" : "Explosive Sign",
+        "description" : "Explosive sign are stark warnings about materials that have the potential to detonate.",
+        "id" : "9"
+
+      },
+
+      {
+        "name" : "Fire Extinguisher Sign" ,
+        "description" : "A fire extinguisher is a handheld active fire protection device usually filled with a dry or wet chemical used to extinguish or control small fires, often in emergencies.",
+        "id" : "10"
+
+      },
+
+
+
+
+      {
+        "name" : " Biohazard Sign",
+        "description" : "Biohazard sign represent threats at a microscopic level and feature a distinct trefoil design on a contrasting yellow background. ",
+        "id" : "11"
+
+      },
+
+      {
+        "name" : "High Voltage Sign",
+        "description" :  "High voltage sign are warnings that come in various design, often with jagged lines symbolizing electricity, highlighting the dangers of electrical energy. ",
+        "id" : "12"
+
+      },
+
+
+      {
+        "name" : "Radioactive Sign",
+        "description" : "Vivid warnings flashing danger unseen: stay back, stay safe.",
+        "id" : "13"
+
+      },
+
+
+      {
+        "name" : "Toxic/Poison Sign",
+        "description" : "Represented by the universally feared skull and crossbones symbol, these sign are dire warnings.",
+        "id" : "14"
+
+      },
+
+      {
+        "name" : "Wet Floor Sign",
+        "description" : "Slip and fall accidents are common and can lead to severe injuries. The “Wet Floor” sign, typically featuring.",
+        "id" : "15"
+
+      },
+
+
+
+      {
+        "name" : " Restricted Area Sign",
+        "description" : "Not all zones in a facility are safe or meant for general access. The “Restricted Area” sign demarcates zones off-limits to unauthorized personnel, often due to safety concerns, sensitive information, or specialized equipment.",
+        "id" : "16"
+
+      },
+
+
+      {
+        "name" : "Oxidizer Sign",
+        "description" : "Fuel for fire: Handle with care, avoid sparks.",
+        "id" : "17"
+
+      },
+
+
+      {
+        "name" : "Under Construction Sign",
+        "description" : "These sign provide general information about the construction project.",
+        "id" : "18"
+
+      },
+
+
+      {
+        "name" : "Emergency Assembly Point Sign",
+        "description" : "Emergency Assembly Point sign play a crucial role in directing people to safety during an emergency evacuation. ",
+        "id" : "19"
+
+      },
+
+      {
+        "name" : "First Aid Sign",
+        "description" : "First aid sign, like beacons in a storm, guide us to essential medical supplies and assistance in times of need.",
+        "id" : "20"
+
+      },
+
+
+      {
+        "name" : "Emergency Exit Sign",
+        "description" : "Knowing where the exits are can be lifesaving in situations that require a swift evacuation, like fires or other emergencies",
+        "id" : "21"
+
+      },
+
+      {
+        "name" : "Wear Mask Sign",
+        "description" : "Instructing individuals to wear masks as a preventive measure against the spread of infectious diseases.",
+        "id" : "22"
+
+      },
+
+
+      {
+        "name" : "Tripping Hazard Sign",
+        "description" : "A Tripping Hazard sign typically displays a person falling or stumbling.",
+        "id" : "23"
+
+      },
+
+
+      {
+        "name" : "Low Temperature Sign",
+        "description" : "A Low Temperature Hazard sign typically features an icicle or thermometer symbol, indicating the risk of extremely cold conditions.",
+        "id" : "24"
+
+      },
+
+      {
+        "name" : "Hot Surface Sign",
+        "description" : "A Heated Surface sign usually displays a symbol of radiating heat waves or a hot surface icon. ",
+        "id" : "25"
+      },
+
+
+
+      {
+        "name" : "Eye Protection Sign",
+        "description" : "An Eye Protection Required sign typically features an image of protective goggles, emphasizing the mandatory use of eye safety gear.",
+        "id" : "26"
+      },
+
+
+
+      {
+        "name" : "Health hazard symbol",
+        "description" : "This sign alerts people to chemicals and materials that are harmful to human health, particularly carcinogens.",
+        "id" : "27"
+      },
+
+
+
+      {
+        "name" : "Gas cylinder Sign",
+        "description" : " A gas cylinder sign indicates that gas is being stored under pressure.",
+        "id" : "28"
+      },
+
+
+      {
+        "name" : "Fire Hydrant Sign",
+        "description" : "Red standpipe silhouette on a yellow background, a universal symbol for life-saving water flow in emergencies.",
+        "id" : "29"
+      },
+
+      {
+        "name" : "Stop Sign",
+        "description" : "he iconic octagon in red demands a complete stop before proceeding.\n",
+        "id" : "30"
+      },
+
+
+
+
+      {
+        "name" : "Yield Sign",
+        "description" : "The inverted triangle in yellow instructs to slow down and give way to traffic with the right of way.",
+        "id" : "31"
+      } ,
+
+
+
+      {
+        "name" : "Speed Limit Sign",
+        "description" : "Circular with a red border, it displays the maximum permissible speed.\n",
+        "id" : "32"
+      },
+
+
+
+
+      {
+        "name" : "Falling Rocks Sign",
+        "description" : "Triangular with downward arrows and rocks, it warns of falling debris.",
+        "id" : "33"
+      }  ,
+
+
+
+      {
+        "name" : "Slippery When Wet Sign",
+        "description" : "Yellow rectangle with diagonal lines and raindrops, it warns of slippery surfaces during rain.",
+        "id" : "34"
+      },
+
+
+      {
+        "name" : "Deer Crossing Sign",
+        "description" : "Rectangular with a silhouette of a deer, it warns of potential animal crossings.",
+        "id" : "35"
+      },
+
+
+
+      {
+        "name" : "School Crossing Sign",
+        "description" : "Yellow rectangle with a black schoolhouse symbol, it warns of a school zone and children crossing.",
+        "id" : "36"
+      },
+
+
+
+      {
+        "name" : "Wash Hand Sign",
+        "description" : "Instructing individuals to wash their hands, emphasizing good hygiene practices for cleanliness and disease prevention.",
+        "id" : "37"
+      },
+
+
+      {
+        "name" : "Hospital Sign",
+        "description" : " indicating the location of a hospital or healthcare facility.",
+        "id" : "38"
+      },
+
+
+      {
+        "name" : "bus stop Sign",
+        "description" : "Rectangular sign with the letters BUS STOP in white on a contrasting background, indicating a designated area for buses to pick up or drop off passenge",
+        "id" : "39"
+      },
+
+
+      {
+        "name" : "Trucks Prohibited Sign",
+        "description" : "Red circle with a white horizontal bar and a black symbol of a truck, indicating that trucks are prohibited in that area.",
+        "id" : "40"
+      },
+
+
+      {
+        "name" : "Right Turn Prohibited Sign",
+        "description" : "Red circle with a white horizontal bar and a black arrow turning right, indicating that right turns are prohibited at that location.",
+        "id" : "41"
+      },
+
+
+
+      {
+        "name" : "Left Turn Prohibited Sign",
+        "description" : "Red circle with a white horizontal bar and a black arrow turning left, indicating that left turns are prohibited at that location.",
+        "id" : "42"
+      },
+
+
+
+      {
+        "name" : "Horn Prohibited Sign",
+        "description" : "A red circle with a slash through a stylized trumpet, silencing the urge to honk and promoting peace on the road. ",
+        "id" : "43"
+      },
+
+
+      {
+        "name" : "Turn Left Sign",
+        "description" : "A white arrow pointing left within a green circle, indicating that left turns are allowed at the specified location or intersection.\n\n\n\n\n\n",
+        "id" : "44"
+      },
+
+      {
+        "name" : "Turn Right Sign",
+        "description" : "White arrow pointing right within a green circle, indicating that right turns are allowed at the specified location or intersection.",
+        "id" : "45"
+      },
+
+
+
+      {
+        "name" : "Public Telephone Sign",
+        "description" : "A publicly accessible telephone, typically found in public spaces, allowing individuals to make phone calls.",
+        "id" : "46"
+      },
+
+
+
+      {
+        "name" : "Petrol Pump Sign",
+        "description" : "A distinctive sign at a petrol pump, often featuring symbols or text indicating the availability of gasoline or other fuels for vehicles.",
+        "id" : "47"
+      },
+
+
+      {
+        "name" : "Eating Place Ahead Sign",
+        "description" : "A road sign indicating the presence of a restaurant or eating place ahead.",
+        "id" : "48"
+      },
+
+
+      {
+        "name" : "Don Not Overtakek Sign",
+        "description" : "indicating that overtaking or passing other vehicles is prohibited.",
+        "id" : "49"
+      },
+
+      {
+        "name" : "Air port Sign",
+        "description" : "A sign with an airplane symbol or text indicating the direction to an airport, guiding travelers to the location of an aviation facility.",
+        "id" : "50"
+      },
+
+
+      {
+        "name" : "No Wating sign",
+        "description" : "indicating that waiting is not allowed in the specified area, often used in areas with restrictions on parking or stopping.",
+        "id" : "51"
+      } ,
+
+
+      {
+        "name" : "No Bycicle Sign",
+        "description" : "Indicating that bicycles are not allowed in the designated area or on a specific path.",
+        "id" : "52"
+      } ,
+
+
+
+      {
+
+        "name" : "Staggered junction Sign",
+        "description" : "This sign warns drivers that a side road that is broken up joins and leaves the current road.",
+        "id" : "53"
+      },
+
+
+      {
+        "name" : "Traffic Light Sign",
+        "description" : "Controlling the flow of traffic at an intersection, with each color indicating specific actions for drivers and pedestrians.",
+        "id" : "54"
+      } ,
+
+
+      {
+        "name" : "Narrow Bridge Ahead Sign",
+        "description" : "A road sign warning of an upcoming narrow bridge.",
+        "id" : "55"
+      },
+
+    {
+        "name" : "Road Widens Ahead Sign",
+        "description" : "A road sign indicating that the road is about to widen ahead.",
+        "id" : "56"
+      },
+
+
+
+
+
+      {
+        "name" : "Left Reverse Bend Sign",
+        "description" : "A road sign indicating a left reverse bend, alerting drivers to an upcoming leftward curve in the road that may require caution and reduced speed",
+        "id" : "57"
+      } ,
+
+      {
+        "name" : "Y – INTERSECTION Sign",
+        "description" : "A road sign indicating a Y-intersection ahead, where the road splits into two branches forming a Y shape, and drivers need to choose between the two directions.",
+        "id" : "58"
+      },
+
+
+      {
+        "name" : "Railway Crossing Sign",
+        "description" : "A road sign warning of an upcoming railway crossing.",
+        "id" : "59"
+      },
+
+
+      {
+        "name" : "Parking This Side Sign",
+        "description" : "This sign is erected at destination telling exactly where to park your vehicles.",
+        "id" : "60"
+      }   ,
+
+
+
+      {
+        "name" : "Parking Both Side Sign",
+        "description" : "This sign indicates that vehicles can be parked on both sides.",
+        "id" : "61"
+      },
+
+
+
+    {
+        "name" : "Women Sign",
+        "description" : "A symbol representing women.",
+        "id" : "62"
+      },
+
+
+      {
+        "name" : "Men Sign",
+        "description" : "A symbol representing Men.",
+        "id" : "63"
+      },
+
+
+      {
+        "name" : "Dustbin Sign",
+        "description" : "A symbol depicting a waste receptacle, commonly used to indicate the location of a dustbin or trash bin for disposing of waste materials.",
+        "id" : "64"
+      },
+
+
+
+      {
+        "name" : "Handicapped Sign",
+        "description" : "A universal symbol featuring a person in a wheelchair, indicating accessibility for individuals",
+        "id" : "65"
+      }
+
+
+
+    ],
+
+  "CategoryName" : [
+    {
+      "name": "Animal"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetable"
+    },
+    {
+      "name": "Flowers"
+    },
+    {
+      "name": "Modes of Transport"
+    },
+    {
+      "name": "Signs & Symbols"
+    },
+    {
+      "name": "Alphabet"
+    },
+    {
+      "name": "Favorite"
+    }
+  ],
+  "description": "Description",
+  "name": "Name",
+  "applicationName": "Learn By Fun",
+  "language": "Choose Language",
+  "privacy policy": "Privacy Policy",
+  "terms&condition": "Terms And Condition",
+  "settings": "Settings",
+  "about": "About Us"
+}
+
+
