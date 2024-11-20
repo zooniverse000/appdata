@@ -1,0 +1,546 @@
+[
+  {
+    "name" : "Bicycles",
+    "description" : "Two-wheeled, human-powered vehicle for commuting, exercise, and recreation.",
+    "id" : "0"
+
+  } ,
+  {
+    "name" : "Car",
+    "description" : "Four-wheeled motor vehicle, typically used for personal transportation and short-distance travel.",
+    "id" : "1"
+
+  } ,
+  {
+    "name" : "Train",
+    "description" : "Rail vehicle that travels on tracks, often used for long-distance passenger and freight transport.",
+    "id" : "2"
+  } ,
+  {
+    "name" : "Airplane",
+    "description" : "Fixed-wing aircraft that flies through the air, used for long-distance travel and air cargo.",
+    "id" : "3"
+  },
+
+
+  {
+    "name" : "Bus",
+    "description" : "Road vehicle designed to carry multiple passengers, often used for public transportation.",
+    "id" : "4"
+  },
+
+  {
+    "name" : "Boat",
+    "description" : "Watercraft of various sizes and shapes, used for transportation, recreation, and fishing.",
+    "id" : "5"
+  },
+
+  {
+    "name" : "Motorcycle",
+    "description" : "Two-wheeled motor vehicle with a single seat or sidecar, typically used for personal transportation and sport.",
+    "id" : "6"
+  },
+
+  {
+    "name" : "Tram",
+    "description" : "Rail vehicle that runs on tracks along streets, often used for urban transportation.",
+    "id" : "7"
+  },
+
+
+  {
+    "name" : "Truck",
+    "description" :  "Large motor vehicle designed to transport goods, often used for commercial freight transport.",
+    "id" : "8"
+  },
+
+  {
+    "name" : "Ferry",
+    "description" : "A boat or ship used to transport passengers, vehicles, or goods across a body of water, such as rivers or seas.",
+    "id" : "9"
+  },
+
+
+  {
+    "name" : "Streetcar",
+    "description" : "A rail-based public transport vehicle running on tracks in streets, often seen in urban areas.",
+    "id" : "10"
+  },
+
+  {
+    "name" : "Metro",
+    "description" : "An underground or elevated railway system used for public transportation within cities or urban areas.",
+    "id" : "11"
+  },
+
+  {
+    "name" : "Scooter",
+    "description" : " Two-wheeled motorized or non-motorized vehicle for personal transport, typically smaller than motorcycles.",
+    "id" : "12"
+  },
+
+  {
+    "name" : "Tractor",
+    "description" : " Heavy-duty vehicle used primarily in agriculture for towing, plowing, and other farm tasks.",
+    "id" : "13"
+  },
+
+  {
+    "name" : "Ropeway",
+    "description" : "Transport system using suspended cables or ropes to carry passengers or goods, often across difficult terrains or over short distances.",
+    "id" : "14"
+  },
+
+
+  {
+    "name" : "Ship",
+    "description" : " Large watercraft designed for navigation in deep waters, used for transportation of goods and passengers across oceans and seas",
+    "id" : "15"
+  },
+
+
+  {
+    "name" : "Limousine",
+    "description" : "Luxurious, elongated car typically chauffeured, offering comfort and prestige for special occasions or executive transport",
+    "id" : "16"
+  },
+
+
+  {
+    "name" : "Jetpack",
+    "description" : " Personal propulsion device worn on the back, enabling short-distance flight through jet propulsion, often used for experimental or recreational purposes",
+    "id" : "17"
+  },
+
+  {
+    "name" : "Houseboat",
+    "description" : "A floating home designed for living on water, often equipped with amenities similar to a house, used for leisure or as a permanent residence on rivers, lakes, or canals",
+    "id" : "18"
+  },
+
+
+  {
+    "name" : "Helicopter",
+    "description" : "Aircraft capable of vertical takeoff and landing, using rotating blades to fly forward, ",
+    "id" : "19"
+  },
+  {
+    "name": "Van",
+    "description": "Motor vehicle primarily designed for transporting goods or cargo, commonly used by courier services or businesses for logistical purposes.",
+    "id": "20"
+  },
+
+
+  {
+    "name" : "Dump Truck",
+    "description" : "Heavy-duty vehicle with an open-box bed that tilts, used for transporting and unloading bulk materials, commonly seen in construction and mining..",
+    "id" : "21"
+  },
+
+  {
+    "name" : "Ambulance",
+    "description" : "Emergency vehicle equipped with medical apparatus to transport patients, providing rapid medical care en route to hospitals or healthcare facilities.",
+    "id" : "22"
+  },
+
+  {
+    "name" : "Auto Rickshaw",
+    "description" : "Three-wheeled motorized vehicle used for short-distance transportation in urban areas, often a common mode of taxi service in many countries.",
+    "id" : "23"
+  },
+
+
+  {
+    "name" : "Taxi",
+    "description" : "is a type of vehicle for hire with a driver, used by a single passenger or small group of passengers, often for a non-shared ride.",
+    "id" : "24"
+  },
+
+
+  {
+    "name" : "Rickshaw",
+    "description" : "two-wheeled vehicle with a doorless, chairlike body and a collapsible hood, which holds one or two passengers and is drawn by a man between two shafts.",
+    "id" : "25"
+  },
+  {
+    "name": "Hot Air Balloon",
+    "description": "Lighter-than-air aircraft for leisure or scientific research.",
+    "id": "26"
+  },
+
+
+  {
+    "name" : "Airship",
+    "description" : "Slow but offers unique sightseeing experiences.",
+    "id" : "27"
+  },
+
+
+
+  {
+    "name" : "Barge",
+    "description" : "Cargo transportation on inland waterways.",
+    "id" : "28"
+  },
+
+
+  {
+    "name" : "Cargo bike",
+    "description" : "Human-powered transport for small cargo loads.",
+    "id" : "29"
+  },
+  {
+    "name": "Bullock Cart",
+    "description": "Animal-drawn or human-powered vehicle for short-distance transport.",
+    "id": "30"
+  },
+  {
+    "name": "Chairlift",
+    "description": "An elevated passenger ropeway, or chairlift, is a type of aerial lift, which consists of a continuously circulating steel wire rope loop strung between two end terminals and usually over intermediate towers, carrying a series of chairs.",
+    "id": "31"
+  },
+
+
+
+  {
+    "name" : "Dog sled",
+    "description" : "Traditional transport in snowy regions, often used for racing.",
+    "id" : "32"
+  },
+
+  {
+    "name" : "Drone",
+    "description" : "Unmanned aerial vehicle for delivery, surveillance, or filmmaking.",
+    "id" : "33"
+  },
+
+
+  {
+    "name" : "Elephant",
+    "description" : "Used for transportation in Southeast Asia, ethical concerns exist.",
+    "id" : "34"
+  },
+  {
+    "name": "Funicular",
+    "description": "A funicular is a mountain railway designed to traverse a slope or climb and is usually used to go up and down.",
+    "id": "35"
+  },
+
+
+  {
+    "name" : "Gondola",
+    "description" : "Boat used for transportation in canals or lagoons.",
+    "id" : "36"
+  },
+
+
+  {
+    "name" : "Hang glider",
+    "description" : "Glider launched from a cliff or mountain, controlled by body movements.",
+    "id" : "37"
+  },
+
+
+  {
+    "name" : "Horseback riding",
+    "description" : "Traditional mode of transport and leisure activity.",
+    "id" : "38"
+  },
+
+  {
+    "name" : "Hovercraft",
+    "description" : "Air-cushioned vehicle that travels over land and water.",
+    "id" : "39"
+  },
+
+  {
+    "name" : "Jet ski",
+    "description" : "Personal watercraft for recreational use.",
+    "id" : "40"
+  },
+  {
+    "name": "Maglev train",
+    "description": "High-speed train using magnetic levitation, not widespread yet.",
+    "id": "41"
+  },
+  {
+    "name": "Monorail",
+    "description": "A rail is a railway in which the track is made of a single rail or beam.",
+    "id": "42"
+  },
+
+  {
+    "name" : "Moped Scooter",
+    "description" : "Small gasoline-powered motor scooter.",
+    "id" : "43"
+  },
+
+  {
+    "name" : "Mule",
+    "description" : "Hybrid breed of horse and donkey used for pack carrying.",
+    "id" : "44"
+  },
+
+  {
+    "name" : "Oxcart",
+    "description" : "Animal-drawn cart used for agriculture and transportation.",
+    "id" : "45"
+  },
+
+
+
+  {
+    "name" : "Paraglider",
+    "description" : "Lightweight foot-launched glider dependent on wind currents.",
+    "id" : "46"
+  },
+  {
+    "name": "Subway",
+    "description": "Subway trains are used to transport large numbers of passengers within urban and suburban areas.",
+    "id": "47"
+  },
+  {
+    "name": "Tram",
+    "description": "Electrically powered tram on city streets.",
+    "id": "48"
+  },
+
+
+
+  {
+    "name" : "Snowmobile",
+    "description" : "Motorized vehicle for travel on snow or ice.",
+    "id" : "49"
+  },
+  {
+    "name": "Sledges",
+    "description": "Animal-drawn vehicle used on snow or ice.",
+    "id": "50"
+  },
+
+
+  {
+    "name" : "Segway",
+    "description" : "Self-balancing electric scooter for personal mobility.",
+    "id" : "51"
+  },
+
+
+  {
+    "name" : "Sailboat",
+    "description" : "Wind-powered boat for leisure or racing.",
+    "id" : "52"
+  },
+
+
+  {
+    "name" : "Roller skates",
+    "description" : "Recreational activity, requires balance and skill.",
+    "id" : "53"
+  },
+
+  {
+    "name" : "Rocket",
+    "description" : "Used for spacecraft launches and space exploration.",
+    "id" : "54"
+  },
+
+  {
+    "name" : "Pedal scooter",
+    "description" : "Human-powered kick scooter for short distances.",
+    "id" : "55"
+  },
+
+  {
+    "name" : "Bamboo train",
+    "description" : "The bamboo train (norry) is powered by a small petrol belt engine with a rudimentary timber beam foot brake - fascinating.",
+    "id" : "56"
+  },
+  {
+    "name": "Caballito de totora",
+    "description": "Traditional reed boat made from totora reeds, used by the Uros people on Lake Titicaca in Peru.",
+    "id": "57"
+  },
+
+  {
+    "name" : "Jeepney",
+    "description" : " Colorful and iconic public transportation in the Philippines, originally made from surplus military jeeps.",
+    "id" : "58"
+  },
+
+  {
+    "name" : "Zipline",
+    "description" : "Aerial cable mechanism consisting of a pulley suspended on a cable, usually made of stainless steel, mounted on a slope. ",
+    "id" : "59"
+  },
+
+
+  {
+    "name" : "Jumbo Truck",
+    "description" : "Colloquial term for large, wide-body commercial airplanes, such as the Boeing 747. Known for their significant size and capacity for long-haul flights.",
+    "id" : "60"
+  },
+
+
+
+
+  {
+    "name" : "Songthaew",
+    "description" : "Shared passenger vehicle in Southeast Asia, especially in Thailand. ",
+    "id" : "61"
+  },
+  {
+    "name": "Hydrofoil",
+    "description": " A hydrofoil is a lifting surface, or foil, that operates in water. They are similar in appearance and purpose to aerofoils used by aeroplanes. ",
+    "id": "62"
+  },
+
+
+
+  {
+    "name" : "Cyclo",
+    "description" : "Three-wheeled bicycle taxi with a passenger seat in the front, often used for short-distance transportation in Southeast Asian cities.",
+    "id" : "63"
+  },
+
+
+  {
+    "name" : "Hand-Pulled Rickshaw",
+    "description" : "Human-powered vehicle with a two-wheeled carriage, often used for short-distance transport in some urban areas. Pulled by a person, typically walking or running.",
+    "id" : "64"
+  },
+
+
+  {
+    "name" : "Dhow",
+    "description" : " Traditional sailing vessel with one or more masts, commonly used in the Arabian Peninsula and Indian Ocean regions. Dhows are often characterized by their distinctive lateen sails.",
+    "id" : "65"
+  },
+
+
+  {
+    "name" : "Duck Boat",
+    "description" : "Amphibious vehicle designed for both land and water travel. ",
+    "id" : "66"
+  },
+  {
+    "name": "Eurostar Train",
+    "description": "High-speed train service connecting major cities in Europe, notably linking London with cities like Paris, Brussels, and Amsterdam through the Channel Tunnel. ",
+    "id": "67"
+  },
+
+
+  {
+    "name" : "Crane",
+    "description" : "Heavy machinery used for lifting and moving heavy objects.",
+    "id" : "68"
+  },
+
+  {
+    "name" : "Mixer truck",
+    "description" : " Heavy-duty vehicle designed to transport freshly mixed concrete from the batching plant to construction sites, equipped with a rotating drum for continuous mixing during transit.",
+    "id" : "69"
+  },
+
+
+
+
+  {
+    "name" : "JCB",
+    "description" : " Heavy equipment commonly used in construction and excavation, combining a front shovel/bucket and a rear digging arm/backhoe.",
+    "id" : "70"
+  },
+
+
+
+
+  {
+    "name" : "Fire Brigade",
+    "description" : "Fire brigade, also known as fire engines, are specialized vehicles equipped with firefighting apparatus and tools, designed to respond rapidly to emergency situations, extinguishing fires and providing rescue and disaster response services.",
+    "id" : "71"
+  },
+
+
+  {
+    "name" : "Coco Taxi",
+    "description" : "Coco Taxi: Three-wheeled, motorized, yellow and black scooter taxis commonly found in Cuba, offering a unique and efficient mode of urban transportation.",
+    "id" : "72"
+  },
+
+
+  {
+    "name" : "Camel bus",
+    "description" : "Articulated or double-decker bus with a hump-like design resembling a camel's back, often used in public transportation systems for increased passenger capacity.",
+    "id" : "73"
+  },
+
+
+  {
+    "name" : "Van",
+    "description" : "Multi-purpose vehicles used for transporting goods or people.",
+    "id" : "74"
+  },
+
+  {
+    "name" : "School Bus",
+    "description" : " Dedicated vehicles for transporting students to and from schools.",
+    "id" : "75"
+  },
+
+  {
+    "name" : "Camel",
+    "description" : "Camels, known as the ships of the desert are resilient and efficient modes of transport, well-adapted to arid landscapes, capable of carrying heavy loads for long distances.\n",
+    "id" : "76"
+  },
+
+
+  {
+    "name" : "Spacecraft",
+    "description" : "Spacecraft are vehicles designed for travel or operation in outer space.",
+    "id" : "77"
+  },
+
+  {
+    "name" : "Container ships",
+    "description" : " Efficiently carry standardized cargo containers over long distances.\n ",
+    "id" : "78"
+  },
+
+  {
+    "name" : "Helicopters",
+    "description" : "Helicopters are versatile rotary-wing aircraft capable of vertical takeoff, landing, and hovering, with the ability to maneuver in any direction.",
+    "id" : "79"
+  },
+
+  {
+    "name" : "Gliders",
+    "description" : "Sailplanes utilizing wind currents for sustained flight without an engine.",
+    "id" : "80"
+  },
+
+
+  {
+    "name" : "Kayak",
+    "description" : "Small, narrow watercraft paddled with a double-bladed paddle.",
+    "id" : "81"
+  },
+  {
+    "name" : "Electric skateboard",
+    "description" : "Skateboard with an electric motor for propulsion.",
+    "id" : "83"
+  },
+
+  {
+    "name" : "Submarine",
+    "description" : "Watercraft capable of underwater operation for naval purposes.",
+    "id" : "84"
+  },
+
+
+  {
+    "name" : "Hyperloop",
+    "description" : "Hyperloop is a proposed high-speed transportation system that uses magnetically levitating capsules within low-pressure tubes to achieve rapid transit speeds.",
+    "id" : "85"
+  }
+
+]

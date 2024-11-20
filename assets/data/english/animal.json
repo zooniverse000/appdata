@@ -1,0 +1,1531 @@
+[
+  {
+    "name" : "Lion",
+    "description" : "Lions, the mighty kings of the animal kingdom, have golden fur and loud roars.",
+    "id" : "0"
+
+  } ,
+  {
+    "name" : "Deer",
+    "description" : "A deer is a large wild animal that eats grass and leaves. A male deer usually has large, branching horns.",
+    "id" : "1"
+
+  } ,
+  {
+    "name" : "Elephant",
+    "description" : "Elephants are the world's largest land mammals, with males weighing up to six tonnes on average",
+    "id" : "2"
+  } ,
+  {
+    "name" : "Horse",
+    "description" : "Horse have four powerful legs, two eyes, a nose, ears and a tail.",
+    "id" : "3"
+  },
+
+
+  {
+    "name" : "Monkey",
+    "description" : "Monkeys are very agile and intelligent animals. Monkeys are intelligent and playful, They can jump from one tree",
+    "id" : "4"
+  },
+
+  {
+    "name" : "Cheetah",
+    "description" : "The cheetah is an animal of the cat species.",
+    "id" : "5"
+  },
+
+  {
+    "name" : "Zebra",
+    "description" : "Zebras are herbivorous animals that belong to the equine family,.",
+    "id" : "6"
+  },
+
+  {
+    "name" : "Fox",
+    "description" : "Foxes are small to medium-sized, omnivorous mammals belonging to several genera of the family Canidae.",
+    "id" : "7"
+  },
+
+
+  {
+    "name" : "Cow",
+    "description" : "A cow is a large female animal that is kept on farms for its milk",
+    "id" : "8"
+  },
+
+  {
+    "name" : "Camel",
+    "description" : " Camel is called Ship of Desert.",
+    "id" : "9"
+  },
+
+
+  {
+    "name" : "Moose",
+    "description" : "Moose,largest member of the deer family Cervidae.",
+    "id" : "10"
+  },
+
+  {
+    "name" : "Crocodile",
+    "description" : "Crocodiles have four legs, two eyes, and a thick tail.",
+    "id" : "11"
+  },
+
+  {
+    "name" : "Rabbit",
+    "description" : " A rabbit is a small animal with long ears.",
+    "id" : "12"
+  },
+
+  {
+    "name" : "Peacock",
+    "description" : "The peacock is one of the most unique-looking birds in the world.",
+    "id" : "13"
+  },
+
+  {
+    "name" : "Hummingbird",
+    "description" : "Hummingbirds, which are little, colourful birds.",
+    "id" : "14"
+  },
+
+
+  {
+    "name" : "Armadillo",
+    "description" : "Armadillos are barrel-shaped animals covered with natural armor.",
+    "id" : "15"
+  },
+
+
+  {
+    "name" : "Tiger",
+    "description" : "Tiger is a wild animal and popularly known as the national animal of India.",
+    "id" : "16"
+  },
+
+
+  {
+    "name" : "Giraffe",
+    "description" : "Giraffe is the tallest animal.",
+    "id" : "17"
+  },
+
+  {
+    "name" : "Aardvark",
+    "description" : "Long-tongued termite eater with shoveling claws",
+    "id" : "18"
+  },
+
+
+  {
+    "name" : "Antelope",
+    "description" : "Graceful grazers, leaping across savannahs.",
+    "id" : "19"
+  },
+
+  {
+    "name" : "Badger",
+    "description" : "Fierce burrowers, honey and insect enthusiasts.",
+    "id" : "20"
+  },
+
+
+  {
+    "name": "Bat",
+    "description": "Bat are flying mammals of the order Chiroptera.",
+    "id": "21"
+  },
+
+  {
+    "name" : "Bear",
+    "description" : "Bears are solitary animals, considered as the most asocial among all carnivoras. ",
+    "id" : "22"
+  },
+
+  {
+    "name" : "Beluga whale",
+    "description" : "Belugas are small, toothed whales.",
+    "id" : "23"
+  },
+
+  {
+    "name" : "Chimpanzee",
+    "description" : "Chimpanzees are great apes found across central and West Africa. ",
+    "id" : "24"
+  },
+
+  {
+    "name" : "Dingo",
+    "description" : " The Dingo is Australia's wild dog.",
+    "id" : "25"
+  },
+
+  {
+    "name" : "Dolphins",
+    "description" : "Dolphins are considered one of the world's most intelligent animals,",
+    "id" : "26"
+  },
+
+  {
+    "name" : "Flamingo",
+    "description" : "Flamingos have slender legs, long, graceful necks, large wings, and short tails.",
+    "id" : "27"
+  },
+
+
+  {
+    "name" : "Gorilla",
+    "description" : "Gorilla is the largest of all apes and is very gentle in nature.",
+    "id" : "28"
+  },
+
+
+  {
+    "name" : "Hedgehog",
+    "description" : "Hedgehogs are small mammals that live in the wild in Europe, Africa, and Asia.",
+    "id" : "29"
+  },
+
+  {
+    "name" : "Hippopotamus",
+    "description" : "Territorial giants, wallowing in muddy rivers.",
+    "id" : "30"
+  },
+
+  {
+    "name" : "Hyena",
+    "description" : "Hyenas are mammals of Africa and Asia.",
+    "id" : "31"
+  },
+
+  {
+    "name" : "Jaguar",
+    "description" : "Jaguars are the largest of South America's big cats and the third largest cats in the world.",
+    "id" : "32"
+  },
+
+
+  {
+    "name" : "Kangaroo",
+    "description" : "Kangaroos are four marsupials from the family Macropodidae. ",
+    "id" : "33"
+  },
+
+  {
+    "name" : "Koala",
+    "description" : "Koala, tree-dwelling marsupial of coastal eastern and southern Australia.",
+    "id" : "34"
+  },
+
+
+
+
+  {
+    "name" : "Narwhal",
+    "description" : "Narwhals are a species of whale with a horn.",
+    "id": "35"
+  },
+
+  {
+    "name" : "Orangutan",
+    "description" : "Orang-utans are known as gardeners of the forest.",
+    "id": "36"
+  },
+
+
+  {
+    "name" : "Otter",
+    "description" : "Otters are very energetic and playful.",
+    "id": "37"
+  },
+
+  {
+    "name" : "Panda",
+    "description" : "The giant panda, a black-and-white bear, has a body typical of bears.",
+    "id": "38"
+  },
+
+  {
+    "name" : "Polar Bear",
+    "description" : " Polar bear, great white northern bear found throughout the Arctic region.",
+    "id": "39"
+  },
+
+  {
+    "name" : "Rhinoceros",
+    "description" : "Rhinoceroses are large, heavy animals.",
+    "id": "40"
+  },
+  {
+    "name" : "Seal",
+    "description" : "Seals are a group of three families and 33 species of web-footed aquatic mammals.",
+    "id": "41"
+  },
+
+
+  {
+    "name" : "Sloth",
+    "description" : "Sloths live in the tropical forests of Central and South America.",
+    "id": "42"
+  },
+
+
+  {
+    "name" : "Wolf",
+    "description" : "wolf, any of two species of wild doglike carnivores.",
+    "id": "43"
+  },
+
+  {
+    "name" : "Baboon",
+    "description" : " Baboons belong to a large family of Old World monkeys",
+    "id": "44"
+  },
+
+  {
+    "name" : "Buffalo",
+    "description" : "Buffalo is one of the most useful animals in the world. ",
+    "id": "45"
+  },
+
+  {
+    "name" : "Blue Jay",
+    "description" : "Vibrantly colored bird with blue and white plumage, often found in North America.",
+    "id": "46"
+  },
+
+  {
+    "name" : "Bison",
+    "description" : "A bison is a large bovine in the genus Bison within the tribe Bovini.",
+    "id": "47"
+  },
+
+
+  {
+    "name" : "Barracuda",
+    "description" : "A predatory fish known for its sleek, torpedo-shaped body and sharp teeth.",
+    "id": "48"
+  },
+
+  {
+    "name" : "Albatross",
+    "description" : "The albatross is an exceedingly large seabird, having a wingspan as much as 11 feet across.",
+    "id": "49"
+  },
+
+  {
+    "name" : "Cobra",
+    "description" : "Venomous snake known for its hood.",
+    "id": "50"
+  },
+
+  {
+    "name" : "Condor",
+    "description" : "They are the largest flying land birds in the Western Hemisphere.",
+    "id": "51"
+  },
+
+
+
+  {
+    "name" : "Lizard",
+    "description" : "Lizards are part of a group of animals known as reptiles.",
+    "id": "52"
+  },
+
+  {
+    "name" : "Alligator",
+    "description" : "An alligator, or colloquially gator, is a large reptile in the Crocodilia order in the genus Alligator of the family Alligatoridae.",
+    "id": "53"
+  },
+
+  {
+    "name" : "Sheep",
+    "description" : "Sheep is a domestic animal.",
+    "id": "54"
+  },
+
+
+  {
+    "name" : "Frog",
+    "description" : "Frogs are small animals that can jump very well",
+    "id": "55"
+  },
+
+  {
+    "name" : "Raccoon",
+    "description" : "On the prairies, raccoons are most abundant in woodlot and wetland areas. ",
+    "id": "56"
+  },
+
+  {
+    "name" : "Coyote",
+    "description" : "The coyote is a species of canine native to North America.",
+    "id": "57"
+  },
+
+  {
+    "name" : "Goat",
+    "description" : "Goat is a useful and a domestic animal which was tamed by humans from a very long time.",
+    "id": "68"
+  },
+  {
+    "name" : "Pig",
+    "description" : " A pig is a medium sized animal having pink, grey or brown skin.",
+    "id": "69"
+  },
+
+  {
+    "name" : "Salamander",
+    "description" : "A salamander is an amphibian with a slender body and a long tail.",
+    "id": "60"
+  },
+
+  {
+    "name" : "Skunk",
+    "description" : "Hog-nosed skunks are capable diggers and have powerfully built upper bodies, which allow them to climb in rough terrain.",
+    "id": "61"
+  },
+
+
+  {
+    "name" : "Anaconda",
+    "description" : "AThe green anaconda is the largest snake in the world,",
+    "id": "62"
+  },
+
+  {
+    "name" : "Octopus",
+    "description" : "Octopuses are sea animals famous for their rounded bodies, bulging eyes, and eight long arms.",
+    "id": "63"
+  },
+
+  {
+    "name" : "Duck",
+    "description" : "Ducks are generally smaller and shorter-necked than swans and geese,",
+    "id": "64"
+  },
+
+  {
+    "name" : "Python",
+    "description" : "Pythons are constrictors.",
+    "id": "65"
+  },
+
+  {
+    "name" : "Rhinoceros",
+    "description" : "Rhinoceroses are large, heavy animals with thick gray or brown skin, short legs, and one or two horns on their nose.",
+    "id": "66"
+  },
+
+  {
+    "name" : "Lobster",
+    "description" : "Lobsters are a family of marine crustaceans.",
+    "id": "67"
+  },
+
+  {
+    "name" : "Crab",
+    "description" : "Crabs are animals that live in water.",
+    "id": "68"
+  },
+
+  {
+    "name" : "Jellyfish",
+    "description" : "Jellyfish are sea animals with a soft, jellylike body and no bones.",
+    "id": "69"
+  },
+
+
+  {
+    "name" : "Seahorse",
+    "description" : "tiny fishes that are named for the shape of their head, which looks like the head of a tiny horse.",
+    "id": "70"
+  },
+
+
+  {
+    "name" : "Platypus",
+    "description" : "It has a “bill” and webbed feet like a duck and a flat tail like a beaver. ",
+    "id": "71"
+  },
+
+  {
+    "name" : "Mole",
+    "description" : "Moles are small mammals adapted to a subterranean lifestyle. ",
+    "id": "72"
+  },
+
+  {
+    "name" : "Hawk",
+    "description" : "Hawks are birds of prey, meaning that they hunt and kill animals for food.",
+    "id": "73"
+  },
+
+  {
+    "name" : "Kingfisher",
+    "description" : "Kingfishers are generally brightly colored birds that often fish for their food.",
+    "id": "74"
+  },
+
+  {
+    "name" : "Whale",
+    "description" : "Whales are large animals that live in water",
+    "id": "75"
+  },
+
+  {
+    "name" : "Grizzly bear",
+    "description" : "JThe grizzly bear, also known as the North American brown bear or simply grizzly.",
+    "id": "76"
+  },
+
+  {
+    "name" : "Ant",
+    "description" : "Ants are small insects that are found throughout the world.",
+    "id": "77"
+  },
+
+  {
+    "name" : "Spider",
+    "description" : "Spiders are air-breathing arthropods that have eight legs,",
+    "id": "78"
+  },
+
+  {
+    "name" : "Butterfly",
+    "description" : "A butterfly is a (usually) day-flying insect of the order Lepidoptera. ",
+    "id": "79"
+  },
+
+  {
+    "name" : "Bee",
+    "description" : "JBees are winged insects closely related to wasps and ants,",
+    "id": "80"
+  },
+  {
+    "name" : "Tasmanian Devil",
+    "description" : "The Tasmanian devil is a carnivorous marsupial of the family Dasyuridae. ",
+    "id": "81"
+  },
+
+  {
+    "name" : "Penguin",
+    "description" : "Penguins are specialized marine birds adapted to living at sea. ",
+    "id": "82"
+  },
+
+  {
+    "name" : "Sparrow",
+    "description" : "A sparrow is an omnivorous bird.",
+    "id": "83"
+  },
+
+  {
+    "name" : "Owl",
+    "description" : "All owls are carnivorous birds of prey and live on diets of insects, small rodents and lagomorphs.",
+    "id": "84"
+  },
+
+  {
+    "name" : "Shark",
+    "description" : "Sharks have a muscular, upturned tail and pointed fins.",
+    "id": "85"
+  },
+
+  {
+    "name" : "Parrot",
+    "description" : "The parrots are a broad order of more than 350 birds.",
+    "id": "86"
+  },
+
+  {
+    "name" : "Swan",
+    "description" : "Swans are birds of the genus Cygnus within the family Anatidae. ",
+    "id": "87"
+  },
+
+  {
+    "name" : "Eel",
+    "description" : "Eels are teleost fish.",
+    "id": "88"
+  },
+
+  {
+    "name" : "Scorpion",
+    "description" : "Scorpions are arachnids and have eight legs like their cousins—spiders, mites, and ticks.",
+    "id": "89"
+  },
+
+
+  {
+    "name" : "Ostriche",
+    "description" : "Ostriches are large flightless birds. ",
+    "id": "90"
+  },
+
+  {
+    "name" : "Squirrel",
+    "description" : "A squirrel is any of the small- to medium-sized rodents that belong to the family Sciuridae.",
+    "id": "91"
+  },
+
+  {
+    "name" : "Lemur",
+    "description" : "Lemurs are gentle and often social animals.",
+    "id": "92"
+  },
+
+  {
+    "name" : "Turtle",
+    "description" : "A turtle is a reptile that has a shell covering its body. ",
+    "id": "93"
+  },
+
+
+  {
+    "name" : "Axolotl",
+    "description" : "The axolotl is a kind of salamander found only in Mexico City, Mexico. ",
+    "id": "94"
+  },
+
+  {
+    "name" : "Quokka",
+    "description" : "The quokka's range is a small area of southwestern Australia. ",
+    "id": "95"
+  },
+
+
+  {
+    "name" : "Donkey",
+    "description" : "The donkey is a domesticated equine.",
+    "id": "96"
+  },
+
+
+  {
+    "name" : "Glaucus atlanticus",
+    "description" : "Found throughout the Atlantic, Pacific, and Indian Oceans in tropical and subtropical waters, ",
+    "id": "97"
+  },
+
+  {
+    "name" : "Hamster",
+    "description" : "Hamsters are stout-bodied, with a tail much shorter than their body length, ",
+    "id": "98"
+  },
+
+  {
+    "name" : "Leopard",
+    "description" : "The leopard is one of the five extant species in the genus Panthera.",
+    "id": "99"
+  },
+
+  {
+    "name" : "Dog",
+    "description" : "The dog is a domesticated descendant of the wolf.",
+    "id": "100"
+  },
+
+  {
+    "name" : "Cat",
+    "description" : "Cats are very beautiful and friendly animals.",
+    "id": "101"
+  },
+
+
+  {
+    "name" : "Panther",
+    "description" : "A black panther is the melanistic colour variant of the leopard and the jaguar.",
+    "id": "102"
+  },
+
+
+
+
+  {
+    "name" : "Porcupine",
+    "description" : "Porcupines are large rodents with coats of sharp spines, or quills, that protect them against predation.",
+    "id": "103"
+  },
+
+
+  {
+    "name" : "Hare",
+    "description" : "Hares and jackrabbits are mammals belonging to the genus Lepus..",
+    "id": "104"
+  },
+
+
+  {
+    "name" : "Hen",
+    "description" : "An adult female bird is called a hen, and a sexually immature female is called a pullet.",
+    "id": "105"
+  },
+
+
+  {
+    "name" : "Fish",
+    "description" : "A fish is an aquatic, craniate, gill-bearing animal ",
+    "id": "106"
+  },
+  {
+    "name": "Eagle",
+    "description": " Eagle are known to hunt during the day with extraordinary vision.",
+    "id": "107"
+  },
+
+  {
+    "name" : "Jackal",
+    "description" : "Jackals are medium-sized canids native to Africa and Eurasia. ",
+    "id": "108"
+  },
+
+  {
+    "name" : "Emu",
+    "description" : "The emu is the second-tallest living bird after the ostrich, its ratite relative.",
+    "id": "109"
+  },
+
+  {
+    "name" : "Beagle",
+    "description" : "The beagle is a breed of small scent hound, similar in appearance to the much larger foxhound.",
+    "id": "110"
+  },
+
+
+  {
+    "name" : "Beaver",
+    "description" : "Beavers are mammals known for their building skills.",
+    "id": "111"
+  },
+
+  {
+    "name" : "Chameleon",
+    "description" : "A very talented reptile type of animal species is the Chameleon.",
+    "id": "112"
+  },
+
+
+  {
+    "name" : "Chihuahua",
+    "description" : "The Chihuahua is a Mexican breed of toy dog.",
+    "id": "113"
+  },
+
+  {
+    "name" : "Ibex",
+    "description" : "An ibex is any of several species of wild goat, distinguished by the male's large recurved horns, ",
+    "id": "114"
+  },
+
+  {
+    "name" : "Iguana",
+    "description" : "Iguana is a genus of herbivorous lizards that are native to tropical areas of Mexico, Central America, South America, and the Caribbean.",
+    "id": "115"
+  },
+
+  {
+    "name" : "Llama",
+    "description" : "The llama is a mammal that belongs to the camel family.",
+    "id": "116"
+  },
+
+  {
+    "name" : "Chinchillas",
+    "description" : "Chinchillas are unique-looking animals with a short body, large head, delicate limbs, large hairless ears, ",
+    "id": "117"
+  },
+
+
+  {
+    "name" : "Dodo",
+    "description" : "The dodo bird is an extinct bird that lived on Mauritius, a small island off the eastern coast of Africa. ",
+    "id": "118"
+  },
+
+
+  {
+    "name" : "Opossum",
+    "description" : "The opossums are cute wild animals found in North and South America.",
+    "id": "119"
+  },
+
+
+  {
+    "name" : "Wombat",
+    "description" : "Wombats are short-legged, muscular quadrupedal marsupials of the family Vombatidae that are native to Australia.",
+    "id": "120"
+  },
+
+
+  {
+    "name" : "Bull",
+    "description" : "A bull is a fully grown adult male of the Bos taurus species.",
+    "id": "121"
+  },
+
+
+  {
+    "name" : "Meerkat",
+    "description" : "Meerkats live in the deserts and grasslands of the southern tip of Africa.",
+    "id": "122"
+  },
+
+
+
+  {
+    "name" : "Mouse",
+    "description" : "Mouse is a small animal. ",
+    "id": "123"
+  },
+
+  {
+    "name" : "Vulture",
+    "description" : "A vulture is a bird of prey that scavenges on carrion.",
+    "id": "124"
+  },
+
+  {
+    "name" : "Lynx",
+    "description" : "A lynx is any of the four extant species within the medium-sized wild cat genus Lynx.",
+    "id": "125"
+  },
+
+
+  {
+    "name" : "Monitor lizard",
+    "description" : "Monitor lizards are lizards in the genus Varanus, the only extant genus in the family Varanidae. ",
+    "id": "126"
+  },
+
+  {
+    "name" : "Boar",
+    "description" : " A wild boar, also known as the wild swine or wild pig, is an omnivorous, sociable mammal considered a Least Concern species.",
+    "id": "127"
+  },
+
+  {
+    "name" : "Mammoth",
+    "description" : "Mammoth, any member of an extinct group of elephants found as fossils in Pleistocene and Holocene deposits on several continents.",
+    "id": "128"
+  },
+
+
+
+  {
+    "name" : "Gecko",
+    "description" : "Geckos are reptiles and are found on all the continents except Antarctica.",
+    "id": "129"
+  },
+
+
+  {
+    "name" : "Dove",
+    "description" : "Columbidae is a bird family consisting of doves and pigeons.",
+    "id": "130"
+  },
+
+
+  {
+    "name" : "Stork",
+    "description" : "Storks are large, long-legged, long-necked wading birds with long, stout bills.",
+    "id": "131"
+  },
+
+  {
+    "name" : "Nyala",
+    "description" : "The lowland nyala or simply nyala, is a spiral-horned antelope native to southern Africa. ",
+    "id": "132"
+  },
+
+  {
+    "name" : "Vizsla",
+    "description" : "The Vizsla is a versatile, red-coated gundog built for long days in the field.",
+    "id": "133"
+  },
+
+  {
+    "name" : "Uakari",
+    "description" : "Uakari is the common name for the New World monkeys of the genus Cacajao.",
+    "id": "134"
+  },
+
+
+
+  {
+    "name" : "Dalmatian pelican",
+    "description" : "The Dalmatian pelican is the largest member of the pelican family, and perhaps the world's largest freshwater bird,",
+    "id": "135"
+  },
+
+
+
+  {
+    "name" : "Wild turkey",
+    "description" : "The Wild Turkey and the Muscovy Duck are the only two domesticated birds native to the New World.",
+    "id": "136"
+  },
+
+
+  {
+    "name" : "Gaur",
+    "description" : "The Indian Bison or Gaur (Bos gaurus) is the tallest species of wild cattle found in India and largest extant bovine.",
+    "id": "137"
+  },
+
+
+
+
+  {
+    "name" : "Beetle",
+    "description" : "Beetles are generally characterized by a particularly hard exoskeleton and hard forewings (elytra) not usable for flying. ",
+    "id": "138"
+  },
+
+
+  {
+    "name" : "canary",
+    "description" : "The canary is a small bird known for its singing.",
+    "id": "139"
+  },
+
+
+  {
+    "name" : "ox",
+    "description" : "a bovine, trained and used as a draft animal. ",
+    "id": "140"
+  },
+
+
+  {
+    "name" : "calf",
+    "description" : "A calf is a young domestic cow or bull. ",
+    "id": "141"
+  },
+
+
+  {
+    "name" : "Caterpillar",
+    "description" : "Caterpillars are eaten by many animals. The European pied flycatcher is one species that preys upon caterpillars. ",
+    "id": "142"
+  },
+
+
+  {
+    "name" : "Clam",
+    "description" : "Clam is a common name for several kinds of bivalve molluscs. ",
+    "id": "143"
+  },
+
+
+
+  {
+    "name" : "Cockroach",
+    "description" : " a flattened oval body, long threadlike antennae, and a shining black or brown leathery integument. ",
+    "id": "144"
+  },
+
+
+  {
+    "name" : "Cocoon",
+    "description" : "A cocoon is a covering or case made by some animals to protect themselves or their young as they develop into adults. ",
+    "id": "145"
+  },
+
+
+
+  {
+    "name" : "zebu",
+    "description" : "Although B. taurus breeds are more precocious, Zebu cattle are extensively used in the tropics, due to their thermo tolerance and resistance to parasites.",
+    "id": "146"
+  },
+
+
+
+  {
+    "name" : "yak",
+    "description" : "The wild yak (Bos mutus) is a large, wild bovine native to the Himalayas. ",
+    "id": "147"
+  },
+  {
+    "name": "Cricket",
+    "description": "Cricket are small to medium-sized insects with mostly cylindrical, somewhat vertically flattened bodies.",
+    "id": "148"
+  },
+
+
+
+  {
+    "name" : "Ladybug",
+    "description" : "Ladybugs are small and usually quite round in shape. ",
+    "id": "149"
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "name" : "Sea urchin",
+    "description" : "Sea urchins are small sea animals that have spherical shells called tests that are typically covered in spines similar to those of a porcupine. ",
+    "id": "150"
+  },
+
+
+
+  {
+    "name" : "Slug",
+    "description" : "Snails are gastropods with a coiled shell large enough for the animal to pull back inside. ",
+    "id": "151"
+  },
+
+
+
+
+  {
+    "name" : "Starfish",
+    "description" : "Starfish or sea stars are star-shaped echinoderms belonging to the class Asteroidea.  ",
+    "id": "152"
+  },
+
+
+
+
+  {
+    "name" : "ferret",
+    "description" : "The ferret is a small, domesticated species belonging to the family Mustelidae ",
+    "id": "153"
+  },
+
+
+
+
+
+  {
+    "name" : "chick",
+    "description" : "The chicken is a domesticated species that arose from the red junglefowl, originally from Southeast Asia.",
+    "id": "154"
+  },
+
+
+
+  {
+    "name" : "coral snake",
+    "description" : "SCoral snakes are a large group of elapid snakes that can be divided into two distinct groups, ",
+    "id": "155"
+  },
+
+
+
+
+  {
+    "name" : "Gharial",
+    "description" : "The gharial is one of only two species in the Gavialidae family. ",
+    "id": "156"
+  },
+
+
+
+
+  {
+    "name" : "Hermit Crab",
+    "description" : "The hermit crab is a type of crab that does not have a hard shell. ",
+    "id": "157"
+  },
+
+
+
+  {
+    "name" : "Woodpecker",
+    "description" : "A female European green woodpecker perches on a piece of wood. ",
+    "id": "158"
+  },
+  {
+    "name": "Walrus",
+    "description": "The walrus is a large marine mammal known for its distinctive tusks, flippers, and thick blubber, found primarily in Arctic and sub-Arctic regions.\n",
+    "id": "159"
+  },
+
+
+
+  {
+    "name" : "Toucan",
+    "description" : "Toucans are among the noisiest of forest birds; their repertoire includes loud barks, bugling calls, and harsh croaks.",
+    "id": "160"
+  },
+
+
+
+  {
+    "name" : "Reindeer",
+    "description" : "They are very docile and trusting animals that live together in large groups and migrate huge distances to find food. ",
+    "id": "161"
+  },
+
+
+
+  {
+    "name" : "Puffin",
+    "description" : "Puffins are any of three species of small alcids (auks) in the bird genus Fratercula.",
+    "id": "162"
+  },
+
+
+
+
+  {
+    "name" : "Okapi",
+    "description" : "The okapi is a shy animal that lives among dense cover and avoids people.",
+    "id": "163"
+  },
+
+
+
+  {
+    "name" : "Nilgai",
+    "description" : "Nilgai is the Hindustani word for “blue cow,” which describes the blue-gray of adult bulls.",
+    "id": "164"
+  },
+
+
+
+
+  {
+    "name" : "Kudu",
+    "description" : "Kudu, or koodoo, is the Khoikhoi and seTswana name for this antelope.",
+    "id": "165"
+  },
+
+
+
+
+  {
+    "name" : "Komodo dragon",
+    "description" : "They are powerful-looking reptiles with wide, flat heads, rounded snouts, bowed legs, and huge, muscular tails.",
+    "id": "166"
+  },
+
+
+
+  {
+    "name" : "Kiwi",
+    "description" : "A kiwi is in a group of birds called ratites. These are birds that don't fly, which is one of many ways a kiwi is unusual. ",
+    "id": "167"
+  },
+  {
+    "name": "Guanaco",
+    "description": "The guanaco is a diurnal animal. These small hens live in which one male and many fish live with their children.",
+    "id": "168"
+  },
+
+
+
+
+  {
+    "name" : "Gila monster",
+    "description" : "The Gila monster is one of only a few poisonous lizards in the world.",
+    "id": "169"
+  },
+
+
+
+  {
+    "name" : "Frigatebird",
+    "description" : "Magnificent Frigatebirds are large seabirds with long, angular wings. ",
+    "id": "170"
+  },
+
+
+
+
+
+
+
+
+  {
+    "name" : "Crane",
+    "description" : "The crane is a tall, graceful, wading bird.  ",
+    "id": "171"
+  },
+
+
+
+
+  {
+    "name" : "Cockatoo",
+    "description" : "This solitary bird of northeastern Australia, New Guinea, and the Aru Islands has a threadlike erectile crest.",
+    "id": "172"
+  },
+
+
+
+
+
+
+
+  {
+    "name" : "Centipede",
+    "description" : "Centipedes are elongated segmented (metameric) creatures with one pair of legs per body segment. ",
+    "id": "173"
+  },
+
+
+
+
+  {
+    "name" : "Bongo",
+    "description" : " bongo, (Tragelaphus eurycerus), the largest, most colourful, and most sociable of the African forest antelopes,",
+    "id": "174"
+  },
+
+
+
+
+  {
+    "name" : "Ape Animal",
+    "description" : "Monkeys and apes are both primates, which means they're both part of the human family tree. ",
+    "id": "175"
+  },
+
+
+
+  {
+    "name" : "Anteater",
+    "description" : "Anteaters are curious-looking animals. ",
+    "id": "176"
+  },
+
+
+  {
+    "name" : "Ring-tailed lemur",
+    "description" : "The ring-tailed lemur is a strepsirrhine primate, with a protruding muzzle and a wet nose. Top is the skull.",
+    "id": "177"
+  },
+
+
+
+  {
+    "name" : "Zorse",
+    "description" : "A zorse is the offspring of a zebra stallion and a horse mare.",
+    "id": "178"
+  },
+
+
+
+
+
+  {
+    "name" : "Pelican",
+    "description" : "APelicans are among the largest flying birds.",
+    "id": "179"
+  },
+
+
+
+  {
+    "name" : "Fennec Fox",
+    "description" : "The fennec fox is the smallest of all the world's foxes, but its large ears, measuring 6 inches, appear to be on loan from a bigger relative.",
+    "id": "180"
+  },
+
+
+  {
+    "name" : "Kookaburra",
+    "description" : "Kookaburras are birds that belong to the kingfisher family. ",
+    "id": "181"
+  },
+
+
+  {
+    "name" : "Manatee",
+    "description" : "Manatees are large, fully aquatic, mostly herbivorous marine mammals sometimes known as sea cows. ",
+    "id": "182"
+  },
+
+
+  {
+    "name" : "Puma",
+    "description" : "Pumas are large, secretive cats.",
+    "id": "183"
+  },
+
+
+  {
+    "name" : "Siberian Husky",
+    "description" : "The Siberian Husky is a medium-sized working sled dog breed. ",
+    "id": "184"
+  },
+
+
+  {
+    "name" : "Chamois",
+    "description" : "A chamois is an animal with brown fur and short horns that curve backwards, native to the mountains of Europe.",
+    "id": "185"
+  },
+
+
+
+  {
+    "name" : "Quetzal",
+    "description" : "The resplendent quetzal is a national symbol in Guatemala. Like other types of quetzal, the golden-headed quetzal has colorful feathers.",
+    "id": "186"
+  },
+
+  {
+    "name" : "Star-nosed Mole",
+    "description" : "Star nosed moles are one of the most distinctive types of mammal.",
+    "id": "187"
+  },
+
+
+  {
+    "name" : "Weasel",
+    "description" : "Weasels are mammals of the genus Mustela of the family Mustelidae.",
+    "id": "188"
+  },
+
+
+
+  {
+    "name" : "Rhinos",
+    "description" : "Like the closely related, and larger, Indian rhinoceros, the Javan rhino has a single horn. ",
+    "id": "189"
+  },
+
+
+  {
+    "name" : "Pony",
+    "description" : "A pony is a type of small horse.",
+    "id": "190"
+  },
+
+
+
+
+
+
+  {
+    "name" : "Yeti Crab",
+    "description" : "The yeti crab is a blind deep-sea crab with reduced eyes and long bristles on its body.",
+    "id": "191"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "name" : "Wolverine",
+    "description" : "It is a muscular carnivore and a solitary animal. ",
+    "id": "192"
+  },
+
+
+  {
+    "name" : "Wildebeest",
+    "description" : "They belong to the family Bovidae, which includes true antelopes, cattle, goats, sheep, and other even-toed horned ungulates. ",
+    "id": "193"
+  },
+
+
+
+  {
+    "name" : "Umbrellabird",
+    "description" : "This bird has strong legs, short feet, acute claws, broad wings, and a thick bill.",
+    "id": "194"
+  },
+
+
+  {
+    "name" : "Tapir",
+    "description" : "Tapirus is a genus of tapir which contains the living tapir species. ",
+    "id": "195"
+  },
+
+
+
+  {
+    "name" : "Tarsier",
+    "description" : "Tarsiers are lemurlike in being nocturnal and having a well-developed sense of smell.",
+    "id": "196"
+  },
+
+  {
+    "name" : "Sable",
+    "description" : " Sable, graceful member of the weasel family, Mustelidae, found in the forests of northern Asia and highly valued for its fur.",
+    "id": "197"
+  },
+  {
+    "name": "Saluki Dog",
+    "description": "Salukis are swift and agile sprinters who love a good chase.",
+    "id": "198"
+  },
+
+
+  {
+    "name" : "Saola",
+    "description" : "TThe reddish-brown saola is a horned animal that can be found in Asian countries like Laos and Vietnam",
+    "id": "199"
+  },
+
+
+  {
+    "name" : "Scarlet Macaw",
+    "description" : "The scarlet macaw (Ara macao) is a large yellow, red and blue Neotropical parrot native to humid evergreen forests of the Americas.\n",
+    "id": "200"
+  },
+
+
+  {
+    "name" : "Serval",
+    "description" : "The serval is a wild cat native to Africa.",
+    "id": "201"
+  },
+  {
+    "name" : "Raven",
+    "description" : "The common raven is a large all-black passerine bird.",
+    "id": "202"
+  },
+  {
+    "name" : "Moth",
+    "description" : "Moths are a group of insects that includes all members of the order Lepidoptera that are not butterflies. ",
+    "id": "203"
+  },
+
+  {
+    "name" : "Aurochs",
+    "description" : "The aurochs (Bos primigenius) is an extinct cattle species, considered to be the wild ancestor of modern domestic cattle",
+    "id": "204"
+  },
+
+  {
+    "name" : "Aye Aye",
+    "description" : "Aye-ayes are dark brown or black and are distinguished by a bushy tail that is larger than their body. ",
+    "id": "205"
+  },
+
+  {
+    "name" : "Asian Palm Civet",
+    "description" : "The Asian Palm Civet is considered a “Vulnerable” animal. ",
+    "id": "206"
+  },
+
+  {
+    "name" : "Barbet",
+    "description" : "barbet, any of about 80 species of tropical birds constituting the family Capitonidae (order Piciformes).",
+    "id": "207"
+  },
+
+
+
+
+
+  {
+    "name" : "Marten",
+    "description" : "Martens are forest-dwelling and usually solitary. ",
+    "id": "208"
+  },
+
+  {
+    "name" : "Bulbul",
+    "description" : "Bulbul bird is a medium-sized songbird. They belong to the family Pycnonotidae.",
+    "id": "209"
+  },
+
+
+  {
+    "name" : "Falcon",
+    "description" : "Falcons are birds of prey in the genus Falco, which includes about 40 species.",
+    "id": "210"
+  },
+
+
+  {
+    "name" : "Ibis",
+    "description" : "Ibises are birds with long, slender bills that curve downward.",
+    "id": "211"
+  },
+
+
+  {
+    "name" : "Guinea pig",
+    "description" : " Guinea pig, a domesticated species of South American rodent belonging to the cavy family (Caviidae).",
+    "id": "212"
+  },
+
+
+  {
+    "name" : "Mallard",
+    "description" : "Mallards are dabbling, or surface-feeding, ducks because they eat by tipping underwater for food—head down, feet and tail in the air—rather than diving.\n ",
+    "id": "213"
+  },
+
+  {
+    "name" : "Gazelle",
+    "description" : "A gazelle is one of many antelope species in the genus Gazella.",
+    "id": "214"
+  },
+
+  {
+    "name" : "Condor",
+    "description" : "condors are very large broad-winged soaring birds, ",
+    "id": "215"
+  },
+
+
+
+
+
+  {
+    "name" : "Earthworm",
+    "description" : "An earthworm is a soil-dwelling terrestrial invertebrate that belongs to the phylum Annelida. T ",
+    "id": "216"
+  },
+
+
+  {
+    "name" : "Earwig",
+    "description" : "The common earwig is an omnivore, eating plants and ripe fruit as well as actively hunting arthropods.",
+    "id": "217"
+  },
+
+  {
+    "name" : "Fangtooth",
+    "description" : "Fangtooths are beryciform fish of the family Anoplogastridae that live in the deep sea. ",
+    "id": "218"
+  },
+  {
+    "name" : "Indri",
+    "description" : "The indri is a vertical clinger and leaper and thus holds its body upright when traveling through trees or resting in branches. ",
+    "id": "219"
+  },
+
+  {
+    "name" : "Insects",
+    "description" : "They are the largest group within the arthropod phylum. ",
+    "id": "220"
+  },
+
+  {
+    "name" : "Jacana",
+    "description" : "The jacanas are a group of tropical waders in the family Jacanidae.  ",
+    "id": "221"
+  },
+  {
+    "name": "Crow",
+    "description": "The crow is a highly intelligent and adaptable bird known for its black plumage, cawing calls, and widespread distribution across various habitats. ",
+    "id": "222"
+  }
+]

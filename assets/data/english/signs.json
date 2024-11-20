@@ -1,0 +1,502 @@
+[
+  {
+    "name" : "No Parking Sign",
+    "description" : "Usually placed on sign or sidewalks indicating that parking is prohibited in that area.",
+    "id" : "0"
+
+  },
+
+  {
+    "name" : "No Smoking Sign",
+    "description" : "The no smoking symbol consists of a red circle with a red diagonal line through a lit cigarette, indicating smoking is prohibited in that area.",
+    "id" : "1"
+
+  },
+
+
+  {
+    "name" : "Put ON Seatbelt Sign",
+    "description" : "The seatbelt symbol typically resembles a person wearing a seatbelt, often illuminated in cars on the dashboard to remind passengers to buckle up for safety.",
+    "id" : "2"
+
+  },
+
+
+  {
+    "name" : "OnWay Sign",
+    "description" : "usually seen on roads or sign indicating traffic flow in that specific direction.",
+    "id" : "3"
+
+  },
+
+
+  {
+    "name" : "Zebra Crossing",
+    "description" : " typically seen at pedestrian crossings, indicating a designated area for pedestrians to safely cross the street.",
+    "id" : "4"
+
+  },
+
+  {
+    "name" : "Peace Sign",
+    "description" : " The logo came to be known as the “peace symbol.” The symbol was widely used by a whole generation who stood for peace and a war-free world.",
+    "id" : "5"
+
+  },
+
+
+  {
+    "name" : " Prohibition Sign",
+    "description" : "Prohibition sign are universal symbols designed to denote actions or behaviors that are not allowed in a given area.",
+    "id" : "6"
+
+  },
+
+
+  {
+    "name" : "Warning Sign",
+    "description" : "Warning sign serve as precautionary alerts, informing individuals of potential dangers or risks.",
+    "id" : "7"
+
+  },
+
+  {
+    "name" : "Flammable Sign",
+    "description" : "Post durable Flammable Signin your facility to mark hazardous materials that can cause fires and explosions.",
+    "id" : "8"
+
+  },
+
+
+  {
+    "name" : "Explosive Sign",
+    "description" : "Explosive sign are stark warnings about materials that have the potential to detonate.",
+    "id" : "9"
+
+  },
+
+  {
+    "name" : "Fire Extinguisher Sign" ,
+    "description" : "A fire extinguisher is a handheld active fire protection device usually filled with a dry or wet chemical used to extinguish or control small fires, often in emergencies.",
+    "id" : "10"
+
+  },
+
+
+
+
+  {
+    "name" : " Biohazard Sign",
+    "description" : "Biohazard sign represent threats at a microscopic level and feature a distinct trefoil design on a contrasting yellow background. ",
+    "id" : "11"
+
+  },
+
+  {
+    "name" : "High Voltage Sign",
+    "description" :  "High voltage sign are warnings that come in various design, often with jagged lines symbolizing electricity, highlighting the dangers of electrical energy. ",
+    "id" : "12"
+
+  },
+
+
+  {
+    "name" : "Radioactive Sign",
+    "description" : "Vivid warnings flashing danger unseen: stay back, stay safe.",
+    "id" : "13"
+
+  },
+
+
+  {
+    "name" : "Toxic/Poison Sign",
+    "description" : "Represented by the universally feared skull and crossbones symbol, these sign are dire warnings.",
+    "id" : "14"
+
+  },
+
+  {
+    "name" : "Wet Floor Sign",
+    "description" : "Slip and fall accidents are common and can lead to severe injuries. The “Wet Floor” sign, typically featuring.",
+    "id" : "15"
+
+  },
+
+
+
+  {
+    "name" : " Restricted Area Sign",
+    "description" : "Not all zones in a facility are safe or meant for general access. The “Restricted Area” sign demarcates zones off-limits to unauthorized personnel, often due to safety concerns, sensitive information, or specialized equipment.",
+    "id" : "16"
+
+  },
+
+
+  {
+    "name" : "Oxidizer Sign",
+    "description" : "Fuel for fire: Handle with care, avoid sparks.",
+    "id" : "17"
+
+  },
+
+
+  {
+    "name" : "Under Construction Sign",
+    "description" : "These sign provide general information about the construction project.",
+    "id" : "18"
+
+  },
+
+
+  {
+    "name" : "Emergency Assembly Point Sign",
+    "description" : "Emergency Assembly Point sign play a crucial role in directing people to safety during an emergency evacuation. ",
+    "id" : "19"
+
+  },
+
+  {
+    "name" : "First Aid Sign",
+    "description" : "First aid sign, like beacons in a storm, guide us to essential medical supplies and assistance in times of need.",
+    "id" : "20"
+
+  },
+
+
+  {
+    "name" : "Emergency Exit Sign",
+    "description" : "Knowing where the exits are can be lifesaving in situations that require a swift evacuation, like fires or other emergencies",
+    "id" : "21"
+
+  },
+
+  {
+    "name" : "Wear Mask Sign",
+    "description" : "Instructing individuals to wear masks as a preventive measure against the spread of infectious diseases.",
+    "id" : "22"
+
+  },
+
+
+  {
+    "name" : "Tripping Hazard Sign",
+    "description" : "A Tripping Hazard sign typically displays a person falling or stumbling.",
+    "id" : "23"
+
+  },
+
+
+  {
+    "name" : "Low Temperature Sign",
+    "description" : "A Low Temperature Hazard sign typically features an icicle or thermometer symbol, indicating the risk of extremely cold conditions.",
+    "id" : "24"
+
+  },
+
+  {
+    "name" : "Hot Surface Sign",
+    "description" : "A Heated Surface sign usually displays a symbol of radiating heat waves or a hot surface icon. ",
+    "id" : "25"
+  },
+
+
+
+  {
+    "name" : "Eye Protection Sign",
+    "description" : "An Eye Protection Required sign typically features an image of protective goggles, emphasizing the mandatory use of eye safety gear.",
+    "id" : "26"
+  },
+
+
+
+  {
+    "name" : "Health hazard symbol",
+    "description" : "This sign alerts people to chemicals and materials that are harmful to human health, particularly carcinogens.",
+    "id" : "27"
+  },
+
+
+
+  {
+    "name" : "Gas cylinder Sign",
+    "description" : " A gas cylinder sign indicates that gas is being stored under pressure.",
+    "id" : "28"
+  },
+
+
+  {
+    "name" : "Fire Hydrant Sign",
+    "description" : "Red standpipe silhouette on a yellow background, a universal symbol for life-saving water flow in emergencies.",
+    "id" : "29"
+  },
+
+  {
+    "name" : "Stop Sign",
+    "description" : "he iconic octagon in red demands a complete stop before proceeding.\n",
+    "id" : "30"
+  },
+
+
+
+
+  {
+    "name" : "Yield Sign",
+    "description" : "The inverted triangle in yellow instructs to slow down and give way to traffic with the right of way.",
+    "id" : "31"
+  } ,
+
+
+
+  {
+    "name" : "Speed Limit Sign",
+    "description" : "Circular with a red border, it displays the maximum permissible speed.\n",
+    "id" : "32"
+  },
+
+
+
+
+  {
+    "name" : "Falling Rocks Sign",
+    "description" : "Triangular with downward arrows and rocks, it warns of falling debris.",
+    "id" : "33"
+  }  ,
+
+
+
+  {
+    "name" : "Slippery When Wet Sign",
+    "description" : "Yellow rectangle with diagonal lines and raindrops, it warns of slippery surfaces during rain.",
+    "id" : "34"
+  },
+
+
+  {
+    "name" : "Deer Crossing Sign",
+    "description" : "Rectangular with a silhouette of a deer, it warns of potential animal crossings.",
+    "id" : "35"
+  },
+
+
+
+  {
+    "name" : "School Crossing Sign",
+    "description" : "Yellow rectangle with a black schoolhouse symbol, it warns of a school zone and children crossing.",
+    "id" : "36"
+  },
+
+
+
+  {
+    "name" : "Wash Hand Sign",
+    "description" : "Instructing individuals to wash their hands, emphasizing good hygiene practices for cleanliness and disease prevention.",
+    "id" : "37"
+  },
+
+
+  {
+    "name" : "Hospital Sign",
+    "description" : " indicating the location of a hospital or healthcare facility.",
+    "id" : "38"
+  },
+
+
+  {
+    "name" : "bus stop Sign",
+    "description" : "Rectangular sign with the letters BUS STOP in white on a contrasting background, indicating a designated area for buses to pick up or drop off passenge",
+    "id" : "39"
+  },
+
+
+  {
+    "name" : "Trucks Prohibited Sign",
+    "description" : "Red circle with a white horizontal bar and a black symbol of a truck, indicating that trucks are prohibited in that area.",
+    "id" : "40"
+  },
+
+
+  {
+    "name" : "Right Turn Prohibited Sign",
+    "description" : "Red circle with a white horizontal bar and a black arrow turning right, indicating that right turns are prohibited at that location.",
+    "id" : "41"
+  },
+
+
+
+  {
+    "name" : "Left Turn Prohibited Sign",
+    "description" : "Red circle with a white horizontal bar and a black arrow turning left, indicating that left turns are prohibited at that location.",
+    "id" : "42"
+  },
+
+
+
+  {
+    "name" : "Horn Prohibited Sign",
+    "description" : "A red circle with a slash through a stylized trumpet, silencing the urge to honk and promoting peace on the road. ",
+    "id" : "43"
+  },
+
+
+  {
+    "name" : "Turn Left Sign",
+    "description" : "A white arrow pointing left within a green circle, indicating that left turns are allowed at the specified location or intersection.\n\n\n\n\n\n",
+    "id" : "44"
+  },
+
+  {
+    "name" : "Turn Right Sign",
+    "description" : "White arrow pointing right within a green circle, indicating that right turns are allowed at the specified location or intersection.",
+    "id" : "45"
+  },
+
+
+
+  {
+    "name" : "Public Telephone Sign",
+    "description" : "A publicly accessible telephone, typically found in public spaces, allowing individuals to make phone calls.",
+    "id" : "46"
+  },
+
+
+
+  {
+    "name" : "Petrol Pump Sign",
+    "description" : "A distinctive sign at a petrol pump, often featuring symbols or text indicating the availability of gasoline or other fuels for vehicles.",
+    "id" : "47"
+  },
+
+
+  {
+    "name" : "Eating Place Ahead Sign",
+    "description" : "A road sign indicating the presence of a restaurant or eating place ahead.",
+    "id" : "48"
+  },
+
+
+  {
+    "name" : "Don Not Overtakek Sign",
+    "description" : "indicating that overtaking or passing other vehicles is prohibited.",
+    "id" : "49"
+  },
+
+  {
+    "name" : "Air port Sign",
+    "description" : "A sign with an airplane symbol or text indicating the direction to an airport, guiding travelers to the location of an aviation facility.",
+    "id" : "50"
+  },
+
+
+  {
+    "name" : "No Wating sign",
+    "description" : "indicating that waiting is not allowed in the specified area, often used in areas with restrictions on parking or stopping.",
+    "id" : "51"
+  } ,
+
+
+  {
+    "name" : "No Bycicle Sign",
+    "description" : "Indicating that bicycles are not allowed in the designated area or on a specific path.",
+    "id" : "52"
+  } ,
+
+
+
+  {
+
+    "name" : "Staggered junction Sign",
+    "description" : "This sign warns drivers that a side road that is broken up joins and leaves the current road.",
+    "id" : "53"
+  },
+
+
+  {
+    "name" : "Traffic Light Sign",
+    "description" : "Controlling the flow of traffic at an intersection, with each color indicating specific actions for drivers and pedestrians.",
+    "id" : "54"
+  } ,
+
+
+  {
+    "name" : "Narrow Bridge Ahead Sign",
+    "description" : "A road sign warning of an upcoming narrow bridge.",
+    "id" : "55"
+  },
+
+  {
+    "name" : "Road Widens Ahead Sign",
+    "description" : "A road sign indicating that the road is about to widen ahead.",
+    "id" : "56"
+  },
+
+
+
+
+
+  {
+    "name" : "Left Reverse Bend Sign",
+    "description" : "A road sign indicating a left reverse bend, alerting drivers to an upcoming leftward curve in the road that may require caution and reduced speed",
+    "id" : "57"
+  } ,
+
+  {
+    "name" : "Y – INTERSECTION Sign",
+    "description" : "A road sign indicating a Y-intersection ahead, where the road splits into two branches forming a Y shape, and drivers need to choose between the two directions.",
+    "id" : "58"
+  },
+
+
+  {
+    "name" : "Railway Crossing Sign",
+    "description" : "A road sign warning of an upcoming railway crossing.",
+    "id" : "59"
+  },
+
+
+  {
+    "name" : "Parking This Side Sign",
+    "description" : "This sign is erected at destination telling exactly where to park your vehicles.",
+    "id" : "60"
+  }   ,
+
+
+
+  {
+    "name" : "Parking Both Side Sign",
+    "description" : "This sign indicates that vehicles can be parked on both sides.",
+    "id" : "61"
+  },
+
+
+
+  {
+    "name" : "Women Sign",
+    "description" : "A symbol representing women.",
+    "id" : "62"
+  },
+
+
+  {
+    "name" : "Men Sign",
+    "description" : "A symbol representing Men.",
+    "id" : "63"
+  },
+
+
+  {
+    "name" : "Dustbin Sign",
+    "description" : "A symbol depicting a waste receptacle, commonly used to indicate the location of a dustbin or trash bin for disposing of waste materials.",
+    "id" : "64"
+  },
+
+
+
+  {
+    "name" : "Handicapped Sign",
+    "description" : "A universal symbol featuring a person in a wheelchair, indicating accessibility for individuals",
+    "id" : "65"
+  }
+
+
+
+]

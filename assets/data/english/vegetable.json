@@ -1,0 +1,937 @@
+[
+  {
+    "name" : "Acorn Squash",
+    "description" : " A sweet and nutty winter squash shaped like an acorn, often roasted or stuffed. ",
+    "id" : "0"
+
+  } ,
+  {
+    "name" : "Kiwi",
+    "description" : "Green fruit with fuzzy skin and a sweet, tart flavor, often eaten raw or in smoothies.",
+    "id" : "1"
+
+  } ,
+  {
+    "name" : "Tomato",
+    "description" : "Juicy and versatile red fruit, commonly used in salads and cooking.",
+    "id" : "2"
+  } ,
+  {
+    "name": "Avocado",
+    "description": "Ruchira or butterfruit or avocado is a fruit belonging to the Caribbean region. Avocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world.",
+    "id": "3"
+  },
+
+
+  {
+    "name" : "Artichoke:",
+    "description" : "Large, spiky flower bud with a delicious heart, often steamed or roasted.",
+    "id" : "4"
+  },
+
+  {
+    "name" : "Arugula",
+    "description" : "Peppery, leafy green with a distinctive flavor, commonly used in salads.",
+    "id" : "5"
+  },
+
+  {
+    "name" : "Asparagus",
+    "description" : "Green or white vegetable with tender shoots, rich in nutrients.",
+    "id" : "6"
+  },
+
+  {
+    "name" : "Apple groud",
+    "description" : "Apple gourd is a green, oval or round-shaped vegetable, also known as Indian squash, round melon, Indian round gourd, or tinda.",
+    "id" : "7"
+  },
+
+
+  {
+    "name" : "Tendli",
+    "description" : "Tendli, also known as ivy gourd or kundru, is a small, green, and elongated vegetable with a slightly tangy taste.",
+    "id" : "8"
+  },
+
+  {
+    "name" : "Banana Squash ",
+    "description" : "Banana Squash are cylindrical in shape and measure 20-36 inches in length and about 6 inches in diameter.",
+    "id" : "9"
+  },
+
+
+  {
+    "name" : "Basil",
+    "description" : "Basil, also called great basil, is a culinary herb of the family Lamiaceae. ",
+    "id" : "10"
+  },
+
+  {
+    "name" : "Bean Sprouts",
+    "description" : "Crunchy, nutrient-rich sprouts of various beans, used in salads and stir-fries.",
+    "id" : "11"
+  },
+
+  {
+    "name" : "Beetroot",
+    "description" : "Red or golden root vegetable with a sweet and earthy taste.",
+    "id" : "12"
+  },
+
+  {
+    "name" : "Mouse melon",
+    "description" : "Mouse melon, also known as Mexican sour gherkin or cucamelon, is a tiny cucumber-like vegetable with a refreshing, tangy flavor, resembling a miniature watermelon. ",
+    "id" : "13"
+  },
+  {
+    "name": "Fenugreek Leaves",
+    "description": "Fenugreek Leaves, also known as methi leaves, is a flavorful and aromatic herb commonly used in South Asian cuisines. ",
+    "id": "14"
+  },
+  {
+    "name": "Bok choy",
+    "description": "This vegetable is also called Chinese cabbage. This is because it looks something like this. Also, it comes from the cabbage family. Many such nutrients and properties are found in it, which not only help in keeping you healthy but also prevent problems like cancer from occurring in the body.",
+    "id": "15"
+  },
+
+
+  {
+    "name" : "Mint",
+    "description" : "Mint, with its refreshing and aromatic leaves, adds a burst of cool flavor to dishes, beverages.",
+    "id" : "16"
+  },
+
+
+  {
+    "name" : "Broad bean",
+    "description" : " Large, flat legume with a slightly sweet and earthy flavor, often enjoyed boiled, steamed, or sautéed as a versatile ingredient in salads, stews, and side dishes.",
+    "id" : "17"
+  },
+
+  {
+    "name" : "Broccoflower",
+    "description" : "The term broccoflower is actually used to describe two different, though similar, vegetables.",
+    "id" : "18"
+  },
+
+
+  {
+    "name" : "Curry Leaf",
+    "description" : "Curry leaf, a fragrant herb with shiny green leaves, adds a distinctive citrusy and aromatic flavor to various South Asian dishes.",
+    "id" : "19"
+  },
+
+  {
+    "name" : "Brussels Sprout",
+    "description" : "The Brussels sprout is a member of the Gemmifera cultivar group of cabbages, grown for its edible buds.",
+    "id" : "20"
+  },
+
+
+  {
+    "name" : "Butternut Squash",
+    "description" : "Butternut squash, known in Australia and New Zealand as butternut pumpkin or gramma, is a type of winter squash that grows on a vine.",
+    "id" : "21"
+  },
+
+  {
+    "name" : "Cabbage",
+    "description" : "Leafy green or purple vegetable, often used in coleslaw or stir-fries.",
+    "id" : "22"
+  },
+
+  {
+    "name" : "Bamboo shoots",
+    "description" : "Bamboo shoots, young and tender edible shoots from the bamboo plant, offer a mild, crisp texture and a subtle, earthy flavor.  ",
+    "id" : "23"
+  },
+
+  {
+    "name" : "Caraway",
+    "description" : "a biennial plant in the family Apiaceae, native to western Asia, Europe, and North Africa.  ",
+    "id" : "24"
+  },
+
+  {
+    "name" : "Carrot",
+    "description" : "Crunchy and orange root vegetable, rich in beta-carotene.",
+    "id" : "25"
+  },
+
+  {
+    "name" : "Cauliflower",
+    "description" : "White vegetable with a mild flavor, used in a variety of dishes. ",
+    "id" : "26"
+  },
+
+  {
+    "name" : "Cayenne Pepper",
+    "description" : "Fiery red spice derived from dried cayenne chili peppers, known for its intense heat and vibrant flavor.",
+    "id" : "27"
+  },
+
+
+  {
+    "name" : "Celeriac",
+    "description" : "Celeriac is a root vegetable closely related to celery, parsley and parsnips.",
+    "id" : "28"
+  },
+
+
+  {
+    "name" : "Celery",
+    "description" : "Crisp stalks with a light, refreshing flavor, commonly used in salads and soups.",
+    "id" : "29"
+  },
+
+  {
+    "name" : "White Goose Foot",
+    "description" : "White goosefoot, also known as lamb's quarters or Chenopodium album, is a leafy green vegetable with a mild, spinach-like flavor. ",
+    "id" : "30"
+  },
+
+  {
+    "name" : "Chard",
+    "description" : "Chard or Swiss chard is a green leafy vegetable.",
+    "id" : "31"
+  },
+
+  {
+    "name" : "Chayote",
+    "description" : "Chayote, also known as mirliton and choko, is an edible plant belonging to the gourd family, Cucurbitaceae.",
+    "id" : "32"
+  },
+
+
+  {
+    "name" : "Chickpea",
+    "description" : "Nutty and creamy legume with a firm texture, widely used in diverse cuisines.  ",
+    "id" : "33"
+  },
+
+  {
+    "name" : "Chives",
+    "description" : "a green vegetable with a mild onion-like flavor. ",
+    "id" : "34"
+  },
+
+  {
+    "name" : "Cilantro",
+    "description" : "Cilantro, also known as coriander leaves, is a fresh and fragrant herb with bright green, delicate leaves.",
+    "id" : "35"
+  },
+
+  {
+    "name" : "Collard Greens",
+    "description" : "Dark, leafy greens with a robust, slightly bitter flavor, often used in Southern cuisine. ",
+    "id" : "36"
+  },
+
+
+  {
+    "name" : "Corn",
+    "description" : "Sweet, juicy kernels on a cob, enjoyed boiled, roasted, or grilled.",
+    "id" : "37"
+  },
+
+
+  {
+    "name" : "Bottle gourd",
+    "description" : "Bottle gourd, a mild-flavored and hydrating vegetable.",
+    "id" : "38"
+  },
+
+
+  {
+    "name" : "Elephant yam",
+    "description" : "Elephant yam, also known as Suran or Amorphophallus paeoniifolius, is a starchy tuber with a unique, knobbly appearance. ",
+    "id" : "39"
+  },
+
+  {
+    "name" : "Cucumber",
+    "description" : "Crisp and hydrating vegetable often used in salads.",
+    "id" : "40"
+  },
+
+
+
+  {
+    "name" : "Jackfruit",
+    "description" : "Jackfruit, a large tropical fruit, is renowned for its versatility and meaty texture. ",
+    "id" : "41"
+  },
+
+
+  {
+    "name" : "Cluster Beans",
+    "description" : "Cluster beans, also known as guar beans or gavar, are slender green beans with a slightly bitter taste. ",
+    "id" : "42"
+  },
+
+
+
+  {
+    "name" : "Dill",
+    "description" : "Fragrant herb with feathery green leaves and a mild, slightly tangy flavor.",
+    "id" : "43"
+  },
+
+
+
+  {
+    "name" : "Eggplant",
+    "description" : "Purple or white vegetable with a spongy texture, used in various  ",
+    "id" : "44"
+  },
+
+
+
+  {
+    "name" : "Endive",
+    "description" : "Endive, a leafy green vegetable with crisp and slightly bitter leaves, is often used in salads and appetizers. ",
+    "id" : "45"
+  },
+
+
+  {
+    "name" : "Fennel",
+    "description" : " Fennel, a bulbous vegetable with feathery green fronds, has a sweet, licorice-like flavor. ",
+    "id" : "46"
+  },
+
+
+  {
+    "name" : "Fiddleheads",
+    "description" : "Coiled, young fern fronds with a delicate texture and earthy flavor, often foraged in spring.",
+    "id" : "47"
+  },
+
+
+  {
+    "name" : "Raw Banana",
+    "description" : "Raw banana, also known as green banana or plantain, ",
+    "id" : "48"
+  },
+
+
+  {
+    "name" : "Garlic",
+    "description" : "Aromatic cloves with a pungent flavor, essential for many savory dishes.",
+    "id" : "49"
+  },
+
+  {
+    "name" : "Olive ",
+    "description" : "Olive, a small, oval-shaped fruit, is a key ingredient in Mediterranean cuisine.",
+    "id" : "50"
+  },
+
+
+  {
+    "name" : "Ginger",
+    "description" : "Spicy root with a warm, pungent flavor, used in stir-fries, marinades, and teas.",
+    "id" : "51"
+  },
+
+
+  {
+    "name" : "Cassava",
+    "description" : " Cassava, also known as yuca or manioc, is a starchy root vegetable that is a dietary staple in many tropical regions.",
+    "id" : "52"
+  },
+
+
+  {
+    "name" : "Green pepper ",
+    "description" : "Also known as bell pepper, a crisp and mildly sweet vegetable with a slightly bitter undertone. ",
+    "id" : "53"
+  },
+
+
+  {
+    "name" : "Habanero",
+    "description" : "Habanero, a small and extremely spicy chili pepper, is known for its intense heat and fruity flavor. ",
+    "id" : "54"
+  },
+
+
+  {
+    "name" : "White Radish",
+    "description" : "Also known as daikon radish, it is a large, mild-flavored radish with a crisp texture. ",
+    "id" : "55"
+  },
+
+
+  {
+    "name" : "Nopales",
+    "description" : "Nopales, also known as prickly pear cactus pads, are flat, paddle-shaped green structures derived from the prickly pear cactus.",
+    "id" : "56"
+  },
+
+
+  {
+    "name" : "Purslane",
+    "description" : "Purslane, a leafy green vegetable with succulent leaves, is known for its mild, slightly tangy flavor and crunchy texture. ",
+    "id" : "57"
+  },
+
+  {
+    "name" : "Jerusalem artichoke",
+    "description" : "Tuberous root vegetable with a nutty, sweet flavor and a crisp texture. ",
+    "id" : "58"
+  },
+
+  {
+    "name" : "Jicama",
+    "description" : "A crunchy and slightly sweet root vegetable with a mild flavor and water chestnut-like texture. ",
+    "id" : "59"
+  },
+
+  {
+    "name" : "Kale",
+    "description" : "Dark green, leafy vegetable with a slightly bitter flavor, rich in nutrients.",
+    "id" : "60"
+  },
+
+
+  {
+    "name" : "Spine Gourd",
+    "description" : " Spine gourd, also known as teasel gourd or kantola, is a small, spiky vegetable with a slightly bitter taste. ",
+    "id" : "61"
+  },
+
+
+  {
+    "name" : "Kohlrabi",
+    "description" : "Edible stem vegetable with a bulbous, turnip-like appearance and a mild, slightly peppery taste.",
+    "id" : "62"
+  },
+
+
+  {
+    "name" : "Lavender",
+    "description" : " Fragrant herb with narrow, aromatic leaves and vibrant purple flowers. ",
+    "id" : "63"
+  },
+
+
+
+  {
+    "name" : "Leeks",
+    "description" : "White stalks with a mild, onion-like flavor, often used in soups and stews.",
+    "id" : "64"
+  },
+
+  {
+    "name" : "Cardoon",
+    "description" : " Cardoon is a type of vegetable that is related to artichokes. It is often used in Mediterranean cuisine.",
+    "id" : "65"
+  },
+
+
+  {
+    "name" : "Lemon Grass",
+    "description" : "A tropical herb with long, green, fragrant stalks and a citrusy flavor. ",
+    "id" : "66"
+  },
+
+  {
+    "name" : "Lentils",
+    "description" : "Small, brown legumes with a nutty flavor, high in protein and fiber.",
+    "id" : "67"
+  },
+
+  {
+    "name" : "Lettuce",
+    "description" : "Leafy greens with various types, commonly used in salads.",
+    "id" : "68"
+  },
+  {
+    "name": "Mamey Sapote ",
+    "description": "A tropical fruit with a rough brown exterior and sweet, orange-pink flesh. ",
+    "id": "70"
+  },
+
+
+  {
+    "name" : "Celtuce",
+    "description" : "Celtuce, also known as stem lettuce or asparagus lettuce, is a unique vegetable valued for its crisp and tender stem, ",
+    "id" : "71"
+  },
+
+  {
+    "name" : "Radicchio",
+    "description" : "Radicchio, a vibrant red or purple leafy vegetable, belongs to the chicory family and has a distinctive bitter taste.",
+    "id" : "72"
+  },
+
+
+  {
+    "name" : "Mung bean",
+    "description" : "Small, green legume with a round shape and mild, slightly nutty flavor. ",
+    "id" : "73"
+  },
+
+  {
+    "name" : "Mushroom ",
+    "description" : "Fungi with a unique texture and flavor, used in various culinary dishes.",
+    "id" : "74"
+  },
+
+  {
+    "name" : "Tomatillo",
+    "description" : "Tomatillo, a small green fruit enclosed in a papery husk, is a staple in Mexican cuisine. ",
+    "id" : "75"
+  },
+
+  {
+    "name" : "Hubbard squash",
+    "description" : "Hubbard squash, a winter squash variety, is characterized by its large size, bumpy skin, and sweet, fine-textured flesh. ",
+    "id" : "76"
+  },
+
+  {
+    "name" : "Orach",
+    "description" : "Orach, also known as mountain spinach or red orach, is a leafy green vegetable with a mild and slightly salty flavor. ",
+    "id" : "77"
+  },
+
+  {
+    "name" : "Dandelion greens",
+    "description" : "Dandelion greens, the leaves of the common dandelion plant, offer a slightly bitter and peppery flavor. ",
+    "id" : "78"
+  },
+
+  {
+    "name" : "Lady’s finger",
+    "description" : "Green, pod-shaped vegetable with a distinct mucilaginous texture when cooked.  ",
+    "id" : "79"
+  },
+
+  {
+    "name" : "Onion",
+    "description" : "pungent bulb vegetable with layered, edible leaves, available in various types such as red, white, and yellow. ",
+    "id" : "80"
+  },
+
+
+  {
+    "name" : "Oregano",
+    "description" : "Oregano, a fragrant herb with a robust and slightly peppery flavor, is commonly used in Mediterranean and Italian cuisines. ",
+    "id" : "81"
+  },
+  {
+    "name": "Wax gourd",
+    "description": "Winter melon is a type of fruit that is often used in Asian cuisine. It is low in calories and high in fiber.",
+    "id": "82"
+  },
+
+  {
+    "name" : "Parsley",
+    "description" : "Herb with vibrant green, curly or flat leaves, and a mild, fresh flavor. ",
+    "id" : "83"
+  },
+
+  {
+    "name" : "Goji berries",
+    "description" : "Goji berries, also known as wolfberries, are small, red-orange berries that grow on the Lycium barbarum plant.",
+    "id" : "84"
+  },
+
+
+
+  {
+    "name" : "Pea",
+    "description" : " Small, round, and green legume with a sweet and crisp taste. ",
+    "id" : "86"
+  },
+
+  {
+    "name" : "Epazote",
+    "description" : "Epazote, a pungent herb native to Central America, is widely used in Mexican cuisine.  ",
+    "id" : "87"
+  },
+
+  {
+    "name" : "Potato",
+    "description" : "Starchy tuberous vegetable, a versatile kitchen staple.",
+    "id" : "88"
+  },
+
+  {
+    "name" : "Pumpkin",
+    "description" : "A vibrant orange winter squash with a sweet, earthy flavor. ",
+    "id" : "89"
+  },
+
+  {
+    "name" : "Baobab leaves",
+    "description" : "Baobab leaves, harvested from the baobab tree (Adansonia species), are commonly used in African cuisine.  ",
+    "id" : "90"
+  },
+  {
+    "name": " Red Radish",
+    "description": "Small, crunchy root vegetable with a peppery flavor.",
+    "id": "91"
+  },
+
+  {
+    "name" : "Borage",
+    "description" : "Borage, an herb with bright blue flowers, is known for its mild cucumber-like flavor. ",
+    "id" : "92"
+  },
+
+  {
+    "name" : "Rosemary",
+    "description" : "Fragrant herb with needle-like leaves and a robust, pine-like flavor.",
+    "id" : "93"
+  },
+
+  {
+    "name" : "Butter Lettuce",
+    "description" : "Butter lettuce, also known as Bibb or Boston lettuce, is a variety of lettuce with soft, tender leaves and a mild, sweet flavor.",
+    "id" : "94"
+  },
+
+  {
+    "name" : "Cavolo Nero",
+    "description" : "Cavolo Nero, also known as Lacinato kale, Tuscan kale, or dinosaur kale, is a dark green leafy vegetable with long, narrow, textured leaves. ",
+    "id" : "95"
+  },
+
+  {
+    "name" : "Sage",
+    "description" : "Sage, a fragrant herb with soft, gray-green leaves, is renowned for its earthy, savory flavor.",
+    "id" : "96"
+  },
+
+  {
+    "name" : "Spring onions",
+    "description" : "Also known as green onion, a mild and crisp allium with long, slender green stalks and small white bulbs. ",
+    "id" : "97"
+  },
+
+  {
+    "name" : "Skirrets",
+    "description" : " Root vegetable with a sweet and nutty flavor, resembling a small parsnip.",
+    "id" : "98"
+  },
+
+  {
+    "name" : "Soybean",
+    "description" : "Versatile legume with high protein content, often used in various forms, including soy milk, tofu, tempeh, and soy sauce.",
+    "id" : "99"
+  },
+
+
+  {
+    "name" : "Cresson",
+    "description" : "Cresson typically refers to watercress, a leafy green aquatic plant known for its peppery taste.",
+    "id" : "100"
+  },
+
+
+  {
+    "name" : "Spinach",
+    "description" : "Dark, leafy green vegetable high in iron and vitamins.",
+    "id" : "101"
+  },
+
+
+  {
+    "name" : "Zucchini",
+    "description" : "Summer squash with a mild flavor and tender texture. ",
+    "id" : "102"
+  },
+
+
+  {
+    "name" : "Sweet Potato",
+    "description" : " Root vegetable with orange or purple flesh and a sweet, earthy flavor. ",
+    "id" : "103"
+  },
+
+
+
+  {
+    "name" : "Tabasco pepper",
+    "description" : "Small, fiery chili pepper used to make Tabasco sauce. Named after the Mexican state of Tabasco, ",
+    "id" : "104"
+  },
+
+
+  {
+    "name" : "Taro",
+    "description" : " Starchy root vegetable with a hairy outer layer and a nutty, mildly sweet flavor. ",
+    "id" : "105"
+  },
+
+
+  {
+    "name" : "Tatsoi",
+    "description" : " Leafy green vegetable with spoon-shaped leaves and a mild, mustard-like flavor. ",
+    "id" : "106"
+  },
+
+
+  {
+    "name" : "Thyme",
+    "description" : "Fragrant herb with small, gray-green leaves and a savory, earthy flavor. ",
+    "id" : "107"
+  },
+  {
+    "name": "Jerusalem Artichoke",
+    "description": "Also known as Jerusalem artichoke, topinambur is a root vegetable with knobby, beige tubers.",
+    "id": "108"
+  },
+
+
+  {
+    "name" : "Tubers",
+    "description" : "Thickened underground stems of certain plants, serving as storage organs for nutrients. ",
+    "id" : "109"
+  },
+
+
+  {
+    "name" : "Turnip",
+    "description" : "Root vegetable with a white or purple exterior and a crisp, peppery flesh. ",
+    "id" : "110"
+  },
+
+
+  {
+    "name" : "Wasabi",
+    "description" : "A pungent and spicy condiment originating from the Japanese horseradish plant.  ",
+    "id" : "111"
+  },
+
+
+  {
+    "name" : "Water chestnut",
+    "description" : "Water chestnut, a crisp and slightly sweet aquatic vegetable, is popular in Asian cuisine.  ",
+    "id" : "112"
+  },
+
+
+  {
+    "name" : "Watercress",
+    "description" : "Leafy green aquatic plant with small, crisp, and peppery leaves. ",
+    "id" : "113"
+  },
+
+
+
+  {
+    "name" : "Amaranth",
+    "description" : "Amaranth, a nutritious and versatile grain, is known for its tiny, protein-rich seeds and vibrant, edible leaves. ",
+    "id" : "114"
+  },
+
+
+  {
+    "name" : "Yam",
+    "description" : "Starchy root vegetable with a rough, scaly skin and sweet, moist flesh.  ",
+    "id" : "115"
+  },
+
+  {
+    "name" : "Bitter gourd",
+    "description" : "Bitter gourd, also known as bitter melon, is a green, oblong vegetable with a distinctive bitter taste.",
+    "id" : "116"
+  },
+
+
+  {
+    "name" : "Drumstick",
+    "description" : "Drumstick, also known as moringa or Moringa oleifera, is a long, slender green vegetable with a slightly bitter taste. ",
+    "id" : "117"
+  },
+
+  {
+    "name" : "Turmeric",
+    "description" : "Turmeric, a bright yellow spice derived from the Curcuma longa plant, is known for its ",
+    "id" : "118"
+  },
+
+
+  {
+    "name" : "Groundnuts",
+    "description" : "Peanuts are legumes that grow underground and are commonly consumed as a snack or used in various culinary applications.",
+    "id" : "119"
+  },
+
+  {
+    "name" : "Lemon",
+    "description" : "Lemon is a citrus fruit that has an acidity level of between 0.7 and 3.5 (depending on the variety). It is usually eaten raw, but can also be used in cooking.",
+    "id" : "120"
+  },
+
+
+  {
+    "name" : "Moringa",
+    "description" : "Moringa is a tree that is native to South Asia, but it has been grown by many people around the world. It produces a lot of edible leaves and seeds.",
+    "id" : "121"
+  },
+  {
+    "name": "Rutabaga",
+    "description": "Rutabaga is a root vegetable, commonly known as 'swede' in most parts of the world. In North America, however, it goes by the name rutabaga. It is a cross between a turnip and a cabbage, and can be cooked in a number of ways.",
+    "id": "122"
+  },
+  {
+    "name": "Ambat Chuka",
+    "description": "This green leafy vegetable is a rich source of fiber, vitamins A, and C and many other micronutrients,",
+    "id": "123"
+  },
+
+  {
+    "name" : "Malabar Spinach",
+    "description" : "Malabar spinach, also known as basella or vine spinach, is a leafy green vegetable with thick, fleshy leaves. ",
+    "id" : "124"
+  },
+  {
+    "name" : "Romanesco Broccoli",
+    "description" : "Romanesco broccoli, also known as Roman cauliflower or Romanesque cauliflower, is a unique and visually striking vegetable known for its intricate fractal-like pattern. ",
+    "id" : "125"
+  } ,
+
+  {
+    "name" : "Cowpeas",
+    "description" : "Cowpeas, also known as black-eyed peas or southern peas, are a type of legume that belongs to the Vigna genus. ",
+    "id" : "126"
+  },
+  {
+    "name": "Pigeon",
+    "description": "Pigeon, scientifically known as Cajanus cajan, are a leguminous plant belonging to the Fabaceae family. ",
+    "id": "127"
+  },
+
+
+  {
+    "name" : "Jute Leaves",
+    "description" : "Jute leaves, also known as saluyo in some regions, are dark green, leafy vegetables derived from the jute plant (Corchorus olitorius). ",
+    "id" : "128"
+  },
+  {
+    "name": "Mizuna",
+    "description": "It is a leaf vegetable originally from East Asia (Japan). It is related to cabbages such as cauliflower, kale, broccoli and Brussels sprouts.  ",
+    "id": "129"
+  },
+
+
+  {
+    "name" : "Castelfranco radicchio",
+    "description" : "Castelfranco radicchio have a beautiful tulip-like shape, with an open architecture that resembles a lettuce.",
+    "id" : "130"
+  },
+
+
+  {
+    "name" : "Nasturtium",
+    "description" : "Peppery leaves and edible flowers, often added to salads.",
+    "id" : "131"
+  },
+
+
+  {
+    "name" : "Samphire",
+    "description" : "A crisp, succulent sea vegetable often used in seafood dishes.",
+    "id" : "132"
+  },
+
+  {
+    "name" : "Salsify",
+    "description" : "A root vegetable with a subtle oyster-like flavor when cooked.",
+    "id" : "133"
+  },
+  {
+    "name": "Ramps",
+    "description": " Ramps are a wild onion. They are part of the aluminum family, which includes garlic and onions.",
+    "id": "134"
+  },
+
+  {
+    "name" : "Purple Sweet Potato",
+    "description" : " A sweet and vibrant purple-fleshed variety of the sweet potato.",
+    "id" : "135"
+  },
+  {
+    "name": "Brussels Sprouts ",
+    "description": "A colorful variation of the classic Brussels sprouts.",
+    "id": "136"
+  },
+
+
+  {
+    "name" : "Pattypan Squash",
+    "description" : "Small, disc-shaped squash with a mild flavor.",
+    "id" : "137"
+  },
+  {
+    "name": "Black Salsify",
+    "description": "To make things a little confusing, “true” white salsify also has a “false” counterpart called black salsify or scorzonera, which comes from an old French word meaning “snake.” ",
+    "id": "138"
+  },
+
+
+  {
+    "name" : "Wakame",
+    "description" : "Edible seaweed commonly used in Japanese miso soup.",
+    "id" : "139"
+  },
+  {
+    "name": "Chinese artichoke",
+    "description": " Also known as Chinese artichoke, crosne is a small, knobby tuber with a nutty flavor.",
+    "id": "140"
+  },
+
+
+  {
+    "name" : "Mashua",
+    "description" : "Mashua is a flowering plant native to South America that produces an edible tuber with a pungent, peppery flavor.",
+    "id" : "141"
+  },
+  {
+    "name" : " ALFALFA SPROUTS",
+    "description" : "Alfalfa sprouts are tiny, delicate sprouts that are grown from the seeds of the alfalfa plant (Medicago sativa).",
+    "id" : "142"
+  },
+  {
+    "name": "Angelica",
+    "description": "Angelica sweet is a delicious, green herb that can be used to flavor drinks or sweeten desserts.",
+    "id": "143"
+  } ,
+
+
+  {
+    "name" : "Yucca Root",
+    "description" : "Yucca root, also known as cassava or manioc, is a starchy tuber commonly used in cooking.",
+    "id" : "144"
+  },
+  {
+    "name": " Stinging Nettles",
+    "description": "Nettles, also known as stinging nettles, are leafy green plants with small hairs that can cause a stinging sensation upon contact. ",
+    "id": "146"
+  } ,
+
+  {
+    "name" : "Galangal",
+    "description" : "Galangal is a rhizome that belongs to the ginger family and is used as a spice and herbal remedy.",
+    "id" : "147"
+  },
+  {
+    "name": "Broccoli",
+    "description": "Broccoli, also known as baby broccoli or broccolette, is a vegetable that is a cross between broccoli and Chinese kale.",
+    "id": "148"
+  },
+
+  {
+    "name" : "Red Kuri",
+    "description" : "This Japanese winter squash has a rare teardrop shape and vibrantly orange color.",
+    "id" : "149"
+  }
+
+
+]
