@@ -1,970 +1,747 @@
 [
   {
-    "name" : "Apple",
-    "description" : "A crisp and sweet fruit, often red or green, known for its versatility and health benefits.",
-    "id" : "0"
-
-  } ,
+    "name": "Apple",
+    "description": "A crisp and sweet fruit, often red or green, known for its versatility and health benefits.",
+    "id": "0"
+  },
   {
-    "name" : "Banana",
-    "description" : "A curved, yellow fruit with a soft texture and sweet taste, a great source of energy and potassium.",
-    "id" : "1"
-
-  } ,
+    "name": "Banana",
+    "description": "A curved, yellow fruit with a soft texture and sweet taste, a great source of energy and potassium.",
+    "id": "1"
+  },
   {
-    "name" : "Orange",
-    "description" : "A citrus fruit with a tangy flavor, rich in vitamin C, and known for its refreshing juice.",
-    "id" : "2"
-  } ,
+    "name": "Orange",
+    "description": "A citrus fruit with a tangy flavor, rich in vitamin C, and known for its refreshing juice.",
+    "id": "2"
+  },
   {
-    "name" : "Grapes",
-    "description" : "Small, juicy berries usually found in clusters, available in various colors, and used for making wine.",
-    "id" : "3"
+    "name": "Grapes",
+    "description": "Small, juicy berries usually found in clusters, available in various colors, and used for making wine.",
+    "id": "3"
   },
-
-
   {
-    "name" : "Strawberry",
-    "description" : "Small, red berries with a sweet taste, often used in desserts and known for their high vitamin C content.",
-    "id" : "4"
+    "name": "Strawberry",
+    "description": "Small, red berries with a sweet taste, often used in desserts and known for their high vitamin C content.",
+    "id": "4"
   },
-
   {
-    "name" : "Pineapple",
-    "description" : "Tropical fruit with a sweet and tart taste, often used in both savory and sweet dishes.",
-    "id" : "5"
+    "name": "Pineapple",
+    "description": "Tropical fruit with a sweet and tart taste, often used in both savory and sweet dishes.",
+    "id": "5"
   },
-
   {
-    "name" : "Mango",
-    "description" : "A juicy and flavorful tropical fruit with a sweet taste, often referred to as the \"king of fruits.",
-    "id" : "6"
+    "name": "Mango",
+    "description": "A juicy and flavorful tropical fruit with a sweet taste, often referred to as the \"king of fruits.",
+    "id": "6"
   },
-
   {
-    "name" : "Kiwi",
-    "description" : "Small, brown, fuzzy fruit with bright green flesh, packed with vitamin C and a unique flavor.",
-    "id" : "7"
+    "name": "Kiwi",
+    "description": "Small, brown, fuzzy fruit with bright green flesh, packed with vitamin C and a unique flavor.",
+    "id": "7"
   },
-
-
   {
-    "name" : "Peach",
-    "description" : "Soft and fuzzy-skinned fruit with a sweet and fragrant taste, commonly used in pies and jams.",
-    "id" : "8"
+    "name": "Peach",
+    "description": "Soft and fuzzy-skinned fruit with a sweet and fragrant taste, commonly used in pies and jams.",
+    "id": "8"
   },
-
   {
-    "name" : "Cherry",
-    "description" : "Small, round fruit with a red or purple color, known for its sweet and tart flavor.",
-    "id" : "9"
+    "name": "Cherry",
+    "description": "Small, round fruit with a red or purple color, known for its sweet and tart flavor.",
+    "id": "9"
   },
-
-
   {
-    "name" : "Pear",
-    "description" : "Juicy and sweet fruit with a distinctive bell shape, available in various varieties.",
-    "id" : "10"
+    "name": "Pear",
+    "description": "Juicy and sweet fruit with a distinctive bell shape, available in various varieties.",
+    "id": "10"
   },
-
   {
-    "name" : "Watermelon",
-    "description" : "A large, juicy fruit with red or pink flesh, perfect for hydrating due to its high water content.",
-    "id" : "11"
+    "name": "Watermelon",
+    "description": "A large, juicy fruit with red or pink flesh, perfect for hydrating due to its high water content.",
+    "id": "11"
   },
-
   {
-    "name" : "Grapefruit",
-    "description" : " Citrus fruit with a sour to semi-sweet taste, known for its refreshing juice and health benefits.",
-    "id" : "12"
+    "name": "Grapefruit",
+    "description": " Citrus fruit with a sour to semi-sweet taste, known for its refreshing juice and health benefits.",
+    "id": "12"
   },
-
   {
-    "name" : "Pomegranate",
-    "description" : "nique fruit with ruby-red seeds, known for its sweet and tangy taste and antioxidant properties.",
-    "id" : "13"
+    "name": "Pomegranate",
+    "description": "nique fruit with ruby-red seeds, known for its sweet and tangy taste and antioxidant properties.",
+    "id": "13"
   },
-
   {
-    "name" : "Avocado",
-    "description" : "Creamy, green fruit with a buttery texture, rich in healthy fats, and often used in savory dishes.",
-    "id" : "14"
+    "name": "Avocado",
+    "description": "Creamy, green fruit with a buttery texture, rich in healthy fats, and often used in savory dishes.",
+    "id": "14"
   },
-
-
   {
-    "name" : "Plum",
-    "description" : "Small, juicy fruit with a sweet or tart taste, available in various colors and often used in jams.",
-    "id" : "15"
+    "name": "Plum",
+    "description": "Small, juicy fruit with a sweet or tart taste, available in various colors and often used in jams.",
+    "id": "15"
   },
-
-
   {
-    "name" : "Raspberry",
-    "description" : "Small, red berries with a sweet and slightly tart flavor, commonly used in desserts and smoothies.",
-    "id" : "16"
+    "name": "Raspberry",
+    "description": "Small, red berries with a sweet and slightly tart flavor, commonly used in desserts and smoothies.",
+    "id": "16"
   },
-
-
   {
-    "name" : "Blackberry",
-    "description" : "Dark purple berries with a sweet and juicy taste, often used in pies, jams, and desserts.",
-    "id" : "17"
+    "name": "Blackberry",
+    "description": "Dark purple berries with a sweet and juicy taste, often used in pies, jams, and desserts.",
+    "id": "17"
   },
-
   {
-    "name" : "Cranberry",
-    "description" : "tart berries often used in juices, sauces, and as a Thanksgiving side dish.",
-    "id" : "18"
+    "name": "Cranberry",
+    "description": "tart berries often used in juices, sauces, and as a Thanksgiving side dish.",
+    "id": "18"
   },
-
-
   {
-    "name" : "Blueberry",
-    "description" : "blue-purple berries with a sweet taste, rich in antioxidants and commonly used in baking.",
-    "id" : "19"
+    "name": "Blueberry",
+    "description": "blue-purple berries with a sweet taste, rich in antioxidants and commonly used in baking.",
+    "id": "19"
   },
-
   {
-    "name" : "Apricot",
-    "description" : "range fruit with a sweet and slightly tart flavor, commonly used in jams and preserves.",
-    "id" : "20"
+    "name": "Apricot",
+    "description": "range fruit with a sweet and slightly tart flavor, commonly used in jams and preserves.",
+    "id": "20"
   },
-
-
   {
-    "name" : "Lemon",
-    "description" : "Citrus fruit with a sour taste, commonly used in cooking, baking, and beverages.",
-    "id" : "21"
+    "name": "Lemon",
+    "description": "Citrus fruit with a sour taste, commonly used in cooking, baking, and beverages.",
+    "id": "21"
   },
-
   {
-    "name" : "Cantaloupe",
-    "description" : "Sweet and aromatic melon with orange flesh, commonly eaten fresh or in fruit salads.",
-    "id" : "22"
+    "name": "Cantaloupe",
+    "description": "Sweet and aromatic melon with orange flesh, commonly eaten fresh or in fruit salads.",
+    "id": "22"
   },
-
   {
-    "name" : "Honeydew",
-    "description" : "Sweet melon with pale green flesh and a mild flavor, commonly eaten fresh or in fruit salads.",
-    "id" : "23"
+    "name": "Honeydew",
+    "description": "Sweet melon with pale green flesh and a mild flavor, commonly eaten fresh or in fruit salads.",
+    "id": "23"
   },
-
   {
-    "name" : "Passion Fruit ",
-    "description" : "Small, round fruit with a tough outer rind and aromatic, juicy pulp with a sweet-tart taste.",
-    "id" : "24"
+    "name": "Passion Fruit ",
+    "description": "Small, round fruit with a tough outer rind and aromatic, juicy pulp with a sweet-tart taste.",
+    "id": "24"
   },
-
   {
-    "name" : "Pistachios",
-    "description" : "Pistachios (Pistacia vera) are edible seeds of the pistachio tree, originating from the Middle East. ",
-    "id" : "25"
+    "name": "Pistachios",
+    "description": "Pistachios (Pistacia vera) are edible seeds of the pistachio tree, originating from the Middle East. ",
+    "id": "25"
   },
-
   {
-    "name" : "Fig",
-    "description" : "Teardrop-shaped fruit with sweet, chewy flesh and a unique, mild flavor.",
-    "id" : "26"
+    "name": "Fig",
+    "description": "Teardrop-shaped fruit with sweet, chewy flesh and a unique, mild flavor.",
+    "id": "26"
   },
-
   {
-    "name" : "Guava",
-    "description" : "Tropical fruit with green or pink skin, sweet and fragrant flesh, commonly eaten fresh or in juices.",
-    "id" : "27"
+    "name": "Guava",
+    "description": "Tropical fruit with green or pink skin, sweet and fragrant flesh, commonly eaten fresh or in juices.",
+    "id": "27"
   },
-
-
   {
-    "name" : "Lychee",
-    "description" : "translucent fruit with a sweet, floral flavor and a unique texture, commonly eaten fresh.",
-    "id" : "28"
+    "name": "Lychee",
+    "description": "translucent fruit with a sweet, floral flavor and a unique texture, commonly eaten fresh.",
+    "id": "28"
   },
-
-
   {
-    "name" : "Papaya",
-    "description" : "Tropical fruit with orange flesh, sweet taste, and numerous black seeds in the center.",
-    "id" : "29"
+    "name": "Papaya",
+    "description": "Tropical fruit with orange flesh, sweet taste, and numerous black seeds in the center.",
+    "id": "29"
   },
-
   {
-    "name" : "Coconut",
-    "description" : "Large seed with a hard, brown shell and white, edible flesh, used in both sweet and savory dishes.",
-    "id" : "30"
+    "name": "Coconut",
+    "description": "Large seed with a hard, brown shell and white, edible flesh, used in both sweet and savory dishes.",
+    "id": "30"
   },
-
   {
-    "name" : "Kiwi Berry",
-    "description" : "Small, green berries with a taste similar to kiwi, often eaten fresh or used in salads.",
-    "id" : "31"
+    "name": "Kiwi Berry",
+    "description": "Small, green berries with a taste similar to kiwi, often eaten fresh or used in salads.",
+    "id": "31"
   },
-
   {
-    "name" : "Star Fruit",
-    "description" : "Yellow, star-shaped fruit with a sweet and tart taste, commonly eaten fresh or in fruit salads.",
-    "id" : "32"
+    "name": "Star Fruit",
+    "description": "Yellow, star-shaped fruit with a sweet and tart taste, commonly eaten fresh or in fruit salads.",
+    "id": "32"
   },
-
-
   {
-    "name" : "Fuyu Persimmon",
-    "description" : "Orange fruit with a unique, sweet taste and a distinct astringency, can be eaten fresh or dried. ",
-    "id" : "33"
+    "name": "Fuyu Persimmon",
+    "description": "Orange fruit with a unique, sweet taste and a distinct astringency, can be eaten fresh or dried. ",
+    "id": "33"
   },
-
   {
-    "name" : "Raisins",
-    "description" : "Raisins are dried grapes, typically of the dark-colored varieties such as Thompson Seedless.",
-    "id" : "34"
+    "name": "Raisins",
+    "description": "Raisins are dried grapes, typically of the dark-colored varieties such as Thompson Seedless.",
+    "id": "34"
   },
-
-
   {
-    "name" : "Elderberry",
-    "description" : "Dark purple berries with a tart taste, often used in syrups, jams, and as a supplement.",
-    "id" : "35"
+    "name": "Elderberry",
+    "description": "Dark purple berries with a tart taste, often used in syrups, jams, and as a supplement.",
+    "id": "35"
   },
-
   {
-    "name" : "Gooseberry",
-    "description" : "Small, green berries with a tart taste, commonly used in pies, jams, and desserts.",
-    "id" : "36"
+    "name": "Gooseberry",
+    "description": "Small, green berries with a tart taste, commonly used in pies, jams, and desserts.",
+    "id": "36"
   },
-
-
   {
-    "name" : "Peach Palm ",
-    "description" : "Orange fruit with a large seed, sweet taste, and fibrous texture, commonly used in cooking.",
-    "id" : "37"
+    "name": "Peach Palm ",
+    "description": "Orange fruit with a large seed, sweet taste, and fibrous texture, commonly used in cooking.",
+    "id": "37"
   },
-
-
   {
-    "name" : "Salak",
-    "description" : "Brown, scaly-skinned fruit with sweet and tangy flesh, native to Indonesia.",
-    "id" : "38"
+    "name": "Salak",
+    "description": "Brown, scaly-skinned fruit with sweet and tangy flesh, native to Indonesia.",
+    "id": "38"
   },
-
-
   {
-    "name" : "Kumquat",
-    "description" : "Small, citrus fruit with a sweet skin and tart flesh, often eaten whole.",
-    "id" : "39"
+    "name": "Kumquat",
+    "description": "Small, citrus fruit with a sweet skin and tart flesh, often eaten whole.",
+    "id": "39"
   },
-
   {
-    "name" : "Mulberry",
-    "description" : "sweet berries with a dark color, commonly used in jams, desserts, and wines.",
-    "id" : "40"
+    "name": "Mulberry",
+    "description": "sweet berries with a dark color, commonly used in jams, desserts, and wines.",
+    "id": "40"
   },
-
-
-
   {
-    "name" : "Rambutan",
-    "description" : "Exotic fruit with a hairy red or yellow skin and translucent, juicy flesh with a sweet taste.",
-    "id" : "41"
+    "name": "Rambutan",
+    "description": "Exotic fruit with a hairy red or yellow skin and translucent, juicy flesh with a sweet taste.",
+    "id": "41"
   },
-
-
   {
-    "name" : "Soursop",
-    "description" : "Large, spiky green fruit with white, fibrous flesh and a sweet and tangy taste.",
-    "id" : "42"
+    "name": "Soursop",
+    "description": "Large, spiky green fruit with white, fibrous flesh and a sweet and tangy taste.",
+    "id": "42"
   },
-
-
-
   {
-    "name" : "Sapodilla",
-    "description" : "Brown, rough-skinned fruit with sweet and grainy flesh, often referred ",
-    "id" : "43"
+    "name": "Sapodilla",
+    "description": "Brown, rough-skinned fruit with sweet and grainy flesh, often referred ",
+    "id": "43"
   },
-
-
-
   {
-    "name" : "Feijoa",
-    "description" : "Green fruit with a unique flavor combination of pineapple, guava, and strawberry.",
-    "id" : "44"
+    "name": "Feijoa",
+    "description": "Green fruit with a unique flavor combination of pineapple, guava, and strawberry.",
+    "id": "44"
   },
-
-
-
   {
-    "name" : "Uvaia",
-    "description" : "Small, yellow fruit with a sweet and tangy taste, native to Brazil.",
-    "id" : "45"
+    "name": "Uvaia",
+    "description": "Small, yellow fruit with a sweet and tangy taste, native to Brazil.",
+    "id": "45"
   },
-
-
   {
-    "name" : "Pomelo",
-    "description" : "Largest citrus fruit with thick, green or yellow rind and sweet, mild flesh.",
-    "id" : "46"
+    "name": "Pomelo",
+    "description": "Largest citrus fruit with thick, green or yellow rind and sweet, mild flesh.",
+    "id": "46"
   },
-
-
   {
-    "name" : "Acai Berry",
-    "description" : "The açaí palm, Euterpe oleracea, is a species of palm tree cultivated for its fruit, hearts of palm, leaves, and trunk wood.",
-    "id" : "47"
+    "name": "Acai Berry",
+    "description": "The açaí palm, Euterpe oleracea, is a species of palm tree cultivated for its fruit, hearts of palm, leaves, and trunk wood.",
+    "id": "47"
   },
-
-
   {
-    "name" : "Jackfruit",
-    "description" : "sThe jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of tree in the fig, mulberry, and breadfruit family",
-    "id" : "48"
+    "name": "Jackfruit",
+    "description": "sThe jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of tree in the fig, mulberry, and breadfruit family",
+    "id": "48"
   },
-
-
   {
-    "name" : "Blackcurrant",
-    "description" : "Blackcurrants (Ribes nigrum) have been called “the forbidden fruit” in the United States. ",
-    "id" : "49"
+    "name": "Blackcurrant",
+    "description": "Blackcurrants (Ribes nigrum) have been called “the forbidden fruit” in the United States. ",
+    "id": "49"
   },
-
   {
-    "name" : "Redcurrant",
-    "description" : "The redcurrant or red currant (Ribes rubrum) is a member of the genus Ribes in the gooseberry family. It is native to western Europe.",
-    "id" : "50"
+    "name": "Redcurrant",
+    "description": "The redcurrant or red currant (Ribes rubrum) is a member of the genus Ribes in the gooseberry family. It is native to western Europe.",
+    "id": "50"
   },
-
-
   {
-    "name" : "Boysenberry",
-    "description" : " Boysenberries are larger and sweeter than blackberries, but comparable to them and raspberries in taste. ",
-    "id" : "51"
+    "name": "Boysenberry",
+    "description": " Boysenberries are larger and sweeter than blackberries, but comparable to them and raspberries in taste. ",
+    "id": "51"
   },
-
-
   {
-    "name" : "Kiwano",
-    "description" : " Kiwano, which is also called African horned cucumber or jelly melon,",
-    "id" : "52"
+    "name": "Kiwano",
+    "description": " Kiwano, which is also called African horned cucumber or jelly melon,",
+    "id": "52"
   },
-
-
   {
-    "name" : "Ackee",
-    "description" : "is a fruit of the Sapindaceae (soapberry) family, as are the lychee and the longan.",
-    "id" : "53"
+    "name": "Ackee",
+    "description": "is a fruit of the Sapindaceae (soapberry) family, as are the lychee and the longan.",
+    "id": "53"
   },
-
-
   {
-    "name" : "Date",
-    "description" : "Dates are a fruit cultivated from date palm (Phoenix dactylifera), a plant native to the Middle East and North Africa.",
-    "id" : "54"
+    "name": "Date",
+    "description": "Dates are a fruit cultivated from date palm (Phoenix dactylifera), a plant native to the Middle East and North Africa.",
+    "id": "54"
   },
-
-
   {
-    "name" : "Chestnut",
-    "description" : "Chestnuts are the edible nuts produced by trees in the Castanea genus, such as the sweet chestnut (Castanea sativa). ",
-    "id" : "55"
+    "name": "Chestnut",
+    "description": "Chestnuts are the edible nuts produced by trees in the Castanea genus, such as the sweet chestnut (Castanea sativa). ",
+    "id": "55"
   },
-
-
   {
-    "name" : "Pineapple",
-    "description" : "Pineapple, perennial plant of the family Bromeliaceae and its edible fruit. ",
-    "id" : "56"
+    "name": "Pineapple",
+    "description": "Pineapple, perennial plant of the family Bromeliaceae and its edible fruit. ",
+    "id": "56"
   },
-
-
   {
-    "name" : "Mangosteen",
-    "description" : "Purple-skinned fruit with a white, segmented flesh and a sweet, tangy flavor.",
-    "id" : "57"
+    "name": "Mangosteen",
+    "description": "Purple-skinned fruit with a white, segmented flesh and a sweet, tangy flavor.",
+    "id": "57"
   },
-
   {
-    "name" : "Longan",
-    "description" : "Small, round fruit with a translucent white flesh and a sweet, musky flavor.",
-    "id" : "58"
+    "name": "Longan",
+    "description": "Small, round fruit with a translucent white flesh and a sweet, musky flavor.",
+    "id": "58"
   },
-
   {
-    "name" : "Loquat",
-    "description" : "Yellow-orange fruit with a sweet and slightly tangy flesh.",
-    "id" : "59"
+    "name": "Loquat",
+    "description": "Yellow-orange fruit with a sweet and slightly tangy flesh.",
+    "id": "59"
   },
-
   {
-    "name" : "Lime",
-    "description" : "Green citrus fruit with a similar flavor to lemon, but smaller and more acidic.",
-    "id" : "60"
+    "name": "Lime",
+    "description": "Green citrus fruit with a similar flavor to lemon, but smaller and more acidic.",
+    "id": "60"
   },
-
-
   {
-    "name" : "Custard Apple",
-    "description" : " Green-skinned fruit with a sweet, creamy flesh and black seeds.",
-    "id" : "61"
+    "name": "Custard Apple",
+    "description": " Green-skinned fruit with a sweet, creamy flesh and black seeds.",
+    "id": "61"
   },
-
-
   {
-    "name" : "Durian",
-    "description" : "piky-skinned fruit with a strong, pungent odor and creamy flesh.",
-    "id" : "62"
+    "name": "Durian",
+    "description": "piky-skinned fruit with a strong, pungent odor and creamy flesh.",
+    "id": "62"
   },
-
-
   {
-    "name" : "Cherimoya",
-    "description" : "Green-skinned fruit with creamy white flesh and a custard-like flavor.",
-    "id" : "63"
+    "name": "Cherimoya",
+    "description": "Green-skinned fruit with creamy white flesh and a custard-like flavor.",
+    "id": "63"
   },
-
-
-
   {
-    "name" : "Breadfruit",
-    "description" : "Large, starchy fruit with a bread-like texture, often boiled or roasted.",
-    "id" : "64"
+    "name": "Breadfruit",
+    "description": "Large, starchy fruit with a bread-like texture, often boiled or roasted.",
+    "id": "64"
   },
-
   {
-    "name" : "Olive",
-    "description" : "green fruit used for its oil and brine-cured as olives.",
-    "id" : "65"
+    "name": "Olive",
+    "description": "green fruit used for its oil and brine-cured as olives.",
+    "id": "65"
   },
-
-
   {
-    "name" : "Ambarella",
-    "description" : "Ambarella is packed with beneficial antioxidants such as flavonoids, terpenoids and tannins. ",
-    "id" : "66"
+    "name": "Ambarella",
+    "description": "Ambarella is packed with beneficial antioxidants such as flavonoids, terpenoids and tannins. ",
+    "id": "66"
   },
-
   {
-    "name" : "Akebi",
-    "description" : "The fruit contains a sweet soft pulp resembling a white dragon fruit, eaten primarily in Japan as a seasonal delicacy. ",
-    "id" : "67"
+    "name": "Akebi",
+    "description": "The fruit contains a sweet soft pulp resembling a white dragon fruit, eaten primarily in Japan as a seasonal delicacy. ",
+    "id": "67"
   },
-
   {
-    "name" : "Walnut",
-    "description" : "Walnuts (Juglans regia) are nuts derived from the walnut tree, native to the regions of Central Asia and southeastern Europe. ",
-    "id" : "68"
+    "name": "Walnut",
+    "description": "Walnuts (Juglans regia) are nuts derived from the walnut tree, native to the regions of Central Asia and southeastern Europe. ",
+    "id": "68"
   },
-
   {
-    "name" : "Ramphal",
-    "description" : "Ramphal belongs to the same family as Custard Apple, known as the Annona family. ",
-    "id" : "69"
+    "name": "Ramphal",
+    "description": "Ramphal belongs to the same family as Custard Apple, known as the Annona family. ",
+    "id": "69"
   },
-
   {
-    "name" : "Medlar",
-    "description" : "t is also highly regarded as a fruit that pairs well with almost any type of wine. ",
-    "id" : "70"
+    "name": "Medlar",
+    "description": "t is also highly regarded as a fruit that pairs well with almost any type of wine. ",
+    "id": "70"
   },
   {
     "name": "Quince",
     "description": "The fruit is a golden yellow pome and may be round and flattened or somewhat pear-shaped.",
     "id": "71"
   },
-
   {
-    "name" : "Nance",
-    "description" : " Nance fruit packs many important nutrients in a bite-sized package. ",
-    "id" : "72"
+    "name": "Nance",
+    "description": " Nance fruit packs many important nutrients in a bite-sized package. ",
+    "id": "72"
   },
-
-
   {
-    "name" : "Nectarine",
-    "description" : "Nectarines are a sweet fruit, similar to peaches, except they grow without fuzz on their skin.  ",
-    "id" : "73"
+    "name": "Nectarine",
+    "description": "Nectarines are a sweet fruit, similar to peaches, except they grow without fuzz on their skin.  ",
+    "id": "73"
   },
-
   {
-    "name" : "Naranjilla",
-    "description" : "Solanum quitoense, known as naranjilla in Ecuador, Costa Rica, and Panama and as lulo in Colombia, ",
-    "id" : "74"
+    "name": "Naranjilla",
+    "description": "Solanum quitoense, known as naranjilla in Ecuador, Costa Rica, and Panama and as lulo in Colombia, ",
+    "id": "74"
   },
-
   {
-    "name" : "Lucuma",
-    "description" : "Pouteria lucuma is a species of tree in the family Sapotaceae, cultivated for its fruit, the lúcuma.",
-    "id" : "75"
+    "name": "Lucuma",
+    "description": "Pouteria lucuma is a species of tree in the family Sapotaceae, cultivated for its fruit, the lúcuma.",
+    "id": "75"
   },
-
   {
-    "name" : "Langsat",
-    "description" : "Lansium parasiticum, commonly known as langsat is a species of tree in the family Meliaceae with commercially cultivated edible fruits. ",
-    "id" : "76"
+    "name": "Langsat",
+    "description": "Lansium parasiticum, commonly known as langsat is a species of tree in the family Meliaceae with commercially cultivated edible fruits. ",
+    "id": "76"
   },
-
   {
-    "name" : "Jenipapo",
-    "description" : "Jenipapo has a strange flavour like a sweet, pungent, overripe fruit. ",
-    "id" : "77"
+    "name": "Jenipapo",
+    "description": "Jenipapo has a strange flavour like a sweet, pungent, overripe fruit. ",
+    "id": "77"
   },
-
   {
-    "name" : "Jujube",
-    "description" : "Jujube fruit, also known as red or Chinese date, is native to Southern Asia but has become popular around the world. ",
-    "id" : "78"
+    "name": "Jujube",
+    "description": "Jujube fruit, also known as red or Chinese date, is native to Southern Asia but has become popular around the world. ",
+    "id": "78"
   },
-
   {
-    "name" : "Ice apple",
-    "description" : "Ice apple is a less known tropical fruit of the palmyra palm tree. ",
-    "id" : "79"
+    "name": "Ice apple",
+    "description": "Ice apple is a less known tropical fruit of the palmyra palm tree. ",
+    "id": "79"
   },
-
   {
-    "name" : "Egg Fruit",
-    "description" : "The Egg fruit is native to southern North America and northern Central America,",
-    "id" : "80"
+    "name": "Egg Fruit",
+    "description": "The Egg fruit is native to southern North America and northern Central America,",
+    "id": "80"
   },
-
-
   {
-    "name" : "Hog plum",
-    "description" : " Hog plum, ornamental tree of the cashew family, grown for its edible fruits.",
-    "id" : "81"
+    "name": "Hog plum",
+    "description": " Hog plum, ornamental tree of the cashew family, grown for its edible fruits.",
+    "id": "81"
   },
-
-
   {
-    "name" : "Horned melon",
-    "description" : "Its fruit has horn-like spines, hence the name horned melon. ",
-    "id" : "82"
+    "name": "Horned melon",
+    "description": "Its fruit has horn-like spines, hence the name horned melon. ",
+    "id": "82"
   },
-
   {
-    "name" : "Hazelnut",
-    "description" : "The hazelnut is the fruit of the hazel tree and therefore includes any of the nuts deriving from species of the genus Corylus,",
-    "id" : "83"
+    "name": "Hazelnut",
+    "description": "The hazelnut is the fruit of the hazel tree and therefore includes any of the nuts deriving from species of the genus Corylus,",
+    "id": "83"
   },
-
-
-
   {
-    "name" : "Finger lime",
-    "description" : "Citrus australasica, the Australian finger lime or caviar lime, is a thorny understorey shrub or small tree .",
-    "id" : "85"
+    "name": "Finger lime",
+    "description": "Citrus australasica, the Australian finger lime or caviar lime, is a thorny understorey shrub or small tree .",
+    "id": "85"
   },
-
   {
-    "name" : "Buddha’s hand ",
-    "description" : "Well, it's true, and the fruit is called Buddha's hand citron.",
-    "id" : "86"
+    "name": "Buddha’s hand ",
+    "description": "Well, it's true, and the fruit is called Buddha's hand citron.",
+    "id": "86"
   },
-
   {
-    "name" : "Atemoya",
-    "description" : "Atemoyas are round or heart-shaped, averaging from 8 to 12 inches long; some can weigh up to 5 pounds.",
-    "id" : "87"
+    "name": "Atemoya",
+    "description": "Atemoyas are round or heart-shaped, averaging from 8 to 12 inches long; some can weigh up to 5 pounds.",
+    "id": "87"
   },
-
   {
-    "name" : "Chayote",
-    "description" : "Chayote, also known as mirliton and choko, is an edible plant belonging to the gourd family, Cucurbitaceae.",
-    "id" : "88"
+    "name": "Chayote",
+    "description": "Chayote, also known as mirliton and choko, is an edible plant belonging to the gourd family, Cucurbitaceae.",
+    "id": "88"
   },
-
   {
-    "name" : "Noni Fruit",
-    "description" : "Noni (Morinda citrifolia) is an evergreen tree with large leaves and yellow fruit. ",
-    "id" : "89"
+    "name": "Noni Fruit",
+    "description": "Noni (Morinda citrifolia) is an evergreen tree with large leaves and yellow fruit. ",
+    "id": "89"
   },
-
   {
-    "name" : "Husk cherry",
-    "description" : "The fruit of many species are generically referred to as physalis, groundcherries, husk tomatoes, husk cherries, poha berries, and golden berries.",
-    "id" : "90"
+    "name": "Husk cherry",
+    "description": "The fruit of many species are generically referred to as physalis, groundcherries, husk tomatoes, husk cherries, poha berries, and golden berries.",
+    "id": "90"
   },
-
-
-
   {
-    "name" : "Cucumber",
-    "description" : "Cucumber fruits consist of 95% water (see nutrition table).",
-    "id" : "91"
+    "name": "Cucumber",
+    "description": "Cucumber fruits consist of 95% water (see nutrition table).",
+    "id": "91"
   },
-
   {
-    "name" : "Tamarind",
-    "description" : "Sweet Tamarind Whole is a delightful fruit that has a ton of culinary and health benefits. ",
-    "id" : "92"
+    "name": "Tamarind",
+    "description": "Sweet Tamarind Whole is a delightful fruit that has a ton of culinary and health benefits. ",
+    "id": "92"
   },
-
   {
-    "name" : "Prunes",
-    "description" : "A prune is a dried plum, most commonly from the European plum. ",
-    "id" : "93"
+    "name": "Prunes",
+    "description": "A prune is a dried plum, most commonly from the European plum. ",
+    "id": "93"
   },
-
   {
-    "name" : "Damsons",
-    "description" : "Damsons, a subspecies of plums, is a small, dark purple fruit that grows wild in Great Britain, with a tart flavour more suitable to cooking.",
-    "id" : "94"
+    "name": "Damsons",
+    "description": "Damsons, a subspecies of plums, is a small, dark purple fruit that grows wild in Great Britain, with a tart flavour more suitable to cooking.",
+    "id": "94"
   },
-
   {
-    "name" : "Almonds",
-    "description" : "The almond is a species of small tree from the genus Prunus, cultivated worldwide for its seed, ",
-    "id" : "95"
+    "name": "Almonds",
+    "description": "The almond is a species of small tree from the genus Prunus, cultivated worldwide for its seed, ",
+    "id": "95"
   },
-
   {
-    "name" : "Hawthorns",
-    "description" : " Hawthorn berries are tiny fruits that grow on trees and shrubs belonging to the Crataegus genus. ",
-    "id" : "96"
+    "name": "Hawthorns",
+    "description": " Hawthorn berries are tiny fruits that grow on trees and shrubs belonging to the Crataegus genus. ",
+    "id": "96"
   },
-
   {
-    "name" : "Arhat",
-    "description" : "Siraitia grosvenorii, also known as monk fruit, monkfruit or luohan guo, is a herbaceous perennial vine of the gourd family, Cucurbitaceae.",
-    "id" : "97"
+    "name": "Arhat",
+    "description": "Siraitia grosvenorii, also known as monk fruit, monkfruit or luohan guo, is a herbaceous perennial vine of the gourd family, Cucurbitaceae.",
+    "id": "97"
   },
-
   {
-    "name" : "Babaco",
-    "description" : "The babaco, is a hybrid cultivar in the genus Vasconcellea from Ecuador.",
-    "id" : "98"
+    "name": "Babaco",
+    "description": "The babaco, is a hybrid cultivar in the genus Vasconcellea from Ecuador.",
+    "id": "98"
   },
   {
     "name": " Strawberry",
     "description": " Strawberry,also known as Kaszëbskô malëna,are strawberries of the Elsanta variety.",
     "id": "99"
   },
-
-
   {
-    "name" : "Deglet Nour",
-    "description" : "Native to Algeria, deglet nour is one of the most common date varieties consumed in the entire North African region. ",
-    "id" : "100"
+    "name": "Deglet Nour",
+    "description": "Native to Algeria, deglet nour is one of the most common date varieties consumed in the entire North African region. ",
+    "id": "100"
   },
-
-
   {
-    "name" : "Sour Cherry",
-    "description" : "Sour cherries are smaller than sweet cherry varietals and have a round to oval, plump appearance, attached to slender, elongated, and fibrous green stems.",
-    "id" : "101"
+    "name": "Sour Cherry",
+    "description": "Sour cherries are smaller than sweet cherry varietals and have a round to oval, plump appearance, attached to slender, elongated, and fibrous green stems.",
+    "id": "101"
   },
-
-
-
   {
-    "name" : "Jabuticaba",
-    "description" : "Jabuticaba are traditional Brazilian berries native to the states of Minas Gerais, Goiás, and São Paolo. ",
-    "id" : "102"
+    "name": "Jabuticaba",
+    "description": "Jabuticaba are traditional Brazilian berries native to the states of Minas Gerais, Goiás, and São Paolo. ",
+    "id": "102"
   },
-
-
-
   {
-    "name" : "Goumi",
-    "description" : "Goumi fruit  is a small, tart, and nutrient-rich red berry, often used in jams and jellies, and is cultivated for its ornamental and edible qualities.",
-    "id" : "103"
+    "name": "Goumi",
+    "description": "Goumi fruit  is a small, tart, and nutrient-rich red berry, often used in jams and jellies, and is cultivated for its ornamental and edible qualities.",
+    "id": "103"
   },
-
-
   {
-    "name" : "Batuan",
-    "description" : "Batuan (is a tropical fruit native to Southeast Asia, recognized for its sour flavor .",
-    "id" : "104"
+    "name": "Batuan",
+    "description": "Batuan (is a tropical fruit native to Southeast Asia, recognized for its sour flavor .",
+    "id": "104"
   },
-
-
   {
-    "name" : "Beechnut",
-    "description" : "Beechnut refers to the small, triangular nuts produced by the beech tree .",
-    "id" : "105"
+    "name": "Beechnut",
+    "description": "Beechnut refers to the small, triangular nuts produced by the beech tree .",
+    "id": "105"
   },
-
   {
-    "name" : "Biriba",
-    "description" : "Biriba  is a tropical fruit native to the Amazon rainforest,",
-    "id" : "106"
+    "name": "Biriba",
+    "description": "Biriba  is a tropical fruit native to the Amazon rainforest,",
+    "id": "106"
   },
-
-
   {
-    "name" : "Carob",
-    "description" : "Carob refers to the leguminous pod of the Ceratonia siliqua tree, native to the Mediterranean region.",
-    "id" : "107"
+    "name": "Carob",
+    "description": "Carob refers to the leguminous pod of the Ceratonia siliqua tree, native to the Mediterranean region.",
+    "id": "107"
   },
-
   {
-    "name" : "Genip",
-    "description" : "Genip, also known as mamoncillo or Spanish lime, refers to the fruit of the Melicoccus bijugatus tree. ",
-    "id" : "108"
+    "name": "Genip",
+    "description": "Genip, also known as mamoncillo or Spanish lime, refers to the fruit of the Melicoccus bijugatus tree. ",
+    "id": "108"
   },
-
-
   {
-    "name" : "Velvet Apple",
-    "description" : "Velvet Apple also known as Mabolo or Butter Fruit, is a tropical fruit with velvety, brown skin and sweet, ",
-    "id" : "109"
+    "name": "Velvet Apple",
+    "description": "Velvet Apple also known as Mabolo or Butter Fruit, is a tropical fruit with velvety, brown skin and sweet, ",
+    "id": "109"
   },
-
-
   {
-    "name" : "Kaffir Lime",
-    "description" : "Kaffir lime is a citrus fruit known for its bumpy, dark green, double-lobed leaves that are often used in culinary dishes. ",
-    "id" : "110"
+    "name": "Kaffir Lime",
+    "description": "Kaffir lime is a citrus fruit known for its bumpy, dark green, double-lobed leaves that are often used in culinary dishes. ",
+    "id": "110"
   },
-
-
   {
-    "name" : "Curry Berry",
-    "description" : "Curry berries, botanically classified as Murraya koenigii, are the fruits of an evergreen tree belonging to the Rutaceae or citrus family. ",
-    "id" : "111"
+    "name": "Curry Berry",
+    "description": "Curry berries, botanically classified as Murraya koenigii, are the fruits of an evergreen tree belonging to the Rutaceae or citrus family. ",
+    "id": "111"
   },
-
   {
-    "name" : "Cloudberry",
-    "description" : "Cloudberry  is a small, amber-colored berry native to cold and arctic regions of the Northern Hemisphere.",
-    "id" : "112"
+    "name": "Cloudberry",
+    "description": "Cloudberry  is a small, amber-colored berry native to cold and arctic regions of the Northern Hemisphere.",
+    "id": "112"
   },
-
-
   {
-    "name" : "Pomegranates",
-    "description" : "Pomegranates are vibrant, red fruits with a tough outer rind and a crown-like calyx.",
-    "id" : "113"
+    "name": "Pomegranates",
+    "description": "Pomegranates are vibrant, red fruits with a tough outer rind and a crown-like calyx.",
+    "id": "113"
   },
-
   {
-    "name" : "Prickly pears",
-    "description" : "Prickly pears, also known as cactus fruit or tunas, are the fruit of various species of Opuntia cacti. ",
-    "id" : "114"
+    "name": "Prickly pears",
+    "description": "Prickly pears, also known as cactus fruit or tunas, are the fruit of various species of Opuntia cacti. ",
+    "id": "114"
   },
-
-
   {
-    "name" : "Rose apples",
-    "description" : "Rose apples, also known as Syzygium jambos, are tropical fruits with a waxy, bell-shaped appearance and a distinct rosy aroma.",
-    "id" : "115"
+    "name": "Rose apples",
+    "description": "Rose apples, also known as Syzygium jambos, are tropical fruits with a waxy, bell-shaped appearance and a distinct rosy aroma.",
+    "id": "115"
   },
-
   {
-    "name" : "Mammea Americana",
-    "description" : "Mammee, also known as mammee apple or Mamey (Mammea americana), is a tropical fruit tree native to the Caribbean and Central America. ",
-    "id" : "116"
+    "name": "Mammea Americana",
+    "description": "Mammee, also known as mammee apple or Mamey (Mammea americana), is a tropical fruit tree native to the Caribbean and Central America. ",
+    "id": "116"
   },
-
-
   {
-    "name" : "Pumpkin",
-    "description" : "Pumpkin is a versatile, orange-fleshed winter squash that is widely cultivated and consumed worldwide. ",
-    "id" : "117"
+    "name": "Pumpkin",
+    "description": "Pumpkin is a versatile, orange-fleshed winter squash that is widely cultivated and consumed worldwide. ",
+    "id": "117"
   },
-
   {
-    "name" : "Black Sapote",
-    "description" : "For just about any other fruit, a brown or black interior indicates that the fruit is past its best, but that’s not true for the black sapote.\n",
-    "id" : "118"
+    "name": "Black Sapote",
+    "description": "For just about any other fruit, a brown or black interior indicates that the fruit is past its best, but that’s not true for the black sapote.\n",
+    "id": "118"
   },
-
   {
-    "name" : "Cucamelon",
-    "description" : "Cucamelons are incredibly cute tiny fruit that look like baby watermelons from the outside. ",
-    "id" : "119"
+    "name": "Cucamelon",
+    "description": "Cucamelons are incredibly cute tiny fruit that look like baby watermelons from the outside. ",
+    "id": "119"
   },
-
   {
-    "name" : "Gac Fruit",
-    "description" : "From the outside, gac does kind of look like a baby jackfruit, but visual appearance is where the similarity ends.",
-    "id" : "120"
+    "name": "Gac Fruit",
+    "description": "From the outside, gac does kind of look like a baby jackfruit, but visual appearance is where the similarity ends.",
+    "id": "120"
   },
-
-
-
   {
-    "name" : "Cempedak",
-    "description" : "The cempedak is a close relative of the jackfruit, and interior structure of the two fruits is similar.",
-    "id" : "121"
+    "name": "Cempedak",
+    "description": "The cempedak is a close relative of the jackfruit, and interior structure of the two fruits is similar.",
+    "id": "121"
   },
-
   {
-    "name" : "Monstera Deliciosa",
-    "description" : "Monstera deliciosa is another tropical fruit, although this one looks a lot more like an ear of corn than it looks like a fruit.",
-    "id" : "122"
+    "name": "Monstera Deliciosa",
+    "description": "Monstera deliciosa is another tropical fruit, although this one looks a lot more like an ear of corn than it looks like a fruit.",
+    "id": "122"
   },
   {
     "name": "Santol",
     "description": "Santol fruits are round to oval, averaging 4 to 7 centimeters in diameter, and have a slightly flattened shape.",
     "id": "123"
   },
-
   {
-    "name" : "Yangmei",
-    "description" : "The yangmei fruit is extremely common in China and is frequently eaten raw and used in creating alcoholic drinks.",
-    "id" : "124"
+    "name": "Yangmei",
+    "description": "The yangmei fruit is extremely common in China and is frequently eaten raw and used in creating alcoholic drinks.",
+    "id": "124"
   },
-
   {
-    "name" : "Wood Apple",
-    "description" : "The wood apple seems to get its name from the very hard rind of the fruit.",
-    "id" : "125"
+    "name": "Wood Apple",
+    "description": "The wood apple seems to get its name from the very hard rind of the fruit.",
+    "id": "125"
   },
   {
     "name": "Water Apple",
     "description": "This apple is named Water Apple because of the amount of water present in this fruit. This fruit is found in many colors and forms. It is mildly sweet in taste and full of water. Consuming this removes the lack of water in the body.",
     "id": "126"
   },
-
   {
-    "name" : "Nipah Seeds",
-    "description" : "Nipah seeds come from the nipah palm. ",
-    "id" : "127"
+    "name": "Nipah Seeds",
+    "description": "Nipah seeds come from the nipah palm. ",
+    "id": "127"
   },
   {
     "name": "Bacuri",
     "description": "Inside the bakuri is a white pulp containing about three to five seeds. Jaggery seeds are dense all around and give a sweet and sour taste",
     "id": "128"
   },
-
   {
-    "name" : "Miracle Fruit",
-    "description" : "This unusual berry is significant because glycoproteins within it bind to the taste buds on the tongue.",
-    "id" : "129"
+    "name": "Miracle Fruit",
+    "description": "This unusual berry is significant because glycoproteins within it bind to the taste buds on the tongue.",
+    "id": "129"
   },
-
   {
-    "name" : "Natal Plum",
-    "description" : "The natal plum is a particularly delicious fruit, yet the plant is from a highly deadly family, which makes people steer well clear of it.",
-    "id" : "130"
+    "name": "Natal Plum",
+    "description": "The natal plum is a particularly delicious fruit, yet the plant is from a highly deadly family, which makes people steer well clear of it.",
+    "id": "130"
   },
-
   {
-    "name" : "Honeyberry",
-    "description" : "Honeyberry plants produce these unusual elongated blue berries that look almost like someone has taken a blueberry and stretched it out. ",
-    "id" : "131"
+    "name": "Honeyberry",
+    "description": "Honeyberry plants produce these unusual elongated blue berries that look almost like someone has taken a blueberry and stretched it out. ",
+    "id": "131"
   },
-
-
   {
-    "name" : "Barrel Cactus",
-    "description" : "That looks dangerous. But those are often the most delicious. ",
-    "id" : "132"
+    "name": "Barrel Cactus",
+    "description": "That looks dangerous. But those are often the most delicious. ",
+    "id": "132"
   },
-
   {
-    "name" : "Saguaro",
-    "description" : "Saguaro is a cactus species that is particularly common in Arizona, although it is also found in other parts of the United States and further afield.",
-    "id" : "133"
+    "name": "Saguaro",
+    "description": "Saguaro is a cactus species that is particularly common in Arizona, although it is also found in other parts of the United States and further afield.",
+    "id": "133"
   },
-
-
   {
-    "name" : "Cupuacu",
-    "description" : "Cupuacu comes from the same family as cocoa and is commonly used to create a new kind of ‘chocolate’, \n",
-    "id" : "134"
+    "name": "Cupuacu",
+    "description": "Cupuacu comes from the same family as cocoa and is commonly used to create a new kind of ‘chocolate’, \n",
+    "id": "134"
   },
-
   {
-    "name" : "Pepino Melon",
-    "description" : "Despite its appearance and name, pepino melon isn’t actually a melon.",
-    "id" : "135"
+    "name": "Pepino Melon",
+    "description": "Despite its appearance and name, pepino melon isn’t actually a melon.",
+    "id": "135"
   },
-
   {
-    "name" : "Pandanus",
-    "description" : "The screw pine tree is a particularly common type of tree in many Pacific coastal regions. ",
-    "id" : "136"
+    "name": "Pandanus",
+    "description": "The screw pine tree is a particularly common type of tree in many Pacific coastal regions. ",
+    "id": "136"
   },
-
   {
-    "name" : "Jocote",
-    "description" : "This fruit is most often called Jacote or Spanish plum. Although, like most fruits on this list, it has a host of names. ",
-    "id" : "137"
+    "name": "Jocote",
+    "description": "This fruit is most often called Jacote or Spanish plum. Although, like most fruits on this list, it has a host of names. ",
+    "id": "137"
   },
-
   {
-    "name" : "Araza",
-    "description" : "Araza is a rare fruit that comes from some parts of Peru and Brazil. ",
-    "id" : "138"
+    "name": "Araza",
+    "description": "Araza is a rare fruit that comes from some parts of Peru and Brazil. ",
+    "id": "138"
   },
-
   {
-    "name" : "White Sapote",
-    "description" : "Now here’s a white one. Both fruits look similar from the outside, although the color of their flesh is quite different. ",
-    "id" : "139"
+    "name": "White Sapote",
+    "description": "Now here’s a white one. Both fruits look similar from the outside, although the color of their flesh is quite different. ",
+    "id": "139"
   },
-
   {
-    "name" : "Balata",
-    "description" : "Balata fruit can be found in the Caribbean, in South America, and in Central America, but remains a rare fruit.",
-    "id" : "140"
+    "name": "Balata",
+    "description": "Balata fruit can be found in the Caribbean, in South America, and in Central America, but remains a rare fruit.",
+    "id": "140"
   },
-
-
   {
-    "name" : "Marang",
-    "description" : "This fruit might look familiar, as it’s essentially a cross between jackfruit and durian. ",
-    "id" : "141"
+    "name": "Marang",
+    "description": "This fruit might look familiar, as it’s essentially a cross between jackfruit and durian. ",
+    "id": "141"
   },
-
   {
-    "name" : "Granadilla",
-    "description" : "You’ll often see these sweet fruits called passion fruit. That’s not surprising, as there are plenty of similarities and the two are closely related. ",
-    "id" : "142"
+    "name": "Granadilla",
+    "description": "You’ll often see these sweet fruits called passion fruit. That’s not surprising, as there are plenty of similarities and the two are closely related. ",
+    "id": "142"
   },
-
   {
-    "name" : "Rattan Fruit",
-    "description" : "Rattan fruit sometimes goes by the name snake fruit as well, but it has larger scales and isn’t as prickly as the salak.",
-    "id" : "143"
+    "name": "Rattan Fruit",
+    "description": "Rattan fruit sometimes goes by the name snake fruit as well, but it has larger scales and isn’t as prickly as the salak.",
+    "id": "143"
   },
-
   {
-    "name" : "Nyii Fruit",
-    "description" : "These small oval fruits also go by the name bird plum. They have slightly wrinkled brown skin, making them look a little like dates.",
-    "id" : "144"
+    "name": "Nyii Fruit",
+    "description": "These small oval fruits also go by the name bird plum. They have slightly wrinkled brown skin, making them look a little like dates.",
+    "id": "144"
   },
-
   {
-    "name" : "Governor’s Plum",
-    "description" : "The governor’s plum fruits are indeed much like European plums, complete with a dark purple to black coloring and familiar texture.",
-    "id" : "145"
+    "name": "Governor’s Plum",
+    "description": "The governor’s plum fruits are indeed much like European plums, complete with a dark purple to black coloring and familiar texture.",
+    "id": "145"
   },
-
   {
-    "name" : "Dalandan",
-    "description" : "Dalandans are treated much like regular oranges, so they can be eaten raw, juiced, or segmented and used in fruit salads. ",
-    "id" : "146"
+    "name": "Dalandan",
+    "description": "Dalandans are treated much like regular oranges, so they can be eaten raw, juiced, or segmented and used in fruit salads. ",
+    "id": "146"
   },
-
   {
-    "name" : "Sugarcane",
-    "description" : "Sugarcane  is a tall, perennial grass known for its thick, jointed stalks containing high concentrations of sucrose. ",
-    "id" : "147"
+    "name": "Sugarcane",
+    "description": "Sugarcane  is a tall, perennial grass known for its thick, jointed stalks containing high concentrations of sucrose. ",
+    "id": "147"
   },
-
   {
-    "name" : "Dragon fruit",
-    "description" : "Dragon fruit, also known as pitaya or pitahaya, refers to the vibrant and exotic fruit of various cactus species in the genera Hylocereus and Selenicereus.",
-    "id" : "148"
+    "name": "Dragon fruit",
+    "description": "Dragon fruit, also known as pitaya or pitahaya, refers to the vibrant and exotic fruit of various cactus species in the genera Hylocereus and Selenicereus.",
+    "id": "148"
   },
-
-
-
   {
-    "name" : "Bush Cherry",
-    "description" : "Bush cherry typically refers to various species of cherry shrubs or small cherry trees belonging to the genus Prunus. ",
-    "id" : "150"
+    "name": "Bush Cherry",
+    "description": "Bush cherry typically refers to various species of cherry shrubs or small cherry trees belonging to the genus Prunus. ",
+    "id": "150"
   }
-
-
-
-
-
-
-
-
-
-
-
 ]
