@@ -89,12 +89,7 @@
     "id": "213",
     "animalType": "Birds"
   },
-  {
-    "name": "Gazelle",
-    "description": "A gazelle is one of many antelope species in the genus Gazella.",
-    "id": "214",
-    "animalType": "Birds"
-  },
+
   {
     "name": "Condor",
     "description": "condors are very large broad-winged soaring birds, ",

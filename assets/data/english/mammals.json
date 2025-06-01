@@ -38,6 +38,12 @@
     "animalType": "Mammal"
   },
   {
+    "name": "Gazelle",
+    "description": "A gazelle is one of many antelope species in the genus Gazella.",
+    "id": "214",
+    "animalType": "Mammal"
+  },
+  {
     "name": "Zebra",
     "description": "Zebras are herbivorous animals that belong to the equine family,.",
     "id": "6",
