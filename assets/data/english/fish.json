@@ -94,13 +94,13 @@
   {
     "name": "Seahorse",
     "description": "Unique fish with a horse-like head and a tube-like body.",
-    "id": "70",
+    "id": "fish_70",
     "animalType": "Fish"
   },
   {
     "name": "Whale Shark",
     "description": "The largest fish in the world, a filter feeder that eats plankton.",
-    "id": "fish_015",
+    "id": "fish_014",
     "animalType": "Fish"
   }
 
