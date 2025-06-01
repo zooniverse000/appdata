@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cheetah",
+    "description": "The cheetah is an animal of the cat species.",
+    "id": "5",
+    "animalType": "Reptiles"
+  },
+  {
+    "name": "Gila monster",
+    "description": "The Gila monster is one of only a few poisonous lizards in the world.",
+    "id": "169",
+    "animalType": "Reptiles"
+  },
+  {
+    "name": "Cobra",
+    "description": "Venomous snake known for its hood.",
+    "id": "50",
+    "animalType": "Reptiles"
+  },
+  {
+    "name": "Lizard",
+    "description": "Lizards are part of a group of animals known as reptiles.",
+    "id": "52",
+    "animalType": "Reptiles"
+  },
+  {
+    "name": "Alligator",
+    "description": "An alligator, or colloquially gator, is a large reptile in the Crocodilia order in the genus Alligator of the family Alligatoridae.",
+    "id": "53",
+    "animalType": "Reptiles"
+  },
+  {
+    "name": "Komodo dragon",
+    "description": "They are powerful-looking reptiles with wide, flat heads, rounded snouts, bowed legs, and huge, muscular tails.",
+    "id": "166",
+    "animalType": "Reptiles"
+  }
+]

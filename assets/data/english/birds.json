@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Flamingo",
+    "description": "Flamingos have slender legs, long, graceful necks, large wings, and short tails.",
+    "id": "27",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Peacock",
+    "description": "The peacock is one of the most unique-looking birds in the world.",
+    "id": "13",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Hummingbird",
+    "description": "Hummingbirds, which are little, colourful birds.",
+    "id": "14",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Frigatebird",
+    "description": "Magnificent Frigatebirds are large seabirds with long, angular wings. ",
+    "id": "170",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Crane",
+    "description": "The crane is a tall, graceful, wading bird.  ",
+    "id": "171",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Cockatoo",
+    "description": "This solitary bird of northeastern Australia, New Guinea, and the Aru Islands has a threadlike erectile crest.",
+    "id": "172",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Pelican",
+    "description": "APelicans are among the largest flying birds.",
+    "id": "179",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Kookaburra",
+    "description": "Kookaburras are birds that belong to the kingfisher family. ",
+    "id": "181",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Quetzal",
+    "description": "The resplendent quetzal is a national symbol in Guatemala. Like other types of quetzal, the golden-headed quetzal has colorful feathers.",
+    "id": "186",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Umbrellabird",
+    "description": "This bird has strong legs, short feet, acute claws, broad wings, and a thick bill.",
+    "id": "194",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Barbet",
+    "description": "barbet, any of about 80 species of tropical birds constituting the family Capitonidae (order Piciformes).",
+    "id": "207",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Bulbul",
+    "description": "Bulbul bird is a medium-sized songbird. They belong to the family Pycnonotidae.",
+    "id": "209",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Falcon",
+    "description": "Falcons are birds of prey in the genus Falco, which includes about 40 species.",
+    "id": "210",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Ibis",
+    "description": "Ibises are birds with long, slender bills that curve downward.",
+    "id": "211",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Mallard",
+    "description": "Mallards are dabbling, or surface-feeding, ducks because they eat by tipping underwater for food—head down, feet and tail in the air—rather than diving.\n ",
+    "id": "213",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Gazelle",
+    "description": "A gazelle is one of many antelope species in the genus Gazella.",
+    "id": "214",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Condor",
+    "description": "condors are very large broad-winged soaring birds, ",
+    "id": "215",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Jacana",
+    "description": "The jacanas are a group of tropical waders in the family Jacanidae.  ",
+    "id": "221",
+    "animalType": "Birds"
+  },
+  {
+    "name": "Crow",
+    "description": "The crow is a highly intelligent and adaptable bird known for its black plumage, cawing calls, and widespread distribution across various habitats. ",
+    "id": "222",
+    "animalType": "Birds"
+  }
+]

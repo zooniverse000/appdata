@@ -1,0 +1,107 @@
+
+[
+  {
+    "name": "Seahorse",
+    "description": "Unique fish with a horse-like head and a tube-like body.",
+    "id": "fish_70",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Fangtooth",
+    "description": "Fangtooths are beryciform fish of the family Anoplogastridae that live in the deep sea.",
+    "id": "fish_218",
+    "animalType": "Fish"
+  },
+
+  {
+    "name": "Goldfish",
+    "description": "A popular pet fish known for its bright color and easy care.",
+    "id": "fish_001",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Clownfish",
+    "description": "Famous for their vibrant orange and white stripes, often associated with anemones.",
+    "id": "fish_002",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Atlantic salmon",
+    "description": "A fish known for its delicious taste and health benefits, especially its omega-3 fatty acids.",
+    "id": "fish_003",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Cod",
+    "description": "A popular seafood choice, often used in fish and chips.",
+    "id": "fish_004",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Tuna",
+    "description": "Another popular seafood, often eaten as sushi or in canned form.",
+    "id": "fish_005",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Bass",
+    "description": "A general term for various fish species, often found in both freshwater and saltwater environments.",
+    "id": "fish_006",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Catfish",
+    "description": "Recognizable by their whiskers, these fish are common in both freshwater and saltwater environments.",
+    "id": "fish_007",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Eel",
+    "description": "Long, snake-like fish, often found in rivers and oceans.",
+    "id": "fish_008",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Flying Fish",
+    "description": "Unique fish that can leap out of the water and glide for short distances.",
+    "id": "fish_009",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Barracuda",
+    "description": "A predatory fish with sharp teeth, found in tropical waters.",
+    "id": "fish_010",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Angelfish",
+    "description": "Brightly colored tropical fish that are popular in aquariums.",
+    "id": "fish_011",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Puffer fish",
+    "description": "A fish that can inflate its body with water to appear larger.",
+    "id": "fish_012",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Shark",
+    "description": "A large, predatory fish with a skeleton made of cartilage.",
+    "id": "fish_013",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Seahorse",
+    "description": "Unique fish with a horse-like head and a tube-like body.",
+    "id": "70",
+    "animalType": "Fish"
+  },
+  {
+    "name": "Whale Shark",
+    "description": "The largest fish in the world, a filter feeder that eats plankton.",
+    "id": "fish_015",
+    "animalType": "Fish"
+  }
+
+]

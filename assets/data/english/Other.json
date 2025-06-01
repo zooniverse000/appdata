@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Centipede",
+    "description": "Centipedes are elongated segmented (metameric) creatures with one pair of legs per body segment. ",
+    "id": "173",
+    "animalType": "Other"
+  },
+  {
+    "name": "Yeti Crab",
+    "description": "The yeti crab is a blind deep-sea crab with reduced eyes and long bristles on its body.",
+    "id": "191",
+    "animalType": "Other"
+  },
+  {
+    "name": "Moth",
+    "description": "Moths are a group of insects that includes all members of the order Lepidoptera that are not butterflies. ",
+    "id": "203",
+    "animalType": "Other"
+  },
+  {
+    "name": "Earthworm",
+    "description": "An earthworm is a soil-dwelling terrestrial invertebrate that belongs to the phylum Annelida. T ",
+    "id": "216",
+    "animalType": "Other"
+  },
+  {
+    "name": "Earwig",
+    "description": "The common earwig is an omnivore, eating plants and ripe fruit as well as actively hunting arthropods.",
+    "id": "217",
+    "animalType": "Other"
+  },
+  {
+    "name": "Insects",
+    "description": "They are the largest group within the arthropod phylum. ",
+    "id": "220",
+    "animalType": "Other"
+  }
+]

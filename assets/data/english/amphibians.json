@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Frog",
+    "description": "Frogs are small animals that can jump very well",
+    "id": "55",
+    "animalType": "Amphibians"
+  },
+  {
+    "name": "Salamander",
+    "description": "A salamander is an amphibian with a slender body and a long tail.",
+    "id": "60",
+    "animalType": "Amphibians"
+  },
+  {
+    "name": "Axolotl",
+    "description": "The axolotl is a kind of salamander found only in Mexico City, Mexico. ",
+    "id": "94",
+    "animalType": "Amphibians"
+  }
+]
