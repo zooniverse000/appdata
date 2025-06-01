@@ -1,20 +1,68 @@
+
+
 [
   {
     "name": "Frog",
-    "description": "Frogs are small animals that can jump very well",
+    "description": "Jumping champions who love water and land!",
+    "funFact": "Frogs drink water through their skin!",
+    "emoji": "🐸",
     "id": "55",
     "animalType": "Amphibians"
   },
   {
+    "name": "Toad",
+    "description": "Bumpy friends who prefer dry places.",
+    "funFact": "Toads have poison behind their eyes to protect themselves!",
+    "emoji": "🐸",
+    "id": "56",
+    "animalType": "Amphibians"
+  },
+  {
     "name": "Salamander",
-    "description": "A salamander is an amphibian with a slender body and a long tail.",
+    "description": "Lizard-like amphibians with super regeneration powers!",
+    "funFact": "They can regrow lost tails and even legs!",
+    "emoji": "🦎",
     "id": "60",
     "animalType": "Amphibians"
   },
   {
     "name": "Axolotl",
-    "description": "The axolotl is a kind of salamander found only in Mexico City, Mexico. ",
+    "description": "The forever-baby amphibian with a cute smile!",
+    "funFact": "They never grow up fully and stay underwater their whole life!",
+    "emoji": "👽",
     "id": "94",
+    "animalType": "Amphibians"
+  },
+  {
+    "name": "Newt",
+    "description": "Colorful little swimmers with bright bellies.",
+    "funFact": "Some newts are poisonous with bright colors as warning!",
+    "emoji": "🦎",
+    "id": "95",
+    "animalType": "Amphibians"
+  },
+  {
+    "name": "Caecilian",
+    "description": "Legless amphibians that look like worms or snakes!",
+    "funFact": "They have tiny eyes covered by skin – they sense vibrations instead!",
+    "emoji": "🐍",
+    "id": "96",
+    "animalType": "Amphibians"
+  },
+  {
+    "name": "Tree Frog",
+    "description": "Sticky-toed climbers who live in trees!",
+    "funFact": "Their feet work like suction cups to climb smooth leaves!",
+    "emoji": "🐸",
+    "id": "97",
+    "animalType": "Amphibians"
+  },
+  {
+    "name": "Bullfrog",
+    "description": "Big, loud frogs with deep croaks!",
+    "funFact": "They can jump 10 times their body length!",
+    "emoji": "🐸",
+    "id": "98",
     "animalType": "Amphibians"
   }
 ]

@@ -31,9 +31,11 @@
   },
   {
     "name": "Cheetah",
-    "description": "The cheetah is an animal of the cat species.",
+    "description": "Fastest land animal (but not a reptile - it's actually a big cat!)",
+    "funFact": "They can go from 0 to 60 mph in 3 seconds!",
+    "emoji": "🐆",
     "id": "5",
-    "animalType": "Mammals"
+    "animalType": "Mammal"
   },
   {
     "name": "Zebra",

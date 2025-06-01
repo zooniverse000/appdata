@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Butterfly",
+    "description": "Colorful flyers with powdery wings!",
+    "funFact": "They taste with their feet!",
+    "emoji": "🦋",
+    "id": "1",
+    "animalType": "Insect",
+    "superpower": "Can see ultraviolet colors"
+  },
+  {
+    "name": "Honeybee",
+    "description": "Busy buzzy makers of sweet honey!",
+    "funFact": "They do a 'waggle dance' to talk to friends!",
+    "emoji": "🐝",
+    "id": "2",
+    "animalType": "Insect",
+    "importance": "Pollinates 1/3 of our food"
+  },
+  {
+    "name": "Ladybug",
+    "description": "Red spotted garden helpers!",
+    "funFact": "Their spots fade as they get older!",
+    "emoji": "🐞",
+    "id": "3",
+    "animalType": "Insect",
+    "defense": "Bleeds stinky liquid when scared"
+  },
+  {
+    "name": "Dragonfly",
+    "description": "Helicopter insects with giant eyes!",
+    "funFact": "They were around with dinosaurs!",
+    "emoji": "🐉",
+    "id": "4",
+    "animalType": "Insect",
+    "speed": "Can fly 35 mph!"
+  },
+  {
+    "name": "Ant",
+    "description": "Tiny strong workers who lift 50x their weight!",
+    "funFact": "They farm aphids like we farm cows!",
+    "emoji": "🐜",
+    "id": "5",
+    "animalType": "Insect",
+    "teamwork": "Superorganism colonies"
+  },
+  {
+    "name": "Grasshopper",
+    "description": "Springy jumpers with musical legs!",
+    "funFact": "Their ears are on their belly!",
+    "emoji": "🦗",
+    "id": "6",
+    "animalType": "Insect",
+    "jump": "Can leap 20x their length"
+  },
+  {
+    "name": "Firefly",
+    "description": "Night-time twinklers with glowing bottoms!",
+    "funFact": "Their light doesn't make heat!",
+    "emoji": "✨",
+    "id": "7",
+    "animalType": "Insect",
+    "glow": "Bioluminescence magic"
+  },
+  {
+    "name": "Mosquito",
+    "description": "Buzzy biters who love your skin!",
+    "funFact": "Only girl mosquitoes bite!",
+    "emoji": "🦟",
+    "id": "8",
+    "animalType": "Insect",
+    "science": "World's deadliest animal"
+  }
+]

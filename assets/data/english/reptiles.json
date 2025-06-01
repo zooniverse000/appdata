@@ -1,0 +1,59 @@
+[
+
+  {
+    "name": "Gila Monster",
+    "description": "One of only two poisonous lizards in the world!",
+    "funFact": "Their bright colors warn predators to stay away!",
+    "emoji": "🦎",
+    "id": "169",
+    "animalType": "Reptile"
+  },
+  {
+    "name": "Cobra",
+    "description": "Hood-flaring snake that can stand up tall!",
+    "funFact": "Some cobras can spit venom up to 6 feet away!",
+    "emoji": "🐍",
+    "id": "50",
+    "animalType": "Reptile"
+  },
+  {
+    "name": "Lizard",
+    "description": "Sun-loving reptiles with sticky feet!",
+    "funFact": "Many lizards can detach their tails to escape predators!",
+    "emoji": "🦎",
+    "id": "52",
+    "animalType": "Reptile"
+  },
+  {
+    "name": "Alligator",
+    "description": "Big armored swimmers with powerful jaws!",
+    "funFact": "Baby alligators make squeaky sounds like dog toys!",
+    "emoji": "🐊",
+    "id": "53",
+    "animalType": "Reptile"
+  },
+  {
+    "name": "Komodo Dragon",
+    "description": "Giant lizards as long as a car!",
+    "funFact": "They can smell food from 5 miles away!",
+    "emoji": "🐉",
+    "id": "166",
+    "animalType": "Reptile"
+  },
+  {
+    "name": "Turtle",
+    "description": "Slow walkers with portable homes!",
+    "funFact": "A turtle's shell is part of its skeleton!",
+    "emoji": "🐢",
+    "id": "201",
+    "animalType": "Reptile"
+  },
+  {
+    "name": "Chameleon",
+    "description": "Color-changing lizards with telescope eyes!",
+    "funFact": "Their tongues are longer than their bodies!",
+    "emoji": "🦎",
+    "id": "202",
+    "animalType": "Reptile"
+  }
+]
